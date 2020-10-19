@@ -670,6 +670,7 @@ header {
     .profile-img {
         width: 250px;
         height: 250px;
+        border-radius: 15px;
     }
     .profile-name {
         margin-top: 20px;
@@ -720,8 +721,12 @@ header {
 }
 
 .author-profile-img {
-    width: 275px;
-    height: 275px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0 0 8px 8px white inset;
+    padding: 8px;
+    border-radius: 15px;
+    margin-bottom: 45px;
 }
 
 .blog-post {
