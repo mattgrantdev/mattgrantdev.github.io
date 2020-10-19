@@ -10,8 +10,9 @@ layout: default
       </a>
       <h1 class="profile-name">{{ site.title }}</h1>
       <p class="profile-bio">{{ site.subtitle }}</p>
-      {% if site.github_username %} {%- include github_follow_button.html -%} {%
-      endif %}
+      {% if site.github_username %}
+        {%- include github_follow_button.html -%}
+      {% endif %}
 
       <p class="profile-links">
         {% if site.twitter_username %}
@@ -41,13 +42,6 @@ layout: default
           href="http://medium.com/@{{ site.medium_username }}"
         >
           <i class="fab fa-medium-m"></i>
-        </a>
-        {% endif %} {% if site.github_username %}
-        <a
-          class="social-link"
-          href="http://github.com/{{ site.github_username }}"
-        >
-          <i class="fab fa-github"></i>
         </a>
         {% endif %} {% if site.behance_username %}
         <a

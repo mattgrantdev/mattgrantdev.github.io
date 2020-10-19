@@ -1,5 +1,5 @@
 title: Matt Grant
-subtitle: A heap of information about a goofy developer
+subtitle: A Developer's Personal Website
 description: >- # this means to ignore newlines until "baseurl:"
   The majority of the information on this personal website will be about my coding knowledge;
   however, it also contains some spicy content that encapsulates some of my other interests.
@@ -38,9 +38,12 @@ author_work_experiences:
     company_url: https://sdocs.com
     designation: Software Engineer
     time_period_at_company: Summer 2019 - Present
-    description:
+    description: >
       Working with the Full Stack of Salesforce, 
-      with a strong focus on Product Quality
+      with a current focus on Product Quality.
+      Work on small to large tickets often involving
+      client communication to better improve the
+      Salesforce packages: S-Docs & S-Sign.
     visibility: true
   - company_name: Target
     company_logo: target_logo.png
@@ -109,6 +112,7 @@ permalink: pretty
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: false
+show_weekly_newsletters_section: false
 
 # pagination of posts
 paginate: 4
