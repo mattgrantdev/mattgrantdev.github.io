@@ -1,0 +1,23 @@
+icon_path: skills/known-languages
+language_icons:
+  - title: Java
+    filename: java_logo.png
+  - title: C++
+    filename: c++_logo.png
+  - title: Python
+    filename: python_logo.png
+  - title: HTML5
+    filename: html_logo.png
+  - title: CSS3
+    filename: css_logo.png
+  - title: JavaScript
+    filename: js_logo.png
+  - title: C
+    filename: c_logo.png
+  - title: XML
+    filename: xml_logo.png
+  - title: JSON
+    filename: json_logo.png
+  - title: Markdown
+    filename: markdown_logo.png
+  

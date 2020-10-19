@@ -1,0 +1,8 @@
+icon_path: skills/frameworks-systems
+framework_system_icons:
+  - title: Salesforce
+    filename: salesforce_logo.png
+  - title: Amazon Web Services
+    filename: aws_logo.png
+  - title: Spring Framework
+    filename: spring_logo.png

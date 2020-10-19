@@ -1201,6 +1201,17 @@ footer {
      }
  }
 
+ /* About Me - Skills section */
+ .skills_wrapper_div {
+    flex-direction: row;
+ }
+ 
+ .skills_wrapper_div img {
+    width: 48px;
+    height: 48px;
+    margin: 8px;
+ }
+
  /* Syntax Hightlighter */
  .highlight pre { background-color: #212529; padding: 20px;}
 .highlight .hll { background-color: #272822; }

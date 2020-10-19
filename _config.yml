@@ -1,5 +1,5 @@
 title: Matt Grant
-subtitle: A heap of information about a goofy developer
+subtitle: A Developer's Personal Website
 description: >- # this means to ignore newlines until "baseurl:"
   The majority of the information on this personal website will be about my coding knowledge;
   however, it also contains some spicy content that encapsulates some of my other interests.
@@ -7,6 +7,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://mattgrantumich.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "/" # the subpath of your site, e.g. /blog
 
+# NOTE: Uncomment any of these tabs if you need to see the related content for an example
+# IF YOU ARE GOING TO DELETE A TAB, make sure all related content is also removed for clean code purposes
 urls:
     - text: About Me
       url: /about
@@ -18,10 +20,10 @@ urls:
     #  url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+    # - text: Styleguide
+    #  url: /styleguide
+    # - text: Get Started
+    #  url: /get-started
 
 # Edit these details
 
@@ -30,7 +32,7 @@ author: Matt Grant
 author_bio: Hi, welcome to my site I built using devlopr-jekyll!
 author_email: "mattgra@umich.edu"
 author_location: Ann Arbor, MI
-typewrite-text: Sure do like pumpkins, Cotton
+typewrite-text: I sure do like pumpkins, Cotton
 
 author_work_experiences:
   - company_name: S-Docs
@@ -38,9 +40,12 @@ author_work_experiences:
     company_url: https://sdocs.com
     designation: Software Engineer
     time_period_at_company: Summer 2019 - Present
-    description:
+    description: >
       Working with the Full Stack of Salesforce, 
-      with a strong focus on Product Quality
+      with a current focus on Product Quality.
+      Work on small to large tickets often involving
+      client communication to better improve the
+      Salesforce packages: S-Docs & S-Sign.
     visibility: true
   - company_name: Target
     company_logo: target_logo.png
@@ -82,7 +87,7 @@ author_project_details:
 
 
 # social links
-twitter_username: 410TubaV2
+# I should probably tweet a little first...... twitter_username: 410TubaV2
 github_username:  MattGrantUmich
 linkedin_username: matthew-grant-ab5006112
 
@@ -109,6 +114,8 @@ permalink: pretty
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: false
+show_weekly_newsletters_section: false
+show_recent_articles_section: false
 
 # pagination of posts
 paginate: 4
