@@ -1,0 +1,6 @@
+icon_path: skills/languages-learning
+language_icons:
+  - title: Rust
+    filename: rust_logo.png
+  - title: Ruby
+    filename: ruby_logo.png

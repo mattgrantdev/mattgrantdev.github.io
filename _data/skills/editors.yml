@@ -1,0 +1,8 @@
+icon_path: skills/editors
+editor_icons:
+  - title: Visual Studio Code
+    filename: vscode_logo.png
+  - title: Sublime Text 3
+    filename: sublime_logo.png
+  - title: IntelliJ IDEA
+    filename: intellij_logo.png

@@ -90,7 +90,13 @@ layout: default
     <div class="card">
       <h1>Skills</h1>
 
-      {%- include author_skills.html -%}
+      {%-
+        include author_skills.html
+        known-languages = site.data.skills.known-languages
+        languages-learning = site.data.skills.languages-learning
+        frameworks-systems = site.data.skills.frameworks-systems
+        editors = site.data.skills.editors
+      -%}
     </div>
 
     {% if site.wakatime_username %}
