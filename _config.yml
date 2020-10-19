@@ -29,7 +29,11 @@ urls:
 
 author_logo: profile.png
 author: Matt Grant
-author_bio: Hi, welcome to my site I built using devlopr-jekyll!
+author_bio: >-
+  Hi, welcome to my site I built using devlopr-jekyll!
+
+  I will be sure to fill this out when I come up with a good enough bio!
+
 author_email: "mattgra@umich.edu"
 author_location: Ann Arbor, MI
 typewrite-text: I sure do like pumpkins, Cotton
