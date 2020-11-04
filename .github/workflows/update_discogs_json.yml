@@ -24,8 +24,12 @@ jobs:
 
       # Updates the JSON for Matt Grant's Discogs Vinyl Wantlist
       - name: Update Discogs Wantlist
-        run: curl https://api.discogs.com/users/mattgra/wants -o _data/vinyl/wantlist.json
+        env:
+          DISCOGS_API_KEY: ${{ secrets.DISCOGS_API_KEY }}
+        run: curl https://api.discogs.com/users/mattgra/wants?token=%DISCOGS_API_KEY% -o _data/vinyl/wantlist.json
 
       # Updates the JSON for Matt Grant's Discogs Vinyl Collection
       - name: Update Discogs Collection
-        run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases -o _data/vinyl/collection.json
+        env:
+          DISCOGS_API_KEY: ${{ secrets.DISCOGS_API_KEY }}
+        run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=%DISCOGS_API_KEY% -o _data/vinyl/collection.json
