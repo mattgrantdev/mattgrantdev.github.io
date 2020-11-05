@@ -25,13 +25,11 @@ jobs:
         shell: bash
         env:
           DISCOGS_API_KEY: ${{ secrets.DISCOGS_API_KEY }}
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-        run: curl https://api.discogs.com/users/mattgra/wants?token=$DISCOGS_API_KEY -o _data/vinyl/wantlist.json
+        run: curl https://api.discogs.com/users/mattgra/wants?token=$DISCOGS_API_KEY --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' -o _data/vinyl/wantlist.json
 
       # Updates the JSON for Matt Grant's Discogs Vinyl Collection
       - name: Update Discogs Collection
         shell: bash
         env:
           DISCOGS_API_KEY: ${{ secrets.DISCOGS_API_KEY }}
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-        run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=$DISCOGS_API_KEY -o _data/vinyl/collection.json
+        run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=$DISCOGS_API_KEY --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' -o _data/vinyl/collection.json
