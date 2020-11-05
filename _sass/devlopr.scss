@@ -1030,6 +1030,47 @@ footer {
     line-height: 20px !important;
 }
 
+.records {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 6%;
+}
+
+.records td, #records th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.records tr:nth-child(odd){background-color: white;}
+.records tr:nth-child(even){background-color: #f2f2f2;}
+
+.records tr:hover {background-color: #ddd;}
+
+.records th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #29AAE2;
+  color: white;
+}
+
+.records_img {
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+    width: 100px !important;
+    text-align: center;
+    margin: auto;
+}
+
+.records_img img {
+    width: 100%;
+}
+
+.vinyl-container {
+    width: 80%;
+    margin: 3% 10%;
+}
+
  .switch {
      position: relative;
      width: 80px;
