@@ -1,25 +1,27 @@
 title: Matt Grant
-subtitle: A Developer's Personal Website
+subtitle: A Goofy Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   The majority of the information on this personal website will be about my coding knowledge;
   however, it also contains some spicy content that encapsulates some of my other interests.
 
 url: "https://mattgrantumich.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # NOTE: Uncomment any of these tabs if you need to see the related content for an example
 # IF YOU ARE GOING TO DELETE A TAB, make sure all related content is also removed for clean code purposes
 urls:
     - text: About Me
       url: /about
-    #- text: Blog
-    #  url: /blog
+    - text: Blog
+      url: /blog
+    - text: Vinyl
+      url: /vinyl
+    - text: Contact Me
+      url : /contact
     #- text: Gallery
     #  url: /gallery
     #- text: Shop
     #  url : /shop
-    - text: Contact Me
-      url : /contact
     # - text: Styleguide
     #  url: /styleguide
     # - text: Get Started
@@ -30,9 +32,11 @@ urls:
 author_logo: profile.png
 author: Matt Grant
 author_bio: >-
-  Hi, welcome to my site I built using devlopr-jekyll!
+  Hello World! Welcome to my personal website!
 
-  I will be sure to fill this out when I come up with a good enough bio!
+  Here you will be able to find information about my coding knowledge.
+  On top of that, you will also be able to find some 🌶️ spicy 🌶️ content that
+  encapsulates some of my other interests.
 
 author_email: "mattgra@umich.edu"
 author_location: Ann Arbor, MI
@@ -76,7 +80,9 @@ author_education_details:
   - college_logo: michigan-engineering_logo.jpg
     college_name: University of Michigan
     college_url: https://umich.edu
-    college_degree: Computer Science Engineering (Minor in Business & Music)
+    college_degree: Computer Science Engineering
+    college_graduation_month: May 2019
+    college_minors: Minor in Business & Music
     description: Bachelor of Science
     visibility: true
 
