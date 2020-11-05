@@ -25,14 +25,20 @@ jobs:
           shell: bash
           env:
             DISCOGS_API_KEY: ${{ secrets.DISCOGS_API_KEY }}
-          run: curl https://api.discogs.com/users/mattgra/wants?token=$DISCOGS_API_KEY -o _data/vinyl/wantlist.json
-
+          run: curl \
+            https://api.discogs.com/users/mattgra/wants?token=$DISCOGS_API_KEY \
+            -o _data/vinyl/collection.json \
+            | json_pp
+        
         # Updates the JSON for Matt Grant's Discogs Vinyl Collection
         - name: Update Discogs Collection
           shell: bash
           env:
             DISCOGS_API_KEY: ${{ secrets.DISCOGS_API_KEY }}
-          run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=$DISCOGS_API_KEY -o _data/vinyl/collection.json
+          run: curl \
+            https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=$DISCOGS_API_KEY \
+            -o _data/vinyl/collection.json \
+            | json_pp
         
         - name: Update JSON files
           uses: test-room-7/action-update-file@v1.4.0
