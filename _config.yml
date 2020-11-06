@@ -18,14 +18,8 @@ urls:
       url: /vinyl
     - text: Contact Me
       url : /contact
-    #- text: Gallery
-    #  url: /gallery
-    #- text: Shop
-    #  url : /shop
     # - text: Styleguide
     #  url: /styleguide
-    # - text: Get Started
-    #  url: /get-started
 
 # Edit these details
 
@@ -101,16 +95,8 @@ author_project_details:
 github_username:  MattGrantUmich
 linkedin_username: mattgrantumich
 
-#for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
-
-# disqus_shortname: sujay-kundu
-# hyvor_talk_website_id: 476
-
 # wakatime username (coding activity)
 wakatime_username: mattgrantumich
-
-# mailchimp embedded form url (newsletter):
-# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
 formspree_email: maylowlo
@@ -124,7 +110,6 @@ permalink: pretty
 show_author_work_experiences: true
 show_author_education_details: true
 show_author_project_details: false
-show_weekly_newsletters_section: false
 show_recent_articles_section: false
 
 # pagination of posts
@@ -147,18 +132,6 @@ paginate_path: "/blog/page/:num/"
 #   layout: archive
 #   permalinks:
 #     category: '/category/:name/'
-
-# Shop
-# collections:
-# - products
-
-# Gallery
-# defaults:
-#   -
-#     scope:
-#       path: "gallery"
-#     values:
-#       permalink: /:path/:basename:output_ext
 
 # Build settings
 plugins:
