@@ -7,7 +7,7 @@ date: '2020-11-01 10:00:00 -0500'
 category: WFH
 thumbnail: /assets/img/posts/spooky_me.jpg
 keywords: work from home, working from home, the office
-permalink: /blog/welcome-to-devlopr-jekyll
+permalink: /blog/note-to-future-of-wfh
 ---
 
 For many of those in the tech industry, as we enter the now eigth month of working from home, I think it is a good idea to reflect a bit on the concept of working from home as a whole.
