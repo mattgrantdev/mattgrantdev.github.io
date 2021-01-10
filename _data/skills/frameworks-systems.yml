@@ -2,7 +2,13 @@ icon_path: skills/frameworks-systems
 framework_system_icons:
   - title: Salesforce
     filename: salesforce_logo.png
+  - title: React
+    filename: react_logo.png
   - title: Amazon Web Services
     filename: aws_logo.png
   - title: Spring Framework
     filename: spring_logo.png
+  - title: Jest
+    filename: jest_logo.png
+  - title: Prettier
+    filename: prettier_logo.png
