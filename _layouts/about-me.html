@@ -19,6 +19,7 @@ layout: default
         <a
           class="social-link"
           href="http://twitter.com/{{ site.twitter_username }}"
+          target="_blank"
         >
           <i class="fab fa-twitter"></i>
         </a>
@@ -26,6 +27,7 @@ layout: default
         <a
           class="social-link"
           href="http://facebook.com/{{ site.facebook_username }}"
+          target="_blank"
         >
           <i class="fab fa-facebook-f"></i>
         </a>
@@ -33,6 +35,7 @@ layout: default
         <a
           class="social-link"
           href="http://instagram.com/{{ site.instagram_username }}"
+          target="_blank"
         >
           <i class="fab fa-instagram"></i>
         </a>
@@ -40,6 +43,7 @@ layout: default
         <a
           class="social-link"
           href="http://medium.com/@{{ site.medium_username }}"
+          target="_blank"
         >
           <i class="fab fa-medium-m"></i>
         </a>
@@ -47,6 +51,7 @@ layout: default
         <a
           class="social-link"
           href="http://behance.net/{{ site.behance_username }}"
+          target="_blank"
         >
           <i class="fab fa-behance"></i>
         </a>
@@ -54,6 +59,7 @@ layout: default
         <a
           class="social-link"
           href="http://linkedin.com/in/{{ site.linkedin_username }}"
+          target="_blank"
         >
           <i class="fab fa-linkedin-in"></i>
         </a>
@@ -61,6 +67,7 @@ layout: default
         <a
           class="social-link"
           href="https://open.spotify.com/user/{{ site.spotify_username }}"
+          target="_blank"
         >
           <i class="fab fa-spotify"></i>
         </a>
@@ -68,17 +75,19 @@ layout: default
         <a
           class="social-link"
           href="https://soundcloud.com/{{ site.soundcloud_username }}"
+          target="_blank"
         >
           <i class="fab fa-soundcloud"></i>
         </a>
         {% endif %} {% if site.telegram_username %}
-        <a class="social-link" href="http://t.me/{{ site.telegram_username }}">
+        <a class="social-link" href="http://t.me/{{ site.telegram_username }}" target="_blank">
           <i class="fab fa-telegram-plane"></i>
         </a>
         {% endif %} {% if site.dribbble_username %}
         <a
           class="social-link"
           href="https://dribbble.com/{{ site.dribbble_username }}"
+          target="_blank"
         >
           <i class="fab fa-dribbble"></i>
         </a>
@@ -86,6 +95,7 @@ layout: default
         <a
           class="social-link"
           href="https://www.flickr.com/photos/{{ site.flickr_username }}"
+          target="_blank"
         >
           <i class="fab fa-flickr"></i>
         </a>
@@ -181,7 +191,7 @@ layout: default
         <div class="col-md-6">
           <img
             src="{{site.url}}{{site.baseurl}}/assets/img/{{project.project_thumbnail}}"
-            class="project-img author-profile-img"
+            class="project-img"
           />
         </div>
         <div class="col-md-4 center">

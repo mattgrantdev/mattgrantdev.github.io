@@ -1,5 +1,5 @@
 title: Matt Grant
-subtitle: A Software Engineer
+subtitle: Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
   The majority of the information on this personal website will be about my coding knowledge;
   however, it also contains some spicy content that encapsulates some of my other interests.
@@ -85,15 +85,7 @@ author_education_details:
     visibility: true
 
 author_project_details:
-  - project_thumbnail: profile.png
-    project_title: My Personal Website
-    project_description: >-
-      This very webiste has seen many
-      additions over the past few months and will continue to be
-      developed on. My goal is of course to build an easy-to-navigate
-      source for the minutia of my life. I think it's not bad so far!
-    visibility: true
-  - project_thumbnail: spotify_logo.png
+  - project_thumbnail: goldify_logo.png
     project_title: Goldify
     project_description: >-
       A Spotify API based React application which
@@ -102,6 +94,14 @@ author_project_details:
       Material UI standards, and is built as a responsive
       application.
     visibility: true
+  - project_thumbnail: profile.png
+    project_title: My Personal Website
+    project_description: >-
+      This very webiste has seen many
+      additions over the past few months and will continue to be
+      developed on. My goal is of course to build an easy-to-navigate
+      source for the minutia of my life. I think it's not bad so far!
+    visibility: false
 
 
 
