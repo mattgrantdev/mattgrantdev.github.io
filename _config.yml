@@ -87,6 +87,7 @@ author_education_details:
 author_project_details:
   - project_thumbnail: goldify_logo.png
     project_title: Goldify
+    project_url: https://github.com/Goldify/Goldify
     project_description: >-
       A Spotify API based React application which
       helps you to build a golden playlist of your top songs!
@@ -96,6 +97,7 @@ author_project_details:
     visibility: true
   - project_thumbnail: profile.png
     project_title: My Personal Website
+    project_url: https://github.com/MattGrantUMich/MattGrantUmich.github.io
     project_description: >-
       This very webiste has seen many
       additions over the past few months and will continue to be
