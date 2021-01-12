@@ -10,7 +10,7 @@ permalink: /my-spotify/
 </h1>
 <hr />
 <div style="text-align:center">
-    Spotify has served as an important application in my expereince in music immersion and discovery.
+    Spotify has served as an important application in my experience in music immersion and discovery.
     I wanted to share with you the playlists I have created and will always be adding to. These playlists
     each serve a pretty strong purpose, and each one has a completely different vibe. Maybe you'll find some
     bops. No matter the case, I hope you enjoy.
