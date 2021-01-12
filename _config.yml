@@ -12,28 +12,29 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: About Me
       url: /about
-    - text: Blog
-      url: /blog
     - text: Vinyl
       url: /vinyl
+    - text: My Spotify
+      url: /my-spotify
+    - text: Blog
+      url: /blog
     - text: Contact Me
       url : /contact
-    # - text: Styleguide
-    #  url: /styleguide
 
 # Edit these details
 
 author_logo: profile.png
 author: Matt Grant
 author_bio: >-
-  Hello World! My name is Matt Grant, and I am a Software Engineer 
-  based in Ann Arbor. I have been coding since my high school days, 
-  and it has been a passion of mine ever since. Outisde of the beep 
-  boops, I have a love for music in general. I play the tuba, am 
-  picking up the piano, and am of course a high quality melodica 
-  player (this is just not true). To add, I am a bit of an audiophile
-  (see Vinyl tab). Feel free to take a look around my
-  website, I hope you are able to find some 🌶️ spicy 🌶️ content.
+  Hello World! My name is Matt Grant, and I am a Software Engineer based in Ann Arbor.
+  I have been coding since my high school days, and it has been a passion of mine ever
+  since. Outside of the beep boops, I have an adoration for music in general. I play the
+  tuba, am picking up the piano, and am  definitely a high-quality melodica player
+  (this one is just not true). To add, I am a bit of an audiophile (see Vinyl tab).
+  Feel free to take a look around my personal website, I hope you are able to find
+  some 🌶️ spicy 🌶️, quality content.
+
+
   
 
 author_email: "mattgrantumich@gmail.com"
@@ -47,11 +48,10 @@ author_work_experiences:
     designation: Software Engineer
     time_period_at_company: Summer 2019 - Present
     description: >
-      Developing on the Full Stack of Salesforce, 
-      with a current focus on Product Quality.
-      Producing stronger code, increasing algorithmic
-      efficiency, and working with a variety of Salesforce tools
-      to continuously improve the App Exchange packages: S-Docs & S-Sign.
+      Developing product enhancements, feature requests, and algorithmic efficiencies
+      on Salesforce's Full Stack to improve upon our two App Exchange packages:
+      S-Docs & S-Sign. Beyond this, I am also an active member of the Product Quality
+      Team, Dev Hiring Team, and S-Docs Culture Team.
     visibility: true
   - company_name: Target
     company_logo: target_logo.png
@@ -59,9 +59,10 @@ author_work_experiences:
     designation: Software Engineer Intern
     time_period_at_company: Summer 2018
     description:
-      Took on various projects within the Clearance Pricing
-      team, with a focus on Java development within the
-      Spring Framework.
+      Constructed a RESTful API to efficiently summarize sales forecasting data in a
+      matter of seconds. To improve data retrieval speeds hundredfold, I integrated
+      threading into outgoing requests. This project was demo’d by me to Target’s
+      CTO as well as the Clearance Sales Team.
     visibility: true
   - company_name: U-M Information and Technology Services
     company_logo: michigan-its_logo.png
@@ -69,9 +70,9 @@ author_work_experiences:
     designation: Software Engineer Intern
     time_period_at_company: Summer 2017
     description:
-      Developed a new Automated Testing system within
-      the team's .NET codebase, as well as updated old
-      HTML pages to have a new, slicker look.
+      Created a large suite of Automated Test Classes to be added into the team’s CI/CD
+      pipeline within the .NET codebase. Concurrently upgraded a heap of HTML pages to be
+      responsive and have better style via Bootstrap and improved CSS.
     visibility: true
 
 author_education_details:
@@ -89,11 +90,10 @@ author_project_details:
     project_title: Goldify
     project_url: https://github.com/Goldify/Goldify
     project_description: >-
-      A Spotify API based React application which
-      helps you to build a golden playlist of your top songs!
-      This project maintains 100% test coverage, uses
-      Material UI standards, and is built as a responsive
-      application.
+      A Spotify API based React application which allows users
+      to efficiently create the perfect personal Spotify playlist!
+      This project maintains 100% test coverage, uses Material UI
+      standards, and is built as a responsive application.
     visibility: true
   - project_thumbnail: profile.png
     project_title: My Personal Website
