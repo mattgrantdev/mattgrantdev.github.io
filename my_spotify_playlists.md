@@ -6,7 +6,7 @@ permalink: /my-spotify/
 ---
 
 <h1 class="text-center">
-    <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:mgrant35&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>  My Spotify Playlist Showcase
+    My Spotify Playlist Showcase
 </h1>
 <hr />
 <div style="text-align:center">
@@ -15,8 +15,11 @@ permalink: /my-spotify/
     each serve a pretty strong purpose, and each one has a completely different vibe. Maybe you'll find some
     bops. No matter the case, I hope you enjoy.
 </div>
-
 <hr />
+
+<div style="width:100%;text-align:center;">
+    <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:mgrant35&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;margin:auto;" allowtransparency="true"></iframe>
+</div>
 
 <br />
 
@@ -31,13 +34,13 @@ permalink: /my-spotify/
 </div>
 
 <div class="spotify-widget-wrapper">
+    <iframe class="spotify-widget" src="https://open.spotify.com/embed/playlist/4qiYdfQB8hnpesa784eqTm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     <div class="spotify-widget-description description-left">
         <h3>Energy</h3>
         <span>
             Whether it be me going deep into a coding session, going for a brisk run, or playing Rocket League, it’s time to pull out this adrenaline-pumping playlist. All gas no brakes, these bars and intense beats will mold something amazing.
         </span>
     </div>
-    <iframe class="spotify-widget" src="https://open.spotify.com/embed/playlist/4qiYdfQB8hnpesa784eqTm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="spotify-widget-wrapper">
@@ -51,6 +54,7 @@ permalink: /my-spotify/
 </div>
 
 <div class="spotify-widget-wrapper">
+    <iframe class="spotify-widget" src="https://open.spotify.com/embed/playlist/4CKW6NWIqz5lBxgvgMqtSu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     <div class="spotify-widget-description description-left">
         <h3>Doin Fine</h3>
         <span>
@@ -59,7 +63,6 @@ permalink: /my-spotify/
             cause when the tough times hit, they'll be your homies.
         </span>
     </div>
-    <iframe class="spotify-widget" src="https://open.spotify.com/embed/playlist/4CKW6NWIqz5lBxgvgMqtSu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="spotify-widget-wrapper">
@@ -82,13 +85,13 @@ permalink: /my-spotify/
 <br />
 
 <div class="spotify-widget-wrapper">
+    <iframe class="spotify-widget" src="https://open.spotify.com/embed/playlist/5w3bXWZHnqEIoTERIJbAOy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     <div class="spotify-widget-description description-left">
         <h3>Marvelous & Evil</h3>
         <span>
             Inspired by the Radiohead playlist 0110. You can set your playback crossfade to 10 seconds, and enjoy this crossover of Tally Hall's two albums, Marvin's Marvelous Mechanical Museum and Good & Evil.
         </span>
     </div>
-    <iframe class="spotify-widget" src="https://open.spotify.com/embed/playlist/5w3bXWZHnqEIoTERIJbAOy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="spotify-widget-wrapper">

@@ -4,7 +4,7 @@ title:  "Aunty Donna's Big Ol' House of Golden Content"
 summary: Hilarious, creative, and perfectly crafted. Aunty Donna hit it out of the park with this one.
 author: Matt Grant
 date: '2021-01-11 10:00:00 -0500'
-category: misc
+category: Review
 thumbnail: /assets/img/posts/aunty_donna_cover.jpg
 keywords: aunty donna, tv series, netflix
 permalink: /blog/aunty-donna-is-pure-gold
