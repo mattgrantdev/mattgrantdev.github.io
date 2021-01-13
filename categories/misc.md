@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews
-permalink: /blog/categories/reviews/
+permalink: /blog/categories/Review/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
