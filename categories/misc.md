@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Miscellaneous
-permalink: /blog/categories/misc/
+title: Reviews
+permalink: /blog/categories/reviews/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
 
 <div class="card">
-{% for post in site.categories.misc %}
+{% for post in site.categories.Review %}
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </div>
