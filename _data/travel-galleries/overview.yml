@@ -1,0 +1,28 @@
+-
+  title: New York City - Jan 2019
+  directory: nyc
+  preview:
+    original: 4.jpg
+    sizes:
+    - 4.jpg
+-
+  title: Cancún - Mar 2019
+  directory: cancun
+  preview:
+    original: 21.jpg
+    sizes:
+    - 21.jpg
+-
+  title: Amsterdam - May 2019
+  directory: amsterdam
+  preview:
+    original: 9.jpg
+    sizes:
+    - 9.jpg
+-
+  title: Hamburg - May 2019
+  directory: hamburg
+  preview:
+    original: 13.jpg
+    sizes:
+    - 13.jpg

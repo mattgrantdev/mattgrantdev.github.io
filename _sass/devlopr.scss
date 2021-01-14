@@ -249,8 +249,9 @@ header {
     background-color: #000 !important;
     border: 1px solid #020305 !important;
     border-radius: .25rem;
-    max-width: 100%;
+    width: calc(100% - 30px);
     height: auto;
+    max-width: 300px !important;
     margin: 15px;
 }
 

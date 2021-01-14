@@ -1,0 +1,24 @@
+---
+layout: travel-gallery
+title: Travel Gallery
+permalink: /travel-gallery/
+---
+
+<div>
+  <div class="row">
+    {% for gallery in site.data.travel-galleries.overview %}
+      <div class="card">
+        <div class="card-title">{{gallery.title}}</div>
+        <div class="row">
+          <a href="{{ site.url }}{{ site.baseurl }}/travel-gallery/{{ gallery.directory }}.html">
+            <img
+              class="img-thumbnail"
+              alt="{{ gallery.title }}"
+              src="{{ site.url }}{{ site.baseurl }}/assets/img/gallery/{% if gallery.picture_path %}{{ gallery.picture_path }}{% else %}{{ gallery.directory }}{% endif %}/{{ gallery.preview.original }}"
+            />
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
