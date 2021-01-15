@@ -16,6 +16,8 @@ urls:
       url: /vinyl
     - text: My Spotify
       url: /my-spotify
+    - text: Gallery
+      url: /travel-gallery
     - text: Blog
       url: /blog
     - text: Contact Me
@@ -135,6 +137,13 @@ show_recent_articles_section: false
 paginate: 4
 per_page: 4
 paginate_path: "/blog/page/:num/"
+
+defaults:
+  -
+    scope:
+      path: "travel-gallery"
+    values:
+      permalink: /:path/:basename:output_ext
 
 # minify
 # compress_html:
