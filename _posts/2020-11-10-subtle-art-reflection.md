@@ -4,10 +4,10 @@ title:  "A Subtle Reflection"
 summary: What this intresting, orange book did for me and my way of thinking.
 author: Matt Grant
 date: '2020-11-10 6:00:00 -0500'
-category: Review
+category: review
 thumbnail: /assets/img/posts/subtle_art_banner.png
 keywords: books, self-help, ease of mind
-permalink: /blog/welcome-to-devlopr-jekyll
+permalink: /blog/a-subtle-reflection
 ---
 
 It is not often that I read in my free time, but this book has helped me start getting more into reading again. Not because it encourages people to read within its content; rather, this is due to it being a pretty interesting read.

@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol, ul {
+    margin-left: 30px !important;
+}
+
+body {
+    background-color: var(--main-background-color) !important;
+    color: var(--main-text-color) !important;
+    font-family: 'Quicksand', sans-serif !important;
+    font-feature-settings: "kern"on;
+    font-size: 1.4rem;
+    font-variant-numeric: oldstyle-nums;
+    hanging-punctuation: first last;
+    height: 100%;
+    line-height: 1.35em;
+    margin: 0;
+    text-rendering: optimizeLegibility;
+    padding-top:33px;
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+pre {
+    display: block;
+    font-size: 87.5%;
+    color: #d4d4d4 !important;
+}
+
+blockquote {
+    margin: 2rem 1rem 1rem;
+    padding: 3px;
+    background: var(--main-background-color) !important;
+    border: 1px solid;
+    color: var(--bold-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--bold-color) !important;
+  line-height: 1.1;
+}
+
+a {
+    color: var(--link-color) !important;
+}

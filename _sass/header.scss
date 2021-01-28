@@ -1,0 +1,40 @@
+#topNav {
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: var(--main-background-color) !important;
+    box-shadow: #000 0px 0px 8px;
+}
+
+#navbar-hamburger, #navbar-search {
+    color: var(--bold-color) !important;
+}
+
+.navbar-brand {
+    color: #ff7601 !important;
+}
+
+.navbar-nav .nav-link {
+    color: var(--nav-link-color) !important;
+}
+
+.navbar-toggler {
+    border-color:transparent !important;
+}
+
+.navbar-brand-img {
+    width: 50px;
+    height: 50px;
+}
+
+header {
+    background-color: var(--main-background-color);
+    box-shadow:0px;
+    height: auto;
+    width: 100%;
+    padding: 11px;
+}
+
+/* Progress bar */
+.my-class .bar {
+    background: #f69801;
+}

@@ -1,0 +1,117 @@
+/* Github Follow Button */
+.widget-lg .btn, .widget-lg .social-count {
+    height: 35px !important;
+    padding: 10px 30px 1px !important;
+    font-size: 15px !important;
+    line-height: 20px !important;
+}
+
+/* Skills section */
+.skills_wrapper_div {
+    flex-direction: row;
+}
+
+.skills_wrapper_div img {
+    width: 48px;
+    height: 48px;
+    margin: 8px;
+}
+
+.company-logo {
+    width: 100px;
+    height: 100px;
+}
+
+#profile-card {
+    text-align: center;
+
+    #author-img{
+        text-align: center;
+    }
+
+    .profile-img {
+        width: 250px;
+        height: 250px;
+        border-radius: 15px;
+        margin: 0;
+    }
+
+    .profile-name {
+        margin-top: 20px;
+    }
+
+    .profile-bio,
+    .profile-links {
+        margin-top: 5px;
+    }
+
+    .social-link {
+        color: var(--social-link-color) !important;
+        font-size: 15px;
+        padding: 5px;
+        margin: 2px;
+        text-decoration: none !important;
+    }
+
+    #header-nav{
+        float: right;
+        margin-inline-start: 45px;
+    }
+
+    #navigation{
+        margin-top:50px;
+    }
+
+    .nav-link {
+        font-size: 15px !important;
+        color: var(--main-text-color);
+        font-weight: 600;
+    }
+
+}
+
+#author_projects {
+
+    .project-img {
+        width: 250px;
+        height: 250px;
+    }
+
+    #project-card{
+        margin-top: 30px;
+    }
+
+    .project-link{
+        color: var(--link-color);
+    }
+
+}
+
+/* Homepage project cards*/
+#project-card {
+    margin: 0px !important;
+}
+
+#article {
+    margin-left: 35px !important;
+    margin-top: 20px !important;
+}
+
+.project_thumbnail {
+    text-align: center;
+}
+
+.project-img {
+    width:150px;
+    height:100px;
+}
+
+.project_details {
+    padding: 10px;
+}
+
+.project_links {
+    margin: 4px;
+    padding-top: 32px;
+    padding-left: 50px !important;
+}

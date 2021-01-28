@@ -1,0 +1,28 @@
+.jumbotron {
+    background-color: var(--main-background-color) !important;
+    background-image: url('https://www.gannett-cdn.com/presto/2020/04/04/PDTF/d65a2f7e-fc81-469e-9f8b-73631dc7e4d7-04032020_mistadium_jh-6.jpg?crop=2399,1350,x0,y0&width=1600&height=800&format=pjpg&auto=webp');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbotron-heading {
+    color: #FFF;
+    font-size: 35px;
+}
+
+.lead {
+    font-size: 1.30rem !important;
+    font-weight: 600;
+    color: #FFF !important;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 25px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: coral;
+}

@@ -4,7 +4,7 @@ title:  "A Note to the Future of WFH"
 summary: A cautionary thought from this developer who deeply misses the office.
 author: Matt Grant
 date: '2020-11-01 10:00:00 -0500'
-category: WFH
+category: wfh
 thumbnail: /assets/img/posts/spooky_me.jpg
 keywords: work from home, working from home, the office
 permalink: /blog/note-to-future-of-wfh

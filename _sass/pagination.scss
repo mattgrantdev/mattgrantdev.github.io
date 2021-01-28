@@ -1,0 +1,20 @@
+/* pagination */
+.pagination-link {
+    padding: 15px;
+    background-color: var(--card-background-color);
+    text-decoration: none;
+}
+
+.pagination-link a:hover {
+    background-color: var(--main-background-color);
+    text-decoration: none;
+}
+
+.pagination {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+    margin-left: 20px !important;
+}

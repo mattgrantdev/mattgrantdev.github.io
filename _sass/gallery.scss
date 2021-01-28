@@ -1,0 +1,21 @@
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #000 !important;
+    border: 1px solid #020305 !important;
+    border-radius: .25rem;
+    width: calc(100% - 30px);
+    height: auto;
+    max-width: 300px !important;
+    margin: 15px;
+}
+
+#imageGallery {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.lg-progress-bar .lg-progress {
+    background-color: #db980f !important;
+    height: 4px;
+    width: 0;
+}
