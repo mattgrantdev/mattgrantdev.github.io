@@ -1,14 +1,12 @@
 title: Matt Grant
 subtitle: Software Engineer
-description: >- # this means to ignore newlines until "baseurl:"
-  The majority of the information on this personal website will be about my coding knowledge;
-  however, it also contains some spicy content that encapsulates some of my other interests.
+description: >-
+  The personal website of Matt Grant, a software engineer
+  who has an undying love for both music and the Chicago Bears.
 
-url: "https://mattgrantumich.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mattgrantumich.github.io"
+baseurl: ""
 
-# NOTE: Uncomment any of these tabs if you need to see the related content for an example
-# IF YOU ARE GOING TO DELETE A TAB, make sure all related content is also removed for clean code purposes
 urls:
     - text: About Me
       url: /about
@@ -23,8 +21,6 @@ urls:
     - text: Contact Me
       url : /contact
 
-# Edit these details
-
 author_logo: profile.png
 author: Matt Grant
 author_bio: >-
@@ -35,9 +31,6 @@ author_bio: >-
   (this one is just not true). To add, I am a bit of an audiophile (see Vinyl tab).
   Feel free to take a look around my personal website, I hope you are able to find
   some 🌶️ spicy 🌶️, quality content.
-
-
-  
 
 author_email: "mattgrantumich@gmail.com"
 author_location: Ann Arbor, MI
@@ -107,11 +100,8 @@ author_project_details:
       source for the minutia of my life. I think it's not bad so far!
     visibility: false
 
-
-
-
-# social links
-# I should probably tweet a little first...... twitter_username: 410TubaV2
+# Social Links
+twitter_username: MattGrantUmich
 github_username:  MattGrantUmich
 linkedin_username: mattgrantumich
 twitter_username: MattGrantUmich
@@ -144,22 +134,6 @@ defaults:
       path: "travel-gallery"
     values:
       permalink: /:path/:basename:output_ext
-
-# minify
-# compress_html:
-#   clippings: all
-#   comments: ["<!-- ", " -->"]
-#   endings: all
-#   ignore:
-#     envs: ['development']
-
-# Archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#   layout: archive
-#   permalinks:
-#     category: '/category/:name/'
 
 # Build settings
 plugins:
