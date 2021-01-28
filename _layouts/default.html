@@ -5,22 +5,22 @@ layout: compress
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 {%- include head.html -%}
-<body>
-        {%- include header.html -%}
-        <div class="col-lg-12">
-            {{ content }}
-        </div>
-        {%- include footer.html -%}
-     <script>
-            var options = {
-                classname: 'my-class',
-                id: 'my-id'
-            };
-            var nanobar = new Nanobar( options );
-            nanobar.go( 30 );
-            nanobar.go( 76 );
-            nanobar.go(100);
-        </script>
-   <script src="{{site.url}}{{site.baseurl}}/assets/js/mode-switcher.js"></script>
-</body>
+  <body>
+    {%- include header.html -%}
+    <div class="col-lg-12">
+      {{ content }}
+    </div>
+    {%- include footer.html -%}
+    <script>
+      var options = {
+        classname: 'my-class',
+        id: 'my-id'
+      };
+      var nanobar = new Nanobar( options );
+      nanobar.go( 30 );
+      nanobar.go( 76 );
+      nanobar.go(100);
+    </script>
+    <script src="{{site.url}}{{site.baseurl}}/assets/js/mode-switcher.js"></script>
+  </body>
 </html>
