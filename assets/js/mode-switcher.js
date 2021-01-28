@@ -43,7 +43,7 @@ if (theme === "dark") {
 	sessionStorage.setItem('theme', 'dark');
 	document.getElementById("theme-toggle").checked = false;
 	// document.getElementById("theme-toggle").innerHTML = "Light Mode";
-} else if (theme === "light") {
+} else {
 	document.documentElement.setAttribute('data-theme', 'light');
 	sessionStorage.setItem('theme', 'light');
 	document.getElementById("theme-toggle").checked = true;
