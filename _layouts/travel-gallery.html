@@ -11,19 +11,19 @@ layout: default
       <div>
         <div class="row">
           {% for gallery in site.data.travel-galleries.overview %}
-            <div class="card">
+            <div class="card album-container">
               <div class="card-title">
                 {{gallery.title}}
               </div>
-              <div class="row">
-                <a href="{{ gallery.google-album }}" target="_blank">
+              <a class="cover-photo-link" href="{{ gallery.google-album }}" target="_blank">
+                <div class="row cover-photo-container">
                   <img
-                    class="img-thumbnail"
+                    class="img-thumbnail cover-photo"
                     alt="{{ gallery.title }}"
                     src="{{ site.url }}{{ site.baseurl }}/assets/img/gallery/{{ gallery.preview.original }}"
                   />
-                </a>
-              </div>
+                </div>
+              </a>
             </div>
           {% endfor %}
         </div>
