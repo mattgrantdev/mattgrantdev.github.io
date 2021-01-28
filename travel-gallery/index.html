@@ -8,7 +8,9 @@ permalink: /travel-gallery/
   <div class="row">
     {% for gallery in site.data.travel-galleries.overview %}
       <div class="card">
-        <div class="card-title">{{gallery.title}}</div>
+        <div class="card-title">
+          {{gallery.title}}
+        </div>
         <div class="row">
           <a href="{{ gallery.google-album }}" target="_blank">
             <img
