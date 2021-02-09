@@ -1,43 +1,48 @@
-<h2>My Collection</h2>
-<table class="records">
-  <thead>
-    <th>Album Art</th>
-    <th>Title</th>
-    <th>Artist</th>
-    <th>Genre</th>
-    <th>Style</th>
-    <th>Release Year</th>
-  </thead>
-  <tbody>
-    {% for record in site.data.vinyl.collection.releases %}
-      <tr>
-        <td>
-          <div class="records_img">
-            <img src="{{ record.basic_information.cover_image }}" />
-          </div>
-        </td>
-        <td>
-          <a href="https://www.discogs.com/release/{{ record.id }}" target="_blank">
-            {{ record.basic_information.title }}
-          </a>
-        </td>
-        <td>
-          {% for artist in record.basic_information.artists %}
-            {{ artist.name }}{% if forloop.last == false %}<hr /> {% endif %}
-          {% endfor %}
-        </td>
-        <td>
-          {% for genre in record.basic_information.genres %}
-            {{ genre }}{% if forloop.last == false %}<hr /> {% endif %}
-          {% endfor %}
-        </td>
-        <td>
-          {% for style in record.basic_information.styles %}
-            {{ style }}{% if forloop.last == false %}<hr /> {% endif %}
-          {% endfor %}
-        </td>
-        <td>{{ record.basic_information.year }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+<div class="records-wrapper">
+  <h2 class="records-title">My Collection</h2>
+  <table class="records">
+    <thead>
+      <th>Album Art</th>
+      <th>Title</th>
+      <th>Artist</th>
+      <th>Genre</th>
+      <th>Style</th>
+      <th>Release Year</th>
+    </thead>
+    <tbody>
+      {% for record in site.data.vinyl.collection.releases %}
+        <tr>
+          <td>
+            <div class="records_img">
+              <img src="{{ record.basic_information.cover_image }}" />
+            </div>
+          </td>
+          <td>
+            <a
+              href="https://www.discogs.com/release/{{ record.id }}"
+              target="_blank"
+            >
+              {{ record.basic_information.title }}
+            </a>
+          </td>
+          <td>
+            {% for artist in record.basic_information.artists %}
+              {{ artist.name }}{% if forloop.last == false %}<hr /> {% endif %}
+            {% endfor %}
+          </td>
+          <td>
+            {% for genre in record.basic_information.genres %}
+              {{ genre }}{% if forloop.last == false %}<hr /> {% endif %}
+            {% endfor %}
+          </td>
+          <td>
+            {% for style in record.basic_information.styles %}
+              {{ style }}{% if forloop.last == false %}<hr /> {% endif %}
+            {% endfor %}
+          </td>
+          <td>{{ record.basic_information.year }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
