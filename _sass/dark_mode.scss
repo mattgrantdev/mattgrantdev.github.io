@@ -18,6 +18,12 @@ html[data-theme="dark"] {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     scroll-behavior: smooth;
+    --records-th-background-color: #ff7601;
+    --records-border: 1px solid rgb(139, 139, 139);
+    --records-font-color: rgb(188, 188, 188);
+    --records-tr-odd-color: rgb(62, 62, 62);
+    --records-tr-even-color: rgb(42, 42, 42);
+    --records-tr-hover-color: rgb(92, 92, 92);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,7 +47,12 @@ html[data-theme="dark"] {
        --social-link-color: #ffffff;
        --card-background-color: rgb(32, 32, 34);
        --newsletter-background-color: #222324;
-       --button-background-color: #111;
+       --records-th-background-color: #ff7601;
+       --records-border: 1px solid rgb(139, 139, 139);
+       --records-font-color: rgb(188, 188, 188);
+       --records-tr-odd-color: rgb(62, 62, 62);
+       --records-tr-even-color: rgb(42, 42, 42);
+       --records-tr-hover-color: rgb(139, 139, 139);
    }
 }
 
