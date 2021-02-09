@@ -20,6 +20,12 @@ html[data-theme="light"] {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     scroll-behavior: smooth;
+    --records-th-background-color: #29AAE2;
+    --records-border: 1px solid #ddd;
+    --records-font-color: black;
+    --records-tr-odd-color: white;
+    --records-tr-even-color: #f2f2f2;
+    --records-tr-hover-color: #ddd;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -43,5 +49,11 @@ html[data-theme="light"] {
        --social-link-color: #262222;
        --card-background-color: rgb(250, 250, 250);
        --button-background-color: #fff;
+       --records-th-background-color: #29AAE2;
+       --records-border: 1px solid #ddd;
+       --records-font-color: black;
+       --records-tr-odd-color: white;
+       --records-tr-even-color: #f2f2f2;
+       --records-tr-hover-color: #ddd;
    }
 }
