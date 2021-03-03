@@ -14,6 +14,9 @@ The about tab will tell you a little about me from a professional side. This inc
 ### Vinyl
 That's right, there's a tab dedicated to my Vinyl collection! It's pretty neat. You'll be able to see both what's in my current Vinyl collection, and what I have on my wantlist. This will be updated from time to time automatically, as I have configured a GitHub Action to pull data from Discogs, and interpret it in a reactive manner.
 
+### My SoundCloud
+This tab will give you a peak at my SoundCloud Showcase! Now, don't get your hopes up, there won't be any content from yours truly as I am not in fact talented... yet... BUT, I have my favorite recommendations updated on this tab from time to time from artists who are in fact very talented! Give it a look!
+
 ### My Spotify
 This tab will give you a small taste of my Spotify playlists. Spotify is just one of the tools I've used for my own personal musical immersion and discovery, and I will periodically be updating the playlists you'll find there, so feel free to check in now and then!
 

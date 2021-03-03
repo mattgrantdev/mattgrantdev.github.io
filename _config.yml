@@ -12,6 +12,8 @@ urls:
       url: /about
     - text: Vinyl
       url: /vinyl
+    - text: My SoundCloud
+      url: /my-soundcloud
     - text: My Spotify
       url: /my-spotify
     - text: Gallery
