@@ -16,8 +16,9 @@
     margin-bottom: 6%;
     overflow-x: scroll;
     overflow-y: scroll;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.48), 0 10px 20px rgba(0, 0, 0, 0.64);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.48), 0 10px 30px rgba(0, 0, 0, 0.64);
     border-radius: 10px;
+    padding: 15px;
 }
 
 .records::-webkit-scrollbar {

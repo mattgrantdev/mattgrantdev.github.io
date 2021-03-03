@@ -2,12 +2,9 @@
   {% capture tag_name %}
     {{ tag | first }}
   {% endcapture %}
-
-  <div id="#{{ tag_name | slugize }}"></div>
   <li class="tag-head">
-    <a href="{{ site.baseurl }}/blog/tags/{{ tag_name }}">
+    <a href="{{ site.baseurl }}/blog/tags/{{ tag_name | strip }}">
       {{ tag_name }}
     </a>
   </li>
-  <a name="{{ tag_name | slugize }}"></a>
 {% endfor %}

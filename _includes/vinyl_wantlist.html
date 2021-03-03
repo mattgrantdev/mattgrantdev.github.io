@@ -1,20 +1,23 @@
 <div class="records-wrapper">
-  <h2 class="records-title">My Wantlist</h2>
-  <table class="records">
+  <h2 class="records-title" id="wantlist-title">My Wantlist</h2>
+  <table class="records" aria-describedby="wantlist-title">
     <thead>
-      <th>Album Art</th>
-      <th>Title</th>
-      <th>Artist</th>
-      <th>Genre</th>
-      <th>Style</th>
-      <th>Release Year</th>
+      <th id="wantlist-album-art-header">Album Art</th>
+      <th id="wantlist-title-header">Title</th>
+      <th id="wantlist-artist-header">Artist</th>
+      <th id="wantlist-genre-header">Genre</th>
+      <th id="wantlist-style-header">Style</th>
+      <th id="wantlist-release-header">Release</th>
     </thead>
     <tbody>
       {% for record in site.data.vinyl.wantlist.wants %}
         <tr>
           <td>
             <div class="records_img">
-              <img src="{{ record.basic_information.cover_image }}" />
+              <img
+                alt="Cover Image"
+                src="{{ record.basic_information.cover_image }}"
+              />
             </div>
           </td>
           <td>

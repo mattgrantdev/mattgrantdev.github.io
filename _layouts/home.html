@@ -10,7 +10,11 @@ layout: default
   });
 </script>
 <div class="jumbotron" style="text-align: center;">
-  <img class="author-profile-img" src="{{site.url}}{{site.baseurl}}/assets/img/profile.png" />
+  <img
+    alt="Author Profile Image"
+    class="author-profile-img"
+    src="{{site.url}}{{site.baseurl}}/assets/img/profile.png"
+  />
   <p class="jumbotron-heading">
     Hi, I'm {{site.author}}!
   </p>
@@ -51,6 +55,7 @@ layout: default
               <div id="article-container">
                 <div id="article-img">
                   <img
+                    alt="Author Logo"
                     src="{{site.url}}{{site.baseurl}}/assets/img/{{site.author_logo}}"
                     width="50px"
                     height="50px"
@@ -58,7 +63,7 @@ layout: default
                 </div>
                 <div id="article-link">
                   <p class="recent-article-link">
-                    {{post.title}} <span style="color: #ccc; font-size: 15px;"> - <i><time datetime="{{ post.date }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></i></span>
+                    {{post.title}} <span style="color: #ccc; font-size: 15px;"> - <em><time datetime="{{ post.date }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></em></span>
                   </p>
                 </div>
                 <div id="article-alert">

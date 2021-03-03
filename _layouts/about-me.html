@@ -7,6 +7,7 @@ layout: default
     <div class="card" id="profile-card">
       <a href="/">
         <img
+          alt="Profile Image"
           src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}"
           class="profile-img author-profile-img"
         />
@@ -27,7 +28,7 @@ layout: default
             href="http://twitter.com/{{ site.twitter_username }}"
             target="_blank"
           >
-            <i class="fab fa-twitter"></i>
+            <em class="fab fa-twitter"></em>
           </a>
         {% endif %}
         {% if site.facebook_username %}
@@ -36,7 +37,7 @@ layout: default
             href="http://facebook.com/{{ site.facebook_username }}"
             target="_blank"
           >
-            <i class="fab fa-facebook-f"></i>
+            <em class="fab fa-facebook-f"></em>
           </a>
         {% endif %}
         {% if site.instagram_username %}
@@ -45,7 +46,7 @@ layout: default
             href="http://instagram.com/{{ site.instagram_username }}"
             target="_blank"
           >
-            <i class="fab fa-instagram"></i>
+            <em class="fab fa-instagram"></em>
           </a>
         {% endif %}
         {% if site.medium_username %}
@@ -54,7 +55,7 @@ layout: default
             href="http://medium.com/@{{ site.medium_username }}"
             target="_blank"
           >
-            <i class="fab fa-medium-m"></i>
+            <em class="fab fa-medium-m"></em>
           </a>
         {% endif %}
         {% if site.behance_username %}
@@ -63,7 +64,7 @@ layout: default
             href="http://behance.net/{{ site.behance_username }}"
             target="_blank"
           >
-            <i class="fab fa-behance"></i>
+            <em class="fab fa-behance"></em>
           </a>
         {% endif %}
         {% if site.linkedin_username %}
@@ -72,7 +73,7 @@ layout: default
             href="http://linkedin.com/in/{{ site.linkedin_username }}"
             target="_blank"
           >
-            <i class="fab fa-linkedin-in"></i>
+            <em class="fab fa-linkedin-in"></em>
           </a>
         {% endif %}
         {% if site.spotify_username %}
@@ -81,7 +82,7 @@ layout: default
             href="https://open.spotify.com/user/{{ site.spotify_username }}"
             target="_blank"
           >
-            <i class="fab fa-spotify"></i>
+            <em class="fab fa-spotify"></em>
           </a>
         {% endif %}
         {% if site.soundcloud_username %}
@@ -90,7 +91,7 @@ layout: default
             href="https://soundcloud.com/{{ site.soundcloud_username }}"
             target="_blank"
           >
-            <i class="fab fa-soundcloud"></i>
+            <em class="fab fa-soundcloud"></em>
           </a>
         {% endif %}
         {% if site.discogs_username %}
@@ -99,7 +100,7 @@ layout: default
             href="https://www.discogs.com/user/{{ site.discogs_username }}"
             target="_blank"
           >
-            <i class="fas fa-compact-disc"></i>
+            <em class="fas fa-compact-disc"></em>
           </a>
         {% endif %}
         {% if site.telegram_username %}
@@ -108,7 +109,7 @@ layout: default
             href="http://t.me/{{ site.telegram_username }}"
             target="_blank"
           >
-            <i class="fab fa-telegram-plane"></i>
+            <em class="fab fa-telegram-plane"></em>
           </a>
         {% endif %}
         {% if site.dribbble_username %}
@@ -117,7 +118,7 @@ layout: default
             href="https://dribbble.com/{{ site.dribbble_username }}"
             target="_blank"
           >
-            <i class="fab fa-dribbble"></i>
+            <em class="fab fa-dribbble"></em>
           </a>
         {% endif %}
         {% if site.flickr_username %}
@@ -126,23 +127,23 @@ layout: default
             href="https://www.flickr.com/photos/{{ site.flickr_username }}"
             target="_blank"
           >
-            <i class="fab fa-flickr"></i>
+            <em class="fab fa-flickr"></em>
           </a>
         {% endif %}
       </p>
       {% if site.author_location %}
         <h6>
-          <i class="fas fa-map-marker-alt"></i> {{ site.author_location }}
+          <em class="fas fa-map-marker-alt"></em> {{ site.author_location }}
         </h6>
       {% endif %}
       {% if site.author_email %}
         <h6>
-          <i class="fas fa-envelope"></i> {{ site.author_email }}
+          <em class="fas fa-envelope"></em> {{ site.author_email }}
         </h6>
       {% endif %}
       {% if site.author_website_url %}
         <h6>
-          <i class="fas fa-link"></i> {{ site.author_website_url }}
+          <em class="fas fa-link"></em> {{ site.author_website_url }}
         </h6>
       {% endif %}
     </div>
@@ -189,6 +190,7 @@ layout: default
               <div class="row">
                 <div class="col-md-2 company-logo-wrapper">
                   <img
+                    alt="Company Logo"
                     src="{{site.url}}{{site.baseurl}}/assets/img/{{ exp.company_logo }}"
                     class="company-logo"
                   />
@@ -225,6 +227,7 @@ layout: default
               <div class="row">
                 <div class="col-md-2 company-logo-wrapper">
                   <img
+                    alt="Company Logo"
                     src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
                     class="company-logo"
                   />
@@ -264,6 +267,7 @@ layout: default
                   target="_blank"
                 >
                   <img
+                    alt="Project Logo"
                     src="{{site.url}}{{site.baseurl}}/assets/img/{{project.project_thumbnail}}"
                     class="project-img"
                   />
