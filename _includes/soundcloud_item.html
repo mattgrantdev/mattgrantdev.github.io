@@ -1,0 +1,46 @@
+{% for item in site.data.soundcloud.recommendations %}
+  {% if item.type == "track" %}
+    <iframe
+      width="100%"
+      height="300"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ item.id }}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+    ></iframe>
+  {% elsif item.type == "playlist" %}
+    <iframe
+      width="100%"
+      height="300"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/{{ item.id }}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+    ></iframe>
+  {% endif %}
+  <div class="soundcloud_embed_display">
+    <a
+      href="https://soundcloud.com/{{ item.artist.url_id }}"
+      title="{{ item.artist.title }}"
+      target="_blank"
+      class="soundcloud_embed_link"
+    >
+      {{ item.artist.title }}
+    </a>
+    · 
+    <a
+      href="https://soundcloud.com/{{ item.artist.url_id }}/{{ item.url_id }}"
+      title="{{ item.title }}"
+      target="_blank"
+      class="soundcloud_embed_link"
+    >
+      {{ item.title }}
+    </a>
+  </div>
+  <h2 class="soundcloud_title">{{ item.title }}</h2>
+  <p class="soundcloud_notes">
+    {{ item.notes }}
+  </p>
+  <hr />
+
+{% endfor %}
