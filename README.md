@@ -15,7 +15,7 @@ The about tab will tell you a little about me from a professional side. This inc
 That's right, there's a tab dedicated to my Vinyl collection! It's pretty neat. You'll be able to see both what's in my current Vinyl collection, and what I have on my wantlist. This will be updated from time to time automatically, as I have configured a GitHub Action to pull data from Discogs, and interpret it in a reactive manner.
 
 ### My Spotify
-This tab will give you a small taste of my Spotify playlists. Spotify has been the tool I've used for my own personal musical immersion and discovery, and I will constantly be updating the playlists you'll find there, so feel free to check in now and then!
+This tab will give you a small taste of my Spotify playlists. Spotify is just one of the tools I've used for my own personal musical immersion and discovery, and I will periodically be updating the playlists you'll find there, so feel free to check in now and then!
 
 ### Gallery
 Here you will find photo galleries I have put together from the various places I have travelled in the past. I will be updating this from time to time as I travel around, which will be occurring quite a bit in the distant future once it is safe to do so (keeping COVID-19 in mind).
