@@ -2,214 +2,196 @@
    "pagination" : {
       "items" : 11,
       "page" : 1,
-      "urls" : {},
+      "pages" : 1,
       "per_page" : 50,
-      "pages" : 1
+      "urls" : {}
    },
    "wants" : [
       {
-         "notes" : "",
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/3059702",
-         "id" : 3059702,
-         "rating" : 0,
          "basic_information" : {
-            "cover_image" : "https://i.discogs.com/R-3059702-1313810826.jpeg?bucket=discogs-images&expiry=1615253655656.148&fit=contain&format=auto&height=300&quality=90&width=300&signature=IZTZ1lQnLryHi/2IyTtBuq4TUUAHMqCS9zeuKQtfZ38%3D",
-            "title" : "Marvin's Marvelous Mechanical Museum",
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 1033478,
+                  "join" : "",
+                  "name" : "Tally Hall",
+                  "resource_url" : "https://api.discogs.com/artists/1033478",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/hkD8L1Uog0rdlFGU8iO7-3rOy5U=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3059702-1313810826.jpeg.jpg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1"
+               }
+            ],
+            "genres" : [
+               "Rock",
+               "Pop"
+            ],
+            "id" : 3059702,
+            "labels" : [
+               {
+                  "catno" : "514047-1",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 681,
+                  "name" : "Atlantic",
+                  "resource_url" : "https://api.discogs.com/labels/681"
+               }
+            ],
+            "master_id" : 356394,
+            "master_url" : "https://api.discogs.com/masters/356394",
             "resource_url" : "https://api.discogs.com/releases/3059702",
             "styles" : [
                "Alternative Rock",
                "Pop Rock"
             ],
-            "master_url" : "https://api.discogs.com/masters/356394",
-            "genres" : [
-               "Rock",
-               "Pop"
-            ],
-            "master_id" : 356394,
-            "labels" : [
+            "thumb" : "https://img.discogs.com/VXIhcyVjEt40TTD4Tc5oKc_Pc24=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3059702-1313810826.jpeg.jpg",
+            "title" : "Marvin's Marvelous Mechanical Museum",
+            "year" : 2008
+         },
+         "date_added" : "2020-10-30T06:38:30-07:00",
+         "id" : 3059702,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/3059702"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
                {
-                  "entity_type_name" : "Label",
-                  "resource_url" : "https://api.discogs.com/labels/681",
-                  "id" : 681,
-                  "name" : "Atlantic",
-                  "entity_type" : "1",
-                  "catno" : "514047-1"
+                  "anv" : "",
+                  "id" : 254479,
+                  "join" : "",
+                  "name" : "John Mayer",
+                  "resource_url" : "https://api.discogs.com/artists/254479",
+                  "role" : "",
+                  "tracks" : ""
                }
             ],
-            "id" : 3059702,
-            "thumb" : "https://i.discogs.com/R-3059702-1313810826.jpeg?bucket=discogs-images&expiry=1615253655654.77&fit=contain&format=auto&height=150&quality=40&width=150&signature=myjrIkoWVfYaYyhAusc2hdb5/%2BiZTY6moGDt1QwHjfc%3D",
-            "year" : 2008,
+            "cover_image" : "https://img.discogs.com/4sr9c8dU2vX4g0c8EVC950A_nGY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3193195-1325678249.jpeg.jpg",
             "formats" : [
                {
-                  "name" : "Vinyl",
-                  "qty" : "1",
                   "descriptions" : [
                      "LP",
                      "Album"
-                  ]
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "2",
+                  "text" : "180 Gram"
                }
             ],
-            "artists" : [
-               {
-                  "name" : "Tally Hall",
-                  "join" : "",
-                  "tracks" : "",
-                  "anv" : "",
-                  "role" : "",
-                  "resource_url" : "https://api.discogs.com/artists/1033478",
-                  "id" : 1033478
-               }
-            ]
-         },
-         "date_added" : "2020-10-30T06:38:30-07:00"
-      },
-      {
-         "notes" : "",
-         "date_added" : "2021-01-05T22:44:02-08:00",
-         "rating" : 0,
-         "basic_information" : {
-            "master_id" : 170454,
+            "genres" : [
+               "Rock",
+               "Blues"
+            ],
+            "id" : 3193195,
             "labels" : [
                {
-                  "name" : "Columbia",
-                  "entity_type" : "1",
                   "catno" : "82876 79019 1",
+                  "entity_type" : "1",
                   "entity_type_name" : "Label",
                   "id" : 1866,
+                  "name" : "Columbia",
                   "resource_url" : "https://api.discogs.com/labels/1866"
                }
             ],
-            "title" : "Continuum",
-            "cover_image" : "https://i.discogs.com/R-3193195-1325678249.jpeg?bucket=discogs-images&expiry=1615253655674.805&fit=contain&format=auto&height=300&quality=90&width=300&signature=kd/C%2BPZmuKdPgA2U7KfmcVXIJmXgeYWS0VZWABiQwis%3D",
+            "master_id" : 170454,
+            "master_url" : "https://api.discogs.com/masters/170454",
             "resource_url" : "https://api.discogs.com/releases/3193195",
             "styles" : [
                "Alternative Rock",
                "Blues Rock",
                "Pop Rock"
             ],
-            "master_url" : "https://api.discogs.com/masters/170454",
-            "genres" : [
-               "Rock",
-               "Blues"
-            ],
-            "thumb" : "https://i.discogs.com/R-3193195-1325678249.jpeg?bucket=discogs-images&expiry=1615253655672.953&fit=contain&format=auto&height=150&quality=40&width=150&signature=Fn2n8NKN2BIHnmEk5ZvCEEXqNUnQqC%2BCBUtIXAnmwRI%3D",
-            "year" : 2006,
-            "formats" : [
-               {
-                  "text" : "180 Gram",
-                  "qty" : "2",
-                  "name" : "Vinyl",
-                  "descriptions" : [
-                     "LP",
-                     "Album"
-                  ]
-               }
-            ],
-            "artists" : [
-               {
-                  "role" : "",
-                  "resource_url" : "https://api.discogs.com/artists/254479",
-                  "id" : 254479,
-                  "name" : "John Mayer",
-                  "tracks" : "",
-                  "join" : "",
-                  "anv" : ""
-               }
-            ],
-            "id" : 3193195
+            "thumb" : "https://img.discogs.com/AhYzPtys5G5Pqiw37a_zHx8wytM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3193195-1325678249.jpeg.jpg",
+            "title" : "Continuum",
+            "year" : 2006
          },
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/3193195",
-         "id" : 3193195
+         "date_added" : "2021-01-05T22:44:02-08:00",
+         "id" : 3193195,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/3193195"
       },
       {
-         "notes" : "",
-         "date_added" : "2020-11-02T10:58:49-08:00",
-         "rating" : 0,
          "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 3181804,
+                  "join" : "",
+                  "name" : "Thank You Scientist",
+                  "resource_url" : "https://api.discogs.com/artists/3181804",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/ZweE2h8yc81pu80tHqCEUEyFkSU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10028182-1490379171-5613.jpeg.jpg",
             "formats" : [
                {
-                  "text" : "White",
-                  "name" : "Vinyl",
-                  "qty" : "2",
                   "descriptions" : [
                      "LP",
                      "Album",
                      "Limited Edition"
-                  ]
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "2",
+                  "text" : "White"
                }
             ],
-            "artists" : [
-               {
-                  "join" : "",
-                  "tracks" : "",
-                  "anv" : "",
-                  "name" : "Thank You Scientist",
-                  "id" : 3181804,
-                  "resource_url" : "https://api.discogs.com/artists/3181804",
-                  "role" : ""
-               }
-            ],
-            "thumb" : "https://i.discogs.com/R-10028182-1490379171-5613.jpeg?bucket=discogs-images&expiry=1615253655689.271&fit=contain&format=auto&height=150&quality=40&width=150&signature=dw7weq28nCijzSGiZf8FbtHwoQ4LFuBicBtQKyYWC7s%3D",
-            "year" : 2016,
-            "id" : 10028182,
-            "master_id" : 1035530,
-            "labels" : [
-               {
-                  "id" : 726850,
-                  "resource_url" : "https://api.discogs.com/labels/726850",
-                  "entity_type_name" : "Label",
-                  "catno" : "EI209V",
-                  "entity_type" : "1",
-                  "name" : "Evil Ink Records"
-               }
-            ],
-            "master_url" : "https://api.discogs.com/masters/1035530",
             "genres" : [
                "Jazz",
                "Rock"
             ],
-            "cover_image" : "https://i.discogs.com/R-10028182-1490379171-5613.jpeg?bucket=discogs-images&expiry=1615253655690.481&fit=contain&format=auto&height=600&quality=90&width=600&signature=v9vmmRKkf2WYm9yNZhMtHSUf6o%2BfbJzskif1dqWrCzY%3D",
-            "title" : "Stranger Heads Prevail",
+            "id" : 10028182,
+            "labels" : [
+               {
+                  "catno" : "EI209V",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 726850,
+                  "name" : "Evil Ink Records",
+                  "resource_url" : "https://api.discogs.com/labels/726850"
+               }
+            ],
+            "master_id" : 1035530,
+            "master_url" : "https://api.discogs.com/masters/1035530",
+            "resource_url" : "https://api.discogs.com/releases/10028182",
             "styles" : [
                "Prog Rock"
             ],
-            "resource_url" : "https://api.discogs.com/releases/10028182"
+            "thumb" : "https://img.discogs.com/Olk3x_X7amA782l5gIzGGD4qQk0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10028182-1490379171-5613.jpeg.jpg",
+            "title" : "Stranger Heads Prevail",
+            "year" : 2016
          },
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/10028182",
-         "id" : 10028182
+         "date_added" : "2020-11-02T10:58:49-08:00",
+         "id" : 10028182,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/10028182"
       },
       {
-         "notes" : "",
-         "date_added" : "2021-02-08T23:01:00-08:00",
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/11178947",
-         "id" : 11178947,
-         "rating" : 0,
          "basic_information" : {
-            "cover_image" : "https://i.discogs.com/R-11178947-1612557966-8488.jpeg?bucket=discogs-images&expiry=1615253655706.226&fit=contain&format=auto&height=590&quality=90&width=600&signature=/M7cRuhAsEK62xXlogkiaUxOaE4jSjkUh6ooda3x/8s%3D",
-            "title" : "Freudian",
-            "styles" : [
-               "Contemporary R&B"
-            ],
-            "resource_url" : "https://api.discogs.com/releases/11178947",
-            "master_url" : "https://api.discogs.com/masters/1275484",
-            "genres" : [
-               "Hip Hop",
-               "Funk / Soul"
-            ],
-            "master_id" : 1275484,
-            "labels" : [
+            "artists" : [
                {
-                  "catno" : "924249",
-                  "entity_type" : "1",
-                  "name" : "Golden Child Recordings",
-                  "resource_url" : "https://api.discogs.com/labels/1312228",
-                  "id" : 1312228,
-                  "entity_type_name" : "Label"
+                  "anv" : "",
+                  "id" : 5500267,
+                  "join" : "",
+                  "name" : "Daniel Caesar (2)",
+                  "resource_url" : "https://api.discogs.com/artists/5500267",
+                  "role" : "",
+                  "tracks" : ""
                }
             ],
-            "id" : 11178947,
-            "thumb" : "https://i.discogs.com/R-11178947-1612557966-8488.jpeg?bucket=discogs-images&expiry=1615253655705.078&fit=contain&format=auto&height=150&quality=40&width=150&signature=2ZOO3O3yCrM1gE5nG/IxdsBGDY%2B6tqne18VCsOTg3fc%3D",
-            "year" : 2017,
+            "cover_image" : "https://img.discogs.com/ClZ7aETRBxCOFudnXBlN8ThK1c0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11178947-1612557966-8488.jpeg.jpg",
             "formats" : [
                {
                   "descriptions" : [
@@ -221,69 +203,63 @@
                   "text" : "Blue"
                }
             ],
-            "artists" : [
+            "genres" : [
+               "Hip Hop",
+               "Funk / Soul"
+            ],
+            "id" : 11178947,
+            "labels" : [
                {
-                  "role" : "",
-                  "id" : 5500267,
-                  "resource_url" : "https://api.discogs.com/artists/5500267",
-                  "name" : "Daniel Caesar (2)",
-                  "tracks" : "",
-                  "anv" : "",
-                  "join" : ""
-               }
-            ]
-         }
-      },
-      {
-         "notes" : "",
-         "date_added" : "2021-03-02T21:46:09-08:00",
-         "basic_information" : {
-            "year" : 2020,
-            "thumb" : "https://i.discogs.com/R-14731503-1580524389-2384.jpeg?bucket=discogs-images&expiry=1615253655725.884&fit=contain&format=auto&height=150&quality=40&width=150&signature=zUpaywnD5lXpF0c%2BKFUvjm6wbJg/UDmEbMo52H4iGME%3D",
-            "artists" : [
-               {
-                  "name" : "ミラクルミュージカル",
-                  "anv" : "",
-                  "tracks" : "",
-                  "join" : "",
-                  "role" : "",
-                  "id" : 4537149,
-                  "resource_url" : "https://api.discogs.com/artists/4537149"
+                  "catno" : "924249",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 1312228,
+                  "name" : "Golden Child Recordings",
+                  "resource_url" : "https://api.discogs.com/labels/1312228"
                }
             ],
+            "master_id" : 1275484,
+            "master_url" : "https://api.discogs.com/masters/1275484",
+            "resource_url" : "https://api.discogs.com/releases/11178947",
+            "styles" : [
+               "Contemporary R&B"
+            ],
+            "thumb" : "https://img.discogs.com/XtD9-kJJZGCdMC8mPSK8UVXJX8I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11178947-1612557966-8488.jpeg.jpg",
+            "title" : "Freudian",
+            "year" : 2017
+         },
+         "date_added" : "2021-02-08T23:01:00-08:00",
+         "id" : 11178947,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/11178947"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 4537149,
+                  "join" : "",
+                  "name" : "ミラクルミュージカル",
+                  "resource_url" : "https://api.discogs.com/artists/4537149",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/dxO-FM9fLlfexyKw4Vj_c4sekyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14731503-1580524389-2384.jpeg.jpg",
             "formats" : [
                {
-                  "name" : "Vinyl",
-                  "qty" : "1",
                   "descriptions" : [
                      "LP",
                      "Album",
                      "Limited Edition",
                      "Repress"
-                  ]
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1"
                }
             ],
-            "id" : 14731503,
-            "labels" : [
-               {
-                  "catno" : "none",
-                  "entity_type" : "1",
-                  "name" : "Not On Label",
-                  "id" : 1818,
-                  "resource_url" : "https://api.discogs.com/labels/1818",
-                  "entity_type_name" : "Label"
-               }
-            ],
-            "master_id" : 935682,
-            "resource_url" : "https://api.discogs.com/releases/14731503",
-            "styles" : [
-               "Space Rock",
-               "Trip Hop",
-               "Chiptune",
-               "Experimental"
-            ],
-            "title" : "Hawaii: Part II",
-            "cover_image" : "https://i.discogs.com/R-14731503-1580524389-2384.jpeg?bucket=discogs-images&expiry=1615253655729.887&fit=contain&format=auto&height=600&quality=90&width=600&signature=m%2BBPI78BZREx55OPRexq64zkme3GV0%2Bhl2ATJ/H9Dog%3D",
             "genres" : [
                "Electronic",
                "Hip Hop",
@@ -291,122 +267,142 @@
                "Pop",
                "Folk, World, & Country"
             ],
-            "master_url" : "https://api.discogs.com/masters/935682"
-         },
-         "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/14731503",
-         "id" : 14731503
-      },
-      {
-         "notes" : "",
-         "date_added" : "2020-10-30T06:39:05-07:00",
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/3059678",
-         "id" : 3059678,
-         "basic_information" : {
-            "master_id" : 362514,
+            "id" : 14731503,
             "labels" : [
                {
+                  "catno" : "none",
                   "entity_type" : "1",
-                  "catno" : "QK!028",
-                  "name" : "Quack! Media",
-                  "id" : 105475,
-                  "resource_url" : "https://api.discogs.com/labels/105475",
-                  "entity_type_name" : "Label"
+                  "entity_type_name" : "Label",
+                  "id" : 1818,
+                  "name" : "Not On Label",
+                  "resource_url" : "https://api.discogs.com/labels/1818"
                }
             ],
-            "cover_image" : "https://i.discogs.com/R-3059678-1313809098.png?bucket=discogs-images&expiry=1615253655750.31&fit=contain&format=auto&height=298&quality=90&width=300&signature=TvHcFd81fr4Tjsk2A1SrFQLtDkt6aGQnUuNZWmz9fEo%3D",
-            "title" : "Good & Evil",
+            "master_id" : 935682,
+            "master_url" : "https://api.discogs.com/masters/935682",
+            "resource_url" : "https://api.discogs.com/releases/14731503",
+            "styles" : [
+               "Space Rock",
+               "Trip Hop",
+               "Chiptune",
+               "Experimental"
+            ],
+            "thumb" : "https://img.discogs.com/jFZ-DyEH29J4eZtT2fhyVIk7cn0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14731503-1580524389-2384.jpeg.jpg",
+            "title" : "Hawaii: Part II",
+            "year" : 2020
+         },
+         "date_added" : "2021-03-02T21:46:09-08:00",
+         "id" : 14731503,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/14731503"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 1033478,
+                  "join" : "",
+                  "name" : "Tally Hall",
+                  "resource_url" : "https://api.discogs.com/artists/1033478",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/ogrKoMy8MQyLj_7Wm3bHRqMCaJQ=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3059678-1313809098.png.jpg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album",
+                     "Limited Edition"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1"
+               }
+            ],
+            "genres" : [
+               "Rock",
+               "Pop"
+            ],
+            "id" : 3059678,
+            "labels" : [
+               {
+                  "catno" : "QK!028",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 105475,
+                  "name" : "Quack! Media",
+                  "resource_url" : "https://api.discogs.com/labels/105475"
+               }
+            ],
+            "master_id" : 362514,
+            "master_url" : "https://api.discogs.com/masters/362514",
             "resource_url" : "https://api.discogs.com/releases/3059678",
             "styles" : [
                "Alternative Rock",
                "Pop Rock"
             ],
-            "master_url" : "https://api.discogs.com/masters/362514",
-            "genres" : [
-               "Rock",
-               "Pop"
-            ],
-            "thumb" : "https://i.discogs.com/R-3059678-1313809098.png?bucket=discogs-images&expiry=1615253655748.7432&fit=contain&format=auto&height=150&quality=40&width=150&signature=VqD4B54QEH5TFaUS0sFqwZb8Ks0pKDC7udTzUD5ZReU%3D",
-            "year" : 2011,
-            "formats" : [
-               {
-                  "name" : "Vinyl",
-                  "qty" : "1",
-                  "descriptions" : [
-                     "LP",
-                     "Album",
-                     "Limited Edition"
-                  ]
-               }
-            ],
-            "artists" : [
-               {
-                  "name" : "Tally Hall",
-                  "tracks" : "",
-                  "anv" : "",
-                  "join" : "",
-                  "role" : "",
-                  "resource_url" : "https://api.discogs.com/artists/1033478",
-                  "id" : 1033478
-               }
-            ],
-            "id" : 3059678
+            "thumb" : "https://img.discogs.com/k-VvDcgZGkvzFf7KwhxSl7_kOCc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3059678-1313809098.png.jpg",
+            "title" : "Good & Evil",
+            "year" : 2011
          },
-         "rating" : 0
+         "date_added" : "2020-10-30T06:39:05-07:00",
+         "id" : 3059678,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/3059678"
       },
       {
-         "date_added" : "2021-01-05T22:44:55-08:00",
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/7529254",
-         "id" : 7529254,
          "basic_information" : {
             "artists" : [
                {
-                  "role" : "",
-                  "id" : 2675674,
-                  "resource_url" : "https://api.discogs.com/artists/2675674",
-                  "name" : "Snarky Puppy",
                   "anv" : "",
-                  "tracks" : "",
-                  "join" : ""
+                  "id" : 2675674,
+                  "join" : "",
+                  "name" : "Snarky Puppy",
+                  "resource_url" : "https://api.discogs.com/artists/2675674",
+                  "role" : "",
+                  "tracks" : ""
                }
             ],
+            "cover_image" : "https://img.discogs.com/eSuOQhAGkKUesysTK2lTQyrjjt4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7529254-1445974393-2828.jpeg.jpg",
             "formats" : [
                {
-                  "qty" : "2",
-                  "name" : "Vinyl",
                   "descriptions" : [
                      "LP",
                      "Album",
                      "Stereo"
-                  ]
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "2"
                }
             ],
-            "year" : 2014,
-            "thumb" : "https://i.discogs.com/R-7529254-1445974393-2828.jpeg?bucket=discogs-images&expiry=1615253655766.136&fit=contain&format=auto&height=150&quality=40&width=150&signature=Kky6kTk3JtdYK4gEBrZggEY684FIJN8e%2BTeUqnHpPDA%3D",
-            "id" : 7529254,
-            "labels" : [
-               {
-                  "name" : "Ropeadope",
-                  "catno" : "RAD-262",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 71443,
-                  "resource_url" : "https://api.discogs.com/labels/71443"
-               },
-               {
-                  "entity_type" : "1",
-                  "catno" : "RAD-262",
-                  "name" : "GroundUP Music (2)",
-                  "resource_url" : "https://api.discogs.com/labels/734922",
-                  "id" : 734922,
-                  "entity_type_name" : "Label"
-               }
-            ],
-            "master_id" : 832307,
             "genres" : [
                "Jazz",
                "Funk / Soul"
             ],
+            "id" : 7529254,
+            "labels" : [
+               {
+                  "catno" : "RAD-262",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 71443,
+                  "name" : "Ropeadope",
+                  "resource_url" : "https://api.discogs.com/labels/71443"
+               },
+               {
+                  "catno" : "RAD-262",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 734922,
+                  "name" : "GroundUP Music (2)",
+                  "resource_url" : "https://api.discogs.com/labels/734922"
+               }
+            ],
+            "master_id" : 832307,
             "master_url" : "https://api.discogs.com/masters/832307",
             "resource_url" : "https://api.discogs.com/releases/7529254",
             "styles" : [
@@ -415,57 +411,57 @@
                "Fusion",
                "Jazz-Funk"
             ],
+            "thumb" : "https://img.discogs.com/I-AiJtPSKAam8lmyu6shpGIOjvw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7529254-1445974393-2828.jpeg.jpg",
             "title" : "We Like It Here",
-            "cover_image" : "https://i.discogs.com/R-7529254-1445974393-2828.jpeg?bucket=discogs-images&expiry=1615253655767.435&fit=contain&format=auto&height=600&quality=90&width=600&signature=AAsizThLx%2BuMK99/Rxd1Pb04vUPD/ZgEFyGNaQ99d2Q%3D"
+            "year" : 2014
          },
+         "date_added" : "2021-01-05T22:44:55-08:00",
+         "id" : 7529254,
+         "notes" : "",
          "rating" : 0,
-         "notes" : ""
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/7529254"
       },
       {
-         "notes" : "",
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/1853976",
-         "id" : 1853976,
          "basic_information" : {
             "artists" : [
                {
-                  "name" : "The Decemberists",
                   "anv" : "",
-                  "tracks" : "",
-                  "join" : "",
-                  "role" : "",
                   "id" : 264812,
-                  "resource_url" : "https://api.discogs.com/artists/264812"
+                  "join" : "",
+                  "name" : "The Decemberists",
+                  "resource_url" : "https://api.discogs.com/artists/264812",
+                  "role" : "",
+                  "tracks" : ""
                }
             ],
+            "cover_image" : "https://img.discogs.com/qQYWYJW1baLQXB7gC7LGT50zo6k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853976-1262696140.jpeg.jpg",
             "formats" : [
                {
                   "descriptions" : [
                      "LP",
                      "Album"
                   ],
-                  "qty" : "2",
                   "name" : "Vinyl",
+                  "qty" : "2",
                   "text" : "Gatefold"
                }
             ],
-            "year" : 2009,
-            "thumb" : "https://i.discogs.com/R-1853976-1262696140.jpeg?bucket=discogs-images&expiry=1615253655785.9548&fit=contain&format=auto&height=150&quality=40&width=150&signature=8BcHUG20Y6EVSWtoY%2Buesf94OMlFy8ycPLfRuVheFlA%3D",
-            "id" : 1853976,
-            "labels" : [
-               {
-                  "entity_type_name" : "Label",
-                  "resource_url" : "https://api.discogs.com/labels/51167",
-                  "id" : 51167,
-                  "name" : "Rough Trade",
-                  "catno" : "RTRADLP556",
-                  "entity_type" : "1"
-               }
-            ],
-            "master_id" : 114618,
             "genres" : [
                "Rock",
                "Folk, World, & Country"
             ],
+            "id" : 1853976,
+            "labels" : [
+               {
+                  "catno" : "RTRADLP556",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 51167,
+                  "name" : "Rough Trade",
+                  "resource_url" : "https://api.discogs.com/labels/51167"
+               }
+            ],
+            "master_id" : 114618,
             "master_url" : "https://api.discogs.com/masters/114618",
             "resource_url" : "https://api.discogs.com/releases/1853976",
             "styles" : [
@@ -473,17 +469,30 @@
                "Acoustic",
                "Prog Rock"
             ],
+            "thumb" : "https://img.discogs.com/1pre-HMt1AMzOpJgCWjjuFFfEeE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1853976-1262696140.jpeg.jpg",
             "title" : "The Hazards Of Love",
-            "cover_image" : "https://i.discogs.com/R-1853976-1262696140.jpeg?bucket=discogs-images&expiry=1615253655787.3062&fit=contain&format=auto&height=500&quality=90&width=500&signature=sJenveO01UP2ts6YSIUVwjTKtxrU5ihPFdLMBgKEGgQ%3D"
+            "year" : 2009
          },
+         "date_added" : "2021-02-08T22:59:29-08:00",
+         "id" : 1853976,
+         "notes" : "",
          "rating" : 0,
-         "date_added" : "2021-02-08T22:59:29-08:00"
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/1853976"
       },
       {
-         "notes" : "",
          "basic_information" : {
-            "thumb" : "https://i.discogs.com/R-12480099-1542645992-2636.jpeg?bucket=discogs-images&expiry=1615253655803.154&fit=contain&format=auto&height=150&quality=40&width=150&signature=xvnEWVwURWvhEXE7kLJ0G8o2CDC5bdP%2BdX0AjNOt8DY%3D",
-            "year" : 2018,
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 1695528,
+                  "join" : "",
+                  "name" : "The Cool Kids",
+                  "resource_url" : "https://api.discogs.com/artists/1695528",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/BnQYVcmZz7HsILRueuT2ed7qUnA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12480099-1542645992-2636.jpeg.jpg",
             "formats" : [
                {
                   "descriptions" : [
@@ -491,94 +500,52 @@
                      "Limited Edition",
                      "Reissue"
                   ],
-                  "qty" : "1",
-                  "name" : "Vinyl"
+                  "name" : "Vinyl",
+                  "qty" : "1"
                }
             ],
-            "artists" : [
-               {
-                  "join" : "",
-                  "tracks" : "",
-                  "anv" : "",
-                  "name" : "The Cool Kids",
-                  "resource_url" : "https://api.discogs.com/artists/1695528",
-                  "id" : 1695528,
-                  "role" : ""
-               }
-            ],
-            "id" : 12480099,
-            "master_id" : 97730,
-            "labels" : [
-               {
-                  "id" : 688487,
-                  "resource_url" : "https://api.discogs.com/labels/688487",
-                  "entity_type_name" : "Label",
-                  "catno" : "none",
-                  "entity_type" : "1",
-                  "name" : "Sounds Like Fun"
-               }
-            ],
-            "cover_image" : "https://i.discogs.com/R-12480099-1542645992-2636.jpeg?bucket=discogs-images&expiry=1615253655804.707&fit=contain&format=auto&height=600&quality=90&width=600&signature=nn3jHk29au3rgxnBbK7m5h6lzS5BVdsPTGqzSVJL6nM%3D",
-            "title" : "The Bake Sale",
-            "resource_url" : "https://api.discogs.com/releases/12480099",
-            "styles" : [],
-            "master_url" : "https://api.discogs.com/masters/97730",
             "genres" : [
                "Hip Hop"
-            ]
-         },
-         "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/12480099",
-         "id" : 12480099,
-         "date_added" : "2021-03-03T09:34:58-08:00"
-      },
-      {
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/2993586",
-         "id" : 2993586,
-         "basic_information" : {
+            ],
+            "id" : 12480099,
             "labels" : [
                {
-                  "resource_url" : "https://api.discogs.com/labels/23971",
-                  "id" : 23971,
-                  "entity_type_name" : "Label",
+                  "catno" : "none",
                   "entity_type" : "1",
-                  "catno" : "CGO072",
-                  "name" : "The Control Group"
-               },
-               {
-                  "name" : "The Control Group",
-                  "entity_type" : "1",
-                  "catno" : "CGO 072",
                   "entity_type_name" : "Label",
-                  "id" : 23971,
-                  "resource_url" : "https://api.discogs.com/labels/23971"
+                  "id" : 688487,
+                  "name" : "Sounds Like Fun",
+                  "resource_url" : "https://api.discogs.com/labels/688487"
                }
             ],
-            "master_id" : 58938,
-            "resource_url" : "https://api.discogs.com/releases/2993586",
-            "styles" : [
-               "Alternative Rock"
-            ],
-            "title" : "Under The Western Freeway",
-            "cover_image" : "https://i.discogs.com/R-2993586-1312295560.jpeg?bucket=discogs-images&expiry=1615253655820.3188&fit=contain&format=auto&height=352&quality=90&width=361&signature=W1M/uHmLQDqYl9zWvprtS063pUF6tOZeCE8/36l5OR8%3D",
-            "genres" : [
-               "Rock",
-               "Pop"
-            ],
-            "master_url" : "https://api.discogs.com/masters/58938",
-            "year" : 2011,
-            "thumb" : "https://i.discogs.com/R-2993586-1312295560.jpeg?bucket=discogs-images&expiry=1615253655818.552&fit=contain&format=auto&height=150&quality=40&width=150&signature=etg8ZUc6sI%2Bcqu9etd/79w0tX7MESsSQ3li8Nby0XXk%3D",
+            "master_id" : 97730,
+            "master_url" : "https://api.discogs.com/masters/97730",
+            "resource_url" : "https://api.discogs.com/releases/12480099",
+            "styles" : [],
+            "thumb" : "https://img.discogs.com/9Q2v2lLJhD7w1uv3wRZ7Zy2IQPI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12480099-1542645992-2636.jpeg.jpg",
+            "title" : "The Bake Sale",
+            "year" : 2018
+         },
+         "date_added" : "2021-03-03T09:34:58-08:00",
+         "id" : 12480099,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/12480099"
+      },
+      {
+         "basic_information" : {
             "artists" : [
                {
-                  "role" : "",
-                  "resource_url" : "https://api.discogs.com/artists/17474",
-                  "id" : 17474,
-                  "name" : "Grandaddy",
-                  "tracks" : "",
                   "anv" : "",
-                  "join" : ""
+                  "id" : 17474,
+                  "join" : "",
+                  "name" : "Grandaddy",
+                  "resource_url" : "https://api.discogs.com/artists/17474",
+                  "role" : "",
+                  "tracks" : ""
                }
             ],
+            "cover_image" : "https://img.discogs.com/GPOo3RLcwWY_MMAPGRSOJexKAsQ=/fit-in/361x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2993586-1312295560.jpeg.jpg",
             "formats" : [
                {
                   "descriptions" : [
@@ -590,38 +557,59 @@
                   "qty" : "1"
                }
             ],
-            "id" : 2993586
-         },
-         "rating" : 0,
-         "date_added" : "2020-11-02T10:59:28-08:00",
-         "notes" : ""
-      },
-      {
-         "notes" : "",
-         "id" : 4088814,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/4088814",
-         "rating" : 0,
-         "basic_information" : {
-            "master_url" : "https://api.discogs.com/masters/442565",
             "genres" : [
-               "Hip Hop"
+               "Rock",
+               "Pop"
             ],
-            "cover_image" : "https://i.discogs.com/R-4088814-1470960168-7537.png?bucket=discogs-images&expiry=1615253655835.436&fit=contain&format=auto&height=600&quality=90&width=600&signature=/K9adUEhV1Qcz2waqcJZzhrC87UXy/ExTruoQKTeK6A%3D",
-            "title" : "R.A.P. Music",
-            "styles" : [],
-            "resource_url" : "https://api.discogs.com/releases/4088814",
-            "master_id" : 442565,
+            "id" : 2993586,
             "labels" : [
                {
+                  "catno" : "CGO072",
                   "entity_type" : "1",
-                  "catno" : "384-460-021-1",
-                  "name" : "Williams Street",
-                  "resource_url" : "https://api.discogs.com/labels/85872",
-                  "id" : 85872,
-                  "entity_type_name" : "Label"
+                  "entity_type_name" : "Label",
+                  "id" : 23971,
+                  "name" : "The Control Group",
+                  "resource_url" : "https://api.discogs.com/labels/23971"
+               },
+               {
+                  "catno" : "CGO 072",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 23971,
+                  "name" : "The Control Group",
+                  "resource_url" : "https://api.discogs.com/labels/23971"
                }
             ],
-            "id" : 4088814,
+            "master_id" : 58938,
+            "master_url" : "https://api.discogs.com/masters/58938",
+            "resource_url" : "https://api.discogs.com/releases/2993586",
+            "styles" : [
+               "Alternative Rock"
+            ],
+            "thumb" : "https://img.discogs.com/V-xuLvNYNpqnRWPJnpD6Lbt09Jc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2993586-1312295560.jpeg.jpg",
+            "title" : "Under The Western Freeway",
+            "year" : 2011
+         },
+         "date_added" : "2020-11-02T10:59:28-08:00",
+         "id" : 2993586,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/2993586"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 53116,
+                  "join" : "",
+                  "name" : "Killer Mike",
+                  "resource_url" : "https://api.discogs.com/artists/53116",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/HQN6mxlISO3Ch4zAS244pMKAnQc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4088814-1470960168-7537.png.jpg",
             "formats" : [
                {
                   "descriptions" : [
@@ -632,21 +620,33 @@
                   "qty" : "1"
                }
             ],
-            "artists" : [
+            "genres" : [
+               "Hip Hop"
+            ],
+            "id" : 4088814,
+            "labels" : [
                {
-                  "join" : "",
-                  "tracks" : "",
-                  "anv" : "",
-                  "name" : "Killer Mike",
-                  "resource_url" : "https://api.discogs.com/artists/53116",
-                  "id" : 53116,
-                  "role" : ""
+                  "catno" : "384-460-021-1",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 85872,
+                  "name" : "Williams Street",
+                  "resource_url" : "https://api.discogs.com/labels/85872"
                }
             ],
-            "thumb" : "https://i.discogs.com/R-4088814-1470960168-7537.png?bucket=discogs-images&expiry=1615253655834.206&fit=contain&format=auto&height=150&quality=40&width=150&signature=9aOPQRVXSEClOFo07vcyTqlYQ0loo/JdmZ99gjRpCAE%3D",
+            "master_id" : 442565,
+            "master_url" : "https://api.discogs.com/masters/442565",
+            "resource_url" : "https://api.discogs.com/releases/4088814",
+            "styles" : [],
+            "thumb" : "https://img.discogs.com/2q_lF0A_nP5W9hN4T60wc2pMj3Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4088814-1470960168-7537.png.jpg",
+            "title" : "R.A.P. Music",
             "year" : 2012
          },
-         "date_added" : "2021-02-08T22:58:08-08:00"
+         "date_added" : "2021-02-08T22:58:08-08:00",
+         "id" : 4088814,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/4088814"
       }
    ]
 }
