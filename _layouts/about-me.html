@@ -201,16 +201,14 @@ layout: default
                     {{ exp.designation }}<br />({{exp.time_period_at_company}})
                   </h4>
                   <h6 class="experience-info">
-                    {{ exp.company_name}}
-                  </h6>
-                  <p>
                     <a href="{{exp.company_url}}">
-                      {{ exp.company_url}}
+                      {{ exp.company_name}}
                     </a>
-                  </p>
+                  </h6>
                 </div>
               </div>
             {% endif %}
+            <br />
           {% endfor %}
         </div>
       {% endif %}

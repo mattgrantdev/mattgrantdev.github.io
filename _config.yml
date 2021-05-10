@@ -40,10 +40,10 @@ typewrite-text: Coding, Music, and an undying love for the Chicago Bears all bun
 
 author_work_experiences:
   - company_name: SoundCloud
-    company_logo: soundcloud_logo.png
+    company_logo: soundcloud_logo.jpeg
     company_url: https://soundcloud.com
     designation: Software Engineer
-    time_period_at_company: May 2021 - Present
+    time_period_at_company: Summer 2021 - Present
     visibility: true
   - company_name: S-Docs
     company_logo: s-docs_logo.png
