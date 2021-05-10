@@ -44,40 +44,24 @@ author_work_experiences:
     company_url: https://soundcloud.com
     designation: Software Engineer
     time_period_at_company: May 2021 - Present
-    description: >
-      Up and coming position that I am excited to get started with!
     visibility: true
   - company_name: S-Docs
     company_logo: s-docs_logo.png
     company_url: https://sdocs.com
     designation: Software Engineer
     time_period_at_company: Summer 2019 - April 2021
-    description: >
-      Developed product enhancements, feature requests, and algorithmic efficiencies
-      on Salesforce's Full Stack to improve upon our two App Exchange packages:
-      S-Docs & S-Sign. Beyond this, I was also an active member of the Product Quality
-      Team, Dev Hiring Team, and S-Docs Culture Team.
     visibility: true
   - company_name: Target
     company_logo: target_logo.png
     company_url: https://target.com
     designation: Software Engineer Intern
     time_period_at_company: Summer 2018
-    description:
-      Constructed a RESTful API to efficiently summarize sales forecasting data in a
-      matter of seconds. To improve data retrieval speeds hundredfold, I integrated
-      threading into outgoing requests. This project was demo’d by me to Target’s
-      CTO as well as the Clearance Sales Team.
     visibility: true
   - company_name: U-M Information and Technology Services
     company_logo: michigan-its_logo.png
     company_url: https://its.umich.edu/
     designation: Software Engineer Intern
     time_period_at_company: Summer 2017
-    description:
-      Created a large suite of Automated Test Classes to be added into the team’s CI/CD
-      pipeline within the .NET codebase. Concurrently upgraded a heap of HTML pages to be
-      responsive and have better style via Bootstrap and improved CSS.
     visibility: true
 
 author_education_details:
@@ -118,9 +102,6 @@ twitter_username: MattGrantUmich
 spotify_username: mgrant35
 soundcloud_username: bill-burns-the-first
 discogs_username: mattgra
-
-# wakatime username (coding activity)
-wakatime_username: mattgrantumich
 
 # syntax highlighter
 markdown: kramdown

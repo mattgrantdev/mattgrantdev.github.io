@@ -9,7 +9,7 @@ Great question! To visit my personal website, please click [here](https://mattgr
 ## What will I find once I'm there?
 
 ### About
-The about tab will tell you a little about me from a professional side. This includes information about my work experience, personal project experience, education, and a whole lot more. You'll be able to see what languages and tools I'm familiar with, and even see my hours spent coding using WakaTime.
+The about tab will tell you a little about me from a professional side. This includes information about my work experience, personal project experience, education, and a whole lot more.
 
 ### Vinyl
 That's right, there's a tab dedicated to my Vinyl collection! It's pretty neat. You'll be able to see both what's in my current Vinyl collection, and what I have on my wantlist. This will be updated from time to time automatically, as I have configured a GitHub Action to pull data from Discogs, and interpret it in a reactive manner.
