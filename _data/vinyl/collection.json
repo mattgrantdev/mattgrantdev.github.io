@@ -1,6 +1,6 @@
 {
    "pagination" : {
-      "items" : 42,
+      "items" : 43,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
@@ -993,6 +993,71 @@
             "artists" : [
                {
                   "anv" : "",
+                  "id" : 1967268,
+                  "join" : "",
+                  "name" : "Tyler, The Creator",
+                  "resource_url" : "https://api.discogs.com/artists/1967268",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/Hpvq4OwX1E4ouiaUdFJPgap_EfU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11195697-1513419024-5128.jpeg.jpg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "12\"",
+                     "33 ⅓ RPM",
+                     "Album"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "2",
+                  "text" : "Gatefold"
+               }
+            ],
+            "genres" : [
+               "Hip Hop",
+               "Funk / Soul"
+            ],
+            "id" : 11195697,
+            "labels" : [
+               {
+                  "catno" : "88985469051",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 1866,
+                  "name" : "Columbia",
+                  "resource_url" : "https://api.discogs.com/labels/1866"
+               },
+               {
+                  "catno" : "C-198213",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 1866,
+                  "name" : "Columbia",
+                  "resource_url" : "https://api.discogs.com/labels/1866"
+               }
+            ],
+            "master_id" : 1212609,
+            "master_url" : "https://api.discogs.com/masters/1212609",
+            "resource_url" : "https://api.discogs.com/releases/11195697",
+            "styles" : [
+               "Jazzy Hip-Hop"
+            ],
+            "thumb" : "https://img.discogs.com/w1uSt8bLmEu1nAYrq24ucnyBcEY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11195697-1513419024-5128.jpeg.jpg",
+            "title" : "Scum Fuck Flower Boy",
+            "year" : 2017
+         },
+         "date_added" : "2021-05-10T11:01:40-07:00",
+         "folder_id" : 1,
+         "id" : 11195697,
+         "instance_id" : 700063816,
+         "rating" : 0
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
                   "id" : 27507,
                   "join" : "",
                   "name" : "Deltron 3030",
@@ -1200,7 +1265,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/f8guBlcZNer_2NTFszKiOVGvxSM=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16233494-1610997387-5386.jpeg.jpg",
+            "cover_image" : "https://img.discogs.com/Z3W2IJM-BKXiqnz46chQTIV6lBI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16233494-1620745483-4420.jpeg.jpg",
             "formats" : [
                {
                   "descriptions" : [
@@ -1230,7 +1295,7 @@
             "master_url" : "https://api.discogs.com/masters/629407",
             "resource_url" : "https://api.discogs.com/releases/16233494",
             "styles" : [],
-            "thumb" : "https://img.discogs.com/en4zfyACeJekjNW1drvoInt-Im8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-16233494-1610997387-5386.jpeg.jpg",
+            "thumb" : "https://img.discogs.com/R3b0j2PZuLYferOwopea3P-D4Ks=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-16233494-1620745483-4420.jpeg.jpg",
             "title" : "Because The Internet",
             "year" : 2020
          },
