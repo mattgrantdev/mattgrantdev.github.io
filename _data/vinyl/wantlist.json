@@ -1,6 +1,6 @@
 {
    "pagination" : {
-      "items" : 11,
+      "items" : 12,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
@@ -233,6 +233,67 @@
          "notes" : "",
          "rating" : 0,
          "resource_url" : "https://api.discogs.com/users/mattgra/wants/11178947"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 4751064,
+                  "join" : "",
+                  "name" : "Kevin Abstract",
+                  "resource_url" : "https://api.discogs.com/artists/4751064",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/rf3xAsYGHHHbkQ1Az0_34g1ibks=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18680005-1620726953-8289.jpeg.jpg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album",
+                     "Limited Edition",
+                     "Unofficial Release"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1",
+                  "text" : "Red [Opaque]"
+               }
+            ],
+            "genres" : [
+               "Hip Hop",
+               "Funk / Soul",
+               "Pop"
+            ],
+            "id" : 18680005,
+            "labels" : [
+               {
+                  "catno" : "44648",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 1818,
+                  "name" : "Not On Label",
+                  "resource_url" : "https://api.discogs.com/labels/1818"
+               }
+            ],
+            "master_id" : 1283826,
+            "master_url" : "https://api.discogs.com/masters/1283826",
+            "resource_url" : "https://api.discogs.com/releases/18680005",
+            "styles" : [
+               "RnB/Swing",
+               "Contemporary R&B",
+               "Conscious"
+            ],
+            "thumb" : "https://img.discogs.com/ZcuCoWeMaXVkNDq_RImvREyZ6M0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-18680005-1620726953-8289.jpeg.jpg",
+            "title" : "American Boyfriend: A Suburban Love Story",
+            "year" : 2021
+         },
+         "date_added" : "2021-06-04T16:39:56-07:00",
+         "id" : 18680005,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/18680005"
       },
       {
          "basic_information" : {

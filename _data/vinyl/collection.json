@@ -714,7 +714,8 @@
                      "12\"",
                      "45 RPM",
                      "Maxi-Single",
-                     "Repress"
+                     "Repress",
+                     "Stereo"
                   ],
                   "name" : "Vinyl",
                   "qty" : "1",
@@ -2196,7 +2197,8 @@
                      "Reissue"
                   ],
                   "name" : "Vinyl",
-                  "qty" : "1"
+                  "qty" : "1",
+                  "text" : "180g, United Record Pressing  "
                }
             ],
             "genres" : [
