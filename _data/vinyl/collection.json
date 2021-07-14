@@ -1,6 +1,6 @@
 {
    "pagination" : {
-      "items" : 43,
+      "items" : 44,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
@@ -783,7 +783,8 @@
                      "Album"
                   ],
                   "name" : "Vinyl",
-                  "qty" : "1"
+                  "qty" : "1",
+                  "text" : "Gatefold"
                }
             ],
             "genres" : [
@@ -1748,7 +1749,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/qlPqyS8yoNGmDsEDLk6Vou5XTo8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9302533-1478257194-6516.jpeg.jpg",
+            "cover_image" : "https://img.discogs.com/XaUvvfNKvjI2p6ffAeaMEokQRk0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9302533-1625369450-3085.jpeg.jpg",
             "formats" : [
                {
                   "descriptions" : [
@@ -1781,7 +1782,7 @@
             "master_url" : "https://api.discogs.com/masters/8470",
             "resource_url" : "https://api.discogs.com/releases/9302533",
             "styles" : [],
-            "thumb" : "https://img.discogs.com/ILbY3BjIR_4C5c6e5MSZhb-JwBc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9302533-1478257194-6516.jpeg.jpg",
+            "thumb" : "https://img.discogs.com/9yed60X29BQHqxzPLTwUZO4vQTY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-9302533-1625369450-3085.jpeg.jpg",
             "title" : "Operation: Doomsday",
             "year" : 2016
          },
@@ -2526,6 +2527,58 @@
          "folder_id" : 1,
          "id" : 949843,
          "instance_id" : 521440974,
+         "rating" : 0
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 53116,
+                  "join" : "",
+                  "name" : "Killer Mike",
+                  "resource_url" : "https://api.discogs.com/artists/53116",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://img.discogs.com/HQN6mxlISO3Ch4zAS244pMKAnQc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4088814-1470960168-7537.png.jpg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1"
+               }
+            ],
+            "genres" : [
+               "Hip Hop"
+            ],
+            "id" : 4088814,
+            "labels" : [
+               {
+                  "catno" : "384-460-021-1",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 85872,
+                  "name" : "Williams Street",
+                  "resource_url" : "https://api.discogs.com/labels/85872"
+               }
+            ],
+            "master_id" : 442565,
+            "master_url" : "https://api.discogs.com/masters/442565",
+            "resource_url" : "https://api.discogs.com/releases/4088814",
+            "styles" : [],
+            "thumb" : "https://img.discogs.com/2q_lF0A_nP5W9hN4T60wc2pMj3Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4088814-1470960168-7537.png.jpg",
+            "title" : "R.A.P. Music",
+            "year" : 2012
+         },
+         "date_added" : "2021-06-10T14:49:07-07:00",
+         "folder_id" : 2353211,
+         "id" : 4088814,
+         "instance_id" : 727961005,
          "rating" : 0
       },
       {

@@ -1,6 +1,6 @@
 {
    "pagination" : {
-      "items" : 12,
+      "items" : 11,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
@@ -177,62 +177,6 @@
          "notes" : "",
          "rating" : 0,
          "resource_url" : "https://api.discogs.com/users/mattgra/wants/10028182"
-      },
-      {
-         "basic_information" : {
-            "artists" : [
-               {
-                  "anv" : "",
-                  "id" : 5500267,
-                  "join" : "",
-                  "name" : "Daniel Caesar (2)",
-                  "resource_url" : "https://api.discogs.com/artists/5500267",
-                  "role" : "",
-                  "tracks" : ""
-               }
-            ],
-            "cover_image" : "https://img.discogs.com/ClZ7aETRBxCOFudnXBlN8ThK1c0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11178947-1612557966-8488.jpeg.jpg",
-            "formats" : [
-               {
-                  "descriptions" : [
-                     "LP",
-                     "Album"
-                  ],
-                  "name" : "Vinyl",
-                  "qty" : "1",
-                  "text" : "Blue"
-               }
-            ],
-            "genres" : [
-               "Hip Hop",
-               "Funk / Soul"
-            ],
-            "id" : 11178947,
-            "labels" : [
-               {
-                  "catno" : "924249",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 1312228,
-                  "name" : "Golden Child Recordings",
-                  "resource_url" : "https://api.discogs.com/labels/1312228"
-               }
-            ],
-            "master_id" : 1275484,
-            "master_url" : "https://api.discogs.com/masters/1275484",
-            "resource_url" : "https://api.discogs.com/releases/11178947",
-            "styles" : [
-               "Contemporary R&B"
-            ],
-            "thumb" : "https://img.discogs.com/XtD9-kJJZGCdMC8mPSK8UVXJX8I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-11178947-1612557966-8488.jpeg.jpg",
-            "title" : "Freudian",
-            "year" : 2017
-         },
-         "date_added" : "2021-02-08T23:01:00-08:00",
-         "id" : 11178947,
-         "notes" : "",
-         "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/11178947"
       },
       {
          "basic_information" : {
@@ -487,58 +431,56 @@
             "artists" : [
                {
                   "anv" : "",
-                  "id" : 264812,
+                  "id" : 4751064,
                   "join" : "",
-                  "name" : "The Decemberists",
-                  "resource_url" : "https://api.discogs.com/artists/264812",
+                  "name" : "Kevin Abstract",
+                  "resource_url" : "https://api.discogs.com/artists/4751064",
                   "role" : "",
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/qQYWYJW1baLQXB7gC7LGT50zo6k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853976-1262696140.jpeg.jpg",
+            "cover_image" : "https://img.discogs.com/6r8Ls9NQDOBMxXdHWUGXW4oXfQE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14844909-1582676257-8829.webp.jpg",
             "formats" : [
                {
                   "descriptions" : [
                      "LP",
-                     "Album"
+                     "Album",
+                     "Unofficial Release"
                   ],
                   "name" : "Vinyl",
-                  "qty" : "2",
-                  "text" : "Gatefold"
+                  "qty" : "1",
+                  "text" : "Blue"
                }
             ],
             "genres" : [
-               "Rock",
-               "Folk, World, & Country"
+               "Hip Hop"
             ],
-            "id" : 1853976,
+            "id" : 14844909,
             "labels" : [
                {
-                  "catno" : "RTRADLP556",
+                  "catno" : "36952",
                   "entity_type" : "1",
                   "entity_type_name" : "Label",
-                  "id" : 51167,
-                  "name" : "Rough Trade",
-                  "resource_url" : "https://api.discogs.com/labels/51167"
+                  "id" : 1731553,
+                  "name" : "Saturation Records",
+                  "resource_url" : "https://api.discogs.com/labels/1731553"
                }
             ],
-            "master_id" : 114618,
-            "master_url" : "https://api.discogs.com/masters/114618",
-            "resource_url" : "https://api.discogs.com/releases/1853976",
+            "master_id" : 2074324,
+            "master_url" : "https://api.discogs.com/masters/2074324",
+            "resource_url" : "https://api.discogs.com/releases/14844909",
             "styles" : [
-               "Folk Rock",
-               "Acoustic",
-               "Prog Rock"
+               "Pop Rap"
             ],
-            "thumb" : "https://img.discogs.com/1pre-HMt1AMzOpJgCWjjuFFfEeE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1853976-1262696140.jpeg.jpg",
-            "title" : "The Hazards Of Love",
-            "year" : 2009
+            "thumb" : "https://img.discogs.com/mnszbdsmlK80oz-vXLsy-XAoEeg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14844909-1582676257-8829.webp.jpg",
+            "title" : "ARIZONA BABY",
+            "year" : 2020
          },
-         "date_added" : "2021-02-08T22:59:29-08:00",
-         "id" : 1853976,
+         "date_added" : "2021-06-10T14:48:36-07:00",
+         "id" : 14844909,
          "notes" : "",
          "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/1853976"
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/14844909"
       },
       {
          "basic_information" : {
@@ -662,52 +604,72 @@
             "artists" : [
                {
                   "anv" : "",
-                  "id" : 53116,
+                  "id" : 1778977,
                   "join" : "",
-                  "name" : "Killer Mike",
-                  "resource_url" : "https://api.discogs.com/artists/53116",
+                  "name" : "Kendrick Lamar",
+                  "resource_url" : "https://api.discogs.com/artists/1778977",
                   "role" : "",
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/HQN6mxlISO3Ch4zAS244pMKAnQc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4088814-1470960168-7537.png.jpg",
+            "cover_image" : "https://img.discogs.com/iTFWyrduZe4dCGnjc9fOknfnwVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10689178-1502452889-8760.jpeg.jpg",
             "formats" : [
                {
                   "descriptions" : [
                      "LP",
-                     "Album"
+                     "Album",
+                     "Limited Edition"
                   ],
                   "name" : "Vinyl",
-                  "qty" : "1"
+                  "qty" : "2",
+                  "text" : "Red Translucent"
                }
             ],
             "genres" : [
                "Hip Hop"
             ],
-            "id" : 4088814,
+            "id" : 10689178,
             "labels" : [
                {
-                  "catno" : "384-460-021-1",
+                  "catno" : "00602557618280",
                   "entity_type" : "1",
                   "entity_type_name" : "Label",
-                  "id" : 85872,
-                  "name" : "Williams Street",
-                  "resource_url" : "https://api.discogs.com/labels/85872"
+                  "id" : 255292,
+                  "name" : "Top Dawg Entertainment",
+                  "resource_url" : "https://api.discogs.com/labels/255292"
+               },
+               {
+                  "catno" : "00602557618280",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 2310,
+                  "name" : "Aftermath Entertainment",
+                  "resource_url" : "https://api.discogs.com/labels/2310"
+               },
+               {
+                  "catno" : "00602557618280",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 2311,
+                  "name" : "Interscope Records",
+                  "resource_url" : "https://api.discogs.com/labels/2311"
                }
             ],
-            "master_id" : 442565,
-            "master_url" : "https://api.discogs.com/masters/442565",
-            "resource_url" : "https://api.discogs.com/releases/4088814",
-            "styles" : [],
-            "thumb" : "https://img.discogs.com/2q_lF0A_nP5W9hN4T60wc2pMj3Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4088814-1470960168-7537.png.jpg",
-            "title" : "R.A.P. Music",
-            "year" : 2012
+            "master_id" : 1164779,
+            "master_url" : "https://api.discogs.com/masters/1164779",
+            "resource_url" : "https://api.discogs.com/releases/10689178",
+            "styles" : [
+               "Conscious"
+            ],
+            "thumb" : "https://img.discogs.com/rXQDoA-NnSg7u24Wd35TuBp-iHc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10689178-1502452889-8760.jpeg.jpg",
+            "title" : "Damn",
+            "year" : 2017
          },
-         "date_added" : "2021-02-08T22:58:08-08:00",
-         "id" : 4088814,
+         "date_added" : "2021-06-10T14:53:19-07:00",
+         "id" : 10689178,
          "notes" : "",
          "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/4088814"
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/10689178"
       }
    ]
 }
