@@ -17,9 +17,6 @@ That's right, there's a tab dedicated to my Vinyl collection! It's pretty neat. 
 ### My SoundCloud
 This tab will give you a peak at my SoundCloud Showcase! Now, don't get your hopes up, there won't be any content from yours truly as I am not in fact talented... yet... BUT, I have my favorite recommendations updated on this tab from time to time from artists who are in fact very talented! Give it a look!
 
-### My Spotify
-This tab will give you a small taste of my Spotify playlists. Spotify is just one of the tools I've used for my own personal musical immersion and discovery, and I will periodically be updating the playlists you'll find there, so feel free to check in now and then!
-
 ### Gallery
 Here you will find photo galleries I have put together from the various places I have travelled in the past. I will be updating this from time to time as I travel around, which will be occurring quite a bit in the distant future once it is safe to do so (keeping COVID-19 in mind).
 
