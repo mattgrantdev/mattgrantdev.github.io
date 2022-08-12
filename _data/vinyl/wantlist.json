@@ -1,6 +1,6 @@
 {
    "pagination" : {
-      "items" : 11,
+      "items" : 13,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
@@ -12,56 +12,126 @@
             "artists" : [
                {
                   "anv" : "",
-                  "id" : 1033478,
+                  "id" : 202598,
                   "join" : "",
-                  "name" : "Tally Hall",
-                  "resource_url" : "https://api.discogs.com/artists/1033478",
+                  "name" : "Sufjan Stevens",
+                  "resource_url" : "https://api.discogs.com/artists/202598",
                   "role" : "",
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/QIrZTNr-y7_M7tIrUBuf9eH82cQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3059702-1629008225-8094.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/7GwjOgZNYChdF2LfYn5nUFeX4km_zUEo8ECW2TsvMz4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTA0/Mi0xNTg2MDQ4NDA1/LTYzNzkuanBlZw.jpeg",
             "formats" : [
                {
                   "descriptions" : [
                      "LP",
-                     "Album"
+                     "Album",
+                     "Reissue"
                   ],
                   "name" : "Vinyl",
-                  "qty" : "1"
+                  "qty" : "2"
                }
             ],
             "genres" : [
                "Rock",
-               "Pop"
+               "Pop",
+               "Stage & Screen"
             ],
-            "id" : 3059702,
+            "id" : 649042,
             "labels" : [
                {
-                  "catno" : "514047-1",
+                  "catno" : "AKR 014",
                   "entity_type" : "1",
                   "entity_type_name" : "Label",
-                  "id" : 681,
-                  "name" : "Atlantic",
-                  "resource_url" : "https://api.discogs.com/labels/681"
+                  "id" : 35784,
+                  "name" : "Asthmatic Kitty Records",
+                  "resource_url" : "https://api.discogs.com/labels/35784"
+               },
+               {
+                  "catno" : "none",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 41651,
+                  "name" : "Sounds Familyre",
+                  "resource_url" : "https://api.discogs.com/labels/41651"
                }
             ],
-            "master_id" : 356394,
-            "master_url" : "https://api.discogs.com/masters/356394",
-            "resource_url" : "https://api.discogs.com/releases/3059702",
+            "master_id" : 14863,
+            "master_url" : "https://api.discogs.com/masters/14863",
+            "resource_url" : "https://api.discogs.com/releases/649042",
             "styles" : [
-               "Alternative Rock",
-               "Pop Rock"
+               "Folk Rock",
+               "Indie Pop",
+               "Theme"
             ],
-            "thumb" : "https://img.discogs.com/-jSZEqv1jfXU6IZ24ZRvBJhx9JA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3059702-1629008225-8094.jpeg.jpg",
-            "title" : "Marvin's Marvelous Mechanical Museum",
-            "year" : 2008
+            "thumb" : "https://i.discogs.com/wBy8b3fTYhtXj51Fzjn8ha9MlFDmPFn4qjLVNd1at4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0OTA0/Mi0xNTg2MDQ4NDA1/LTYzNzkuanBlZw.jpeg",
+            "title" : "Illinois",
+            "year" : 2006
          },
-         "date_added" : "2020-10-30T06:38:30-07:00",
-         "id" : 3059702,
+         "date_added" : "2022-01-27T13:01:44-08:00",
+         "id" : 649042,
          "notes" : "",
          "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/3059702"
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/649042"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 2013868,
+                  "join" : "",
+                  "name" : "Frank Ocean",
+                  "resource_url" : "https://api.discogs.com/artists/2013868",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://i.discogs.com/XMzeAaA5a3sHZJjMbbEoFwkQfvqLQNJMYlI7hCNqrwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/NjYxLTE1MjM0MTQ4/NjItOTIzMi5qcGVn.jpeg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Single Sided",
+                     "Album",
+                     "Etched"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "2"
+               }
+            ],
+            "genres" : [
+               "Electronic",
+               "Hip Hop",
+               "Funk / Soul",
+               "Pop"
+            ],
+            "id" : 11202661,
+            "labels" : [
+               {
+                  "catno" : "602557139785",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 1054779,
+                  "name" : "Boys Don't Cry",
+                  "resource_url" : "https://api.discogs.com/labels/1054779"
+               }
+            ],
+            "master_id" : 1077026,
+            "master_url" : "https://api.discogs.com/masters/1077026",
+            "resource_url" : "https://api.discogs.com/releases/11202661",
+            "styles" : [
+               "Contemporary R&B"
+            ],
+            "thumb" : "https://i.discogs.com/4DrxS2iP3Fmj5o0z-mS-WqH9wUZdxGcY2rWL7gfs-e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/NjYxLTE1MjM0MTQ4/NjItOTIzMi5qcGVn.jpeg",
+            "title" : "Endless",
+            "year" : 2018
+         },
+         "date_added" : "2022-04-20T12:21:58-07:00",
+         "id" : 11202661,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/11202661"
       },
       {
          "basic_information" : {
@@ -76,7 +146,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/4sr9c8dU2vX4g0c8EVC950A_nGY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3193195-1325678249.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/p0K6CDSn7-IbhLrOSc5WDGXGpvbTL1BOV1E0xrD93g0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTMx/OTUtMTMyNTY3ODI0/OS5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -111,7 +181,7 @@
                "Blues Rock",
                "Pop Rock"
             ],
-            "thumb" : "https://img.discogs.com/AhYzPtys5G5Pqiw37a_zHx8wytM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3193195-1325678249.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/PJIrV89EZE2k22XdmV85Ksn1Yw_oTXqOnIbos4Rr1jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTMx/OTUtMTMyNTY3ODI0/OS5qcGVn.jpeg",
             "title" : "Continuum",
             "year" : 2006
          },
@@ -134,7 +204,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/ZweE2h8yc81pu80tHqCEUEyFkSU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10028182-1490379171-5613.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/VxucS79rObGAZPiz_6P7RkAtCrrpDJzVdoumMx24IOM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/MTgyLTE0OTAzNzkx/NzEtNTYxMy5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -168,7 +238,7 @@
             "styles" : [
                "Prog Rock"
             ],
-            "thumb" : "https://img.discogs.com/Olk3x_X7amA782l5gIzGGD4qQk0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10028182-1490379171-5613.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/MOGGqVyXlUkEemorW-R6CFF_JPDVI4uSmJ11ytkCNNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDI4/MTgyLTE0OTAzNzkx/NzEtNTYxMy5qcGVn.jpeg",
             "title" : "Stranger Heads Prevail",
             "year" : 2016
          },
@@ -183,6 +253,71 @@
             "artists" : [
                {
                   "anv" : "",
+                  "id" : 6959133,
+                  "join" : "",
+                  "name" : "Black Country, New Road",
+                  "resource_url" : "https://api.discogs.com/artists/6959133",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://i.discogs.com/XrJMb22Gce2MBLYOllKIPCAx5soAvS8-my1Gqh11134/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA5/MDk0LTE2MzA3NDkx/NTItMzc5OS5qcGVn.jpeg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album",
+                     "Limited Edition"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1",
+                  "text" : "Eco-Wax"
+               }
+            ],
+            "genres" : [
+               "Rock"
+            ],
+            "id" : 20109094,
+            "labels" : [
+               {
+                  "catno" : "ZEN269",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 109,
+                  "name" : "Ninja Tune",
+                  "resource_url" : "https://api.discogs.com/labels/109"
+               },
+               {
+                  "catno" : "ZEN269LR",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 109,
+                  "name" : "Ninja Tune",
+                  "resource_url" : "https://api.discogs.com/labels/109"
+               }
+            ],
+            "master_id" : 1947124,
+            "master_url" : "https://api.discogs.com/masters/1947124",
+            "resource_url" : "https://api.discogs.com/releases/20109094",
+            "styles" : [
+               "Experimental",
+               "Post-Punk"
+            ],
+            "thumb" : "https://i.discogs.com/dGfhVZHqhTx48IvUCZ2bH2rLO-5Vd6dwzF87Rw7awh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA5/MDk0LTE2MzA3NDkx/NTItMzc5OS5qcGVn.jpeg",
+            "title" : "For The First Time",
+            "year" : 2021
+         },
+         "date_added" : "2022-03-01T12:03:56-08:00",
+         "id" : 20109094,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/20109094"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
                   "id" : 4751064,
                   "join" : "",
                   "name" : "Kevin Abstract",
@@ -191,7 +326,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/rf3xAsYGHHHbkQ1Az0_34g1ibks=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18680005-1620726953-8289.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/bCsVyWn3Hhr9CVrS6KYA7mi3nefMPYB9YSDHeQ8SYiQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -229,7 +364,7 @@
                "Contemporary R&B",
                "Conscious"
             ],
-            "thumb" : "https://img.discogs.com/ZcuCoWeMaXVkNDq_RImvREyZ6M0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-18680005-1620726953-8289.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/83FWLvcRjn3UCtp-X_Z5RngsnFHq9rFapCCtS650KuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
             "title" : "American Boyfriend: A Suburban Love Story",
             "year" : 2021
          },
@@ -252,7 +387,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/c904Nb3gjObL4-Z80nzG9EQspvQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14731503-1629008768-2558.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/DY2pnIYCiKeNyiFEG0VypaEic4fR9p7_czNtMWIDC88/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NTAzLTE2MjkwMDg3/NjgtMjU1OC5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -292,7 +427,7 @@
                "Chiptune",
                "Experimental"
             ],
-            "thumb" : "https://img.discogs.com/QMqz54xwWg09IXW6AZzIQErPHBI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14731503-1629008768-2558.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/xHHNqvfzmOeAhK_Tis5TNWhj1SE6BiA4EJ8_3oM0uJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzMx/NTAzLTE2MjkwMDg3/NjgtMjU1OC5qcGVn.jpeg",
             "title" : "Hawaii: Part II",
             "year" : 2020
          },
@@ -307,6 +442,60 @@
             "artists" : [
                {
                   "anv" : "",
+                  "id" : 5729537,
+                  "join" : "",
+                  "name" : "Rex Orange County",
+                  "resource_url" : "https://api.discogs.com/artists/5729537",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://i.discogs.com/9eGHAg62a1LuTenQpY2h7mNbWwC0BaUE_5dMedppSsI/rs:fit/g:sm/q:90/h:588/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/MTkxLTE1MTg1MDYy/NTMtNDg4Ni5qcGVn.jpeg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album",
+                     "Limited Edition"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1",
+                  "text" : "Orange"
+               }
+            ],
+            "genres" : [
+               "Pop"
+            ],
+            "id" : 11560191,
+            "labels" : [
+               {
+                  "catno" : "none",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 1818,
+                  "name" : "Not On Label",
+                  "resource_url" : "https://api.discogs.com/labels/1818"
+               }
+            ],
+            "master_id" : 1395162,
+            "master_url" : "https://api.discogs.com/masters/1395162",
+            "resource_url" : "https://api.discogs.com/releases/11560191",
+            "styles" : [],
+            "thumb" : "https://i.discogs.com/fMSbBuUq7ffZJIoQ6400o-_F9ACDq3s50bZVJ90LWJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/MTkxLTE1MTg1MDYy/NTMtNDg4Ni5qcGVn.jpeg",
+            "title" : "Apricot Princess",
+            "year" : 2018
+         },
+         "date_added" : "2022-01-27T13:01:29-08:00",
+         "id" : 11560191,
+         "notes" : "",
+         "rating" : 0,
+         "resource_url" : "https://api.discogs.com/users/mattgra/wants/11560191"
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
                   "id" : 1033478,
                   "join" : "",
                   "name" : "Tally Hall",
@@ -315,7 +504,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/5HRPrUQZqF8WOw-tJppG1UibHzw=/fit-in/500x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3059678-1629861198-7643.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/LIvdNaBW4QYnyOHXsJJvviCTJPOB_zc7eM7PzmZlFr4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk2/NzgtMTY0MDgxNTQ4/NS00MDc5LmpwZWc.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -349,7 +538,7 @@
                "Alternative Rock",
                "Pop Rock"
             ],
-            "thumb" : "https://img.discogs.com/nfFOn_l8jx7IntmtEef3wwk9zlM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3059678-1629861198-7643.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/2m5S8ILYlHZ0M3TnHJnSyGOY9NVsyXYp4EUkGtyVUJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk2/NzgtMTY0MDgxNTQ4/NS00MDc5LmpwZWc.jpeg",
             "title" : "Good & Evil",
             "year" : 2011
          },
@@ -372,7 +561,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/eSuOQhAGkKUesysTK2lTQyrjjt4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7529254-1445974393-2828.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/p3wptP0XJ_SCE67TzPfQls_yB98hfrwQBEj1fZ2JoNw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjky/NTQtMTQ0NTk3NDM5/My0yODI4LmpwZWc.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -416,7 +605,7 @@
                "Fusion",
                "Jazz-Funk"
             ],
-            "thumb" : "https://img.discogs.com/I-AiJtPSKAam8lmyu6shpGIOjvw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7529254-1445974393-2828.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/zbJ-gSYGwYfSbUU6-uw8fxivtjB_9QlG1qvgQqCwlks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Mjky/NTQtMTQ0NTk3NDM5/My0yODI4LmpwZWc.jpeg",
             "title" : "We Like It Here",
             "year" : 2014
          },
@@ -439,7 +628,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/6r8Ls9NQDOBMxXdHWUGXW4oXfQE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14844909-1582676257-8829.webp.jpg",
+            "cover_image" : "https://i.discogs.com/sPnmTcxIwJ9Xn0Tr2Q21gcaqkxVxIBandN_WeFvlsSg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/OTA5LTE1ODI2NzYy/NTctODgyOS53ZWJw.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -472,7 +661,7 @@
             "styles" : [
                "Pop Rap"
             ],
-            "thumb" : "https://img.discogs.com/mnszbdsmlK80oz-vXLsy-XAoEeg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14844909-1582676257-8829.webp.jpg",
+            "thumb" : "https://i.discogs.com/nHjjL_effzYhsXXN3mvzPeiZtKM3ZLF5HHJr8eEm1T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/OTA5LTE1ODI2NzYy/NTctODgyOS53ZWJw.jpeg",
             "title" : "ARIZONA BABY",
             "year" : 2020
          },
@@ -495,7 +684,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/BnQYVcmZz7HsILRueuT2ed7qUnA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12480099-1542645992-2636.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/nTryWYxycveCiEnBBUbOjF5ej6kPP5N9xRK8QOZvodE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgw/MDk5LTE1NDI2NDU5/OTItMjYzNi5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -525,7 +714,7 @@
             "master_url" : "https://api.discogs.com/masters/97730",
             "resource_url" : "https://api.discogs.com/releases/12480099",
             "styles" : [],
-            "thumb" : "https://img.discogs.com/9Q2v2lLJhD7w1uv3wRZ7Zy2IQPI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-12480099-1542645992-2636.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/n_hX4rlIpSnLkUwiL2FJcPX2lcgOTWboJwjAA86tSl4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgw/MDk5LTE1NDI2NDU5/OTItMjYzNi5qcGVn.jpeg",
             "title" : "The Bake Sale",
             "year" : 2018
          },
@@ -540,70 +729,6 @@
             "artists" : [
                {
                   "anv" : "",
-                  "id" : 17474,
-                  "join" : "",
-                  "name" : "Grandaddy",
-                  "resource_url" : "https://api.discogs.com/artists/17474",
-                  "role" : "",
-                  "tracks" : ""
-               }
-            ],
-            "cover_image" : "https://img.discogs.com/GPOo3RLcwWY_MMAPGRSOJexKAsQ=/fit-in/361x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2993586-1312295560.jpeg.jpg",
-            "formats" : [
-               {
-                  "descriptions" : [
-                     "LP",
-                     "Album",
-                     "Reissue"
-                  ],
-                  "name" : "Vinyl",
-                  "qty" : "1"
-               }
-            ],
-            "genres" : [
-               "Rock",
-               "Pop"
-            ],
-            "id" : 2993586,
-            "labels" : [
-               {
-                  "catno" : "CGO072",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 23971,
-                  "name" : "The Control Group",
-                  "resource_url" : "https://api.discogs.com/labels/23971"
-               },
-               {
-                  "catno" : "CGO 072",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 23971,
-                  "name" : "The Control Group",
-                  "resource_url" : "https://api.discogs.com/labels/23971"
-               }
-            ],
-            "master_id" : 58938,
-            "master_url" : "https://api.discogs.com/masters/58938",
-            "resource_url" : "https://api.discogs.com/releases/2993586",
-            "styles" : [
-               "Alternative Rock"
-            ],
-            "thumb" : "https://img.discogs.com/V-xuLvNYNpqnRWPJnpD6Lbt09Jc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2993586-1312295560.jpeg.jpg",
-            "title" : "Under The Western Freeway",
-            "year" : 2011
-         },
-         "date_added" : "2020-11-02T10:59:28-08:00",
-         "id" : 2993586,
-         "notes" : "",
-         "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/2993586"
-      },
-      {
-         "basic_information" : {
-            "artists" : [
-               {
-                  "anv" : "",
                   "id" : 1778977,
                   "join" : "",
                   "name" : "Kendrick Lamar",
@@ -612,7 +737,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://img.discogs.com/iTFWyrduZe4dCGnjc9fOknfnwVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10689178-1502452889-8760.jpeg.jpg",
+            "cover_image" : "https://i.discogs.com/yg-Lx2nk8T6wl0SekM3Um9mcQ_N2qzBVrRplg58zDek/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg5/MTc4LTE1MDI0NTI4/ODktODc2MC5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -661,7 +786,7 @@
             "styles" : [
                "Conscious"
             ],
-            "thumb" : "https://img.discogs.com/rXQDoA-NnSg7u24Wd35TuBp-iHc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10689178-1502452889-8760.jpeg.jpg",
+            "thumb" : "https://i.discogs.com/ty4zfL75YheyWI0Da_p48ta08UdURTyByFxbS6YSyME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg5/MTc4LTE1MDI0NTI4/ODktODc2MC5qcGVn.jpeg",
             "title" : "Damn",
             "year" : 2017
          },
