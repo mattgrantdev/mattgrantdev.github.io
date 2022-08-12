@@ -1,12 +1,132 @@
 {
    "pagination" : {
-      "items" : 26,
+      "items" : 27,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
       "urls" : {}
    },
    "releases" : [
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 445868,
+                  "join" : "",
+                  "name" : "Janelle Monáe",
+                  "resource_url" : "https://api.discogs.com/artists/445868",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://i.discogs.com/7iNejl55fatoQVlIkOQBYf5hCoflPLxY1b10W5ZcNDg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY5/MjkxLTE1ODAwNDE0/MzEtNDM2MC5qcGVn.jpeg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "45 RPM",
+                     "Album"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "2",
+                  "text" : "Gatefold"
+               }
+            ],
+            "genres" : [
+               "Funk / Soul"
+            ],
+            "id" : 12569291,
+            "labels" : [
+               {
+                  "catno" : "567348-1",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 681,
+                  "name" : "Atlantic",
+                  "resource_url" : "https://api.discogs.com/labels/681"
+               },
+               {
+                  "catno" : "567348-1",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 13090,
+                  "name" : "Bad Boy Entertainment",
+                  "resource_url" : "https://api.discogs.com/labels/13090"
+               },
+               {
+                  "catno" : "567348-1",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 200505,
+                  "name" : "Wondaland",
+                  "resource_url" : "https://api.discogs.com/labels/200505"
+               },
+               {
+                  "catno" : "075678657900",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 681,
+                  "name" : "Atlantic",
+                  "resource_url" : "https://api.discogs.com/labels/681"
+               },
+               {
+                  "catno" : "075678657900",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 13090,
+                  "name" : "Bad Boy Entertainment",
+                  "resource_url" : "https://api.discogs.com/labels/13090"
+               },
+               {
+                  "catno" : "075678657900",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 200505,
+                  "name" : "Wondaland",
+                  "resource_url" : "https://api.discogs.com/labels/200505"
+               },
+               {
+                  "catno" : "7567-86579-0",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 681,
+                  "name" : "Atlantic",
+                  "resource_url" : "https://api.discogs.com/labels/681"
+               },
+               {
+                  "catno" : "7567-86579-0",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 13090,
+                  "name" : "Bad Boy Entertainment",
+                  "resource_url" : "https://api.discogs.com/labels/13090"
+               },
+               {
+                  "catno" : "7567-86579-0",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 200505,
+                  "name" : "Wondaland",
+                  "resource_url" : "https://api.discogs.com/labels/200505"
+               }
+            ],
+            "master_id" : 1354359,
+            "master_url" : "https://api.discogs.com/masters/1354359",
+            "resource_url" : "https://api.discogs.com/releases/12569291",
+            "styles" : [
+               "Contemporary R&B"
+            ],
+            "thumb" : "https://i.discogs.com/LsEFrWzJd_HF7Wiu_dbfjgWjFNQoRStpBinFQTGzUkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTY5/MjkxLTE1ODAwNDE0/MzEtNDM2MC5qcGVn.jpeg",
+            "title" : "Dirty Computer",
+            "year" : 2018
+         },
+         "date_added" : "2022-08-11T18:25:50-07:00",
+         "folder_id" : 1,
+         "id" : 12569291,
+         "instance_id" : 1101749282,
+         "rating" : 0
+      },
       {
          "basic_information" : {
             "artists" : [
