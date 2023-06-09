@@ -146,7 +146,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://i.discogs.com/p0K6CDSn7-IbhLrOSc5WDGXGpvbTL1BOV1E0xrD93g0/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTMx/OTUtMTMyNTY3ODI0/OS5qcGVn.jpeg",
+            "cover_image" : "https://i.discogs.com/rEJHUrwac3-VWeTZOlIEofPNZkKmpCXJE51Uv1O16Sk/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTMx/OTUtMTY3NDA1NzMz/Ni0xOTQ2LmpwZWc.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -181,7 +181,7 @@
                "Blues Rock",
                "Pop Rock"
             ],
-            "thumb" : "https://i.discogs.com/PJIrV89EZE2k22XdmV85Ksn1Yw_oTXqOnIbos4Rr1jE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTMx/OTUtMTMyNTY3ODI0/OS5qcGVn.jpeg",
+            "thumb" : "https://i.discogs.com/MhIHhedXYQdHy_nxZa0YyazdF1XWJw9dNOde-mkGVrU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTMx/OTUtMTY3NDA1NzMz/Ni0xOTQ2LmpwZWc.jpeg",
             "title" : "Continuum",
             "year" : 2006
          },
@@ -469,18 +469,20 @@
             "id" : 11560191,
             "labels" : [
                {
-                  "catno" : "none",
+                  "catno" : "AP001LP",
                   "entity_type" : "1",
                   "entity_type_name" : "Label",
-                  "id" : 1818,
-                  "name" : "Not On Label",
-                  "resource_url" : "https://api.discogs.com/labels/1818"
+                  "id" : 2107123,
+                  "name" : "Not On Label (Rex Orange County Self-released)",
+                  "resource_url" : "https://api.discogs.com/labels/2107123"
                }
             ],
             "master_id" : 1395162,
             "master_url" : "https://api.discogs.com/masters/1395162",
             "resource_url" : "https://api.discogs.com/releases/11560191",
-            "styles" : [],
+            "styles" : [
+               "Indie Pop"
+            ],
             "thumb" : "https://i.discogs.com/fMSbBuUq7ffZJIoQ6400o-_F9ACDq3s50bZVJ90LWJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTYw/MTkxLTE1MTg1MDYy/NTMtNDg4Ni5qcGVn.jpeg",
             "title" : "Apricot Princess",
             "year" : 2018

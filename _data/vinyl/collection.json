@@ -272,7 +272,6 @@
                }
             ],
             "genres" : [
-               "Electronic",
                "Rock"
             ],
             "id" : 1587168,
@@ -291,7 +290,8 @@
             "resource_url" : "https://api.discogs.com/releases/1587168",
             "styles" : [
                "Alternative Rock",
-               "Experimental"
+               "Experimental",
+               "Art Rock"
             ],
             "thumb" : "https://i.discogs.com/kR8i2ZRSUafJyLczI4VWHDwiCSxTuQa9xPsx0uCWwCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/NjgtMTY0NzQ0NTg0/My00ODU0LmpwZWc.jpeg",
             "title" : "OK Computer",
@@ -325,7 +325,7 @@
                   ],
                   "name" : "Vinyl",
                   "qty" : "1",
-                  "text" : "Gatefold"
+                  "text" : "Gatefold, Poster"
                }
             ],
             "genres" : [
@@ -347,7 +347,8 @@
             "master_url" : "https://api.discogs.com/masters/1591877",
             "resource_url" : "https://api.discogs.com/releases/14176877",
             "styles" : [
-               "Contemporary R&B"
+               "Contemporary R&B",
+               "Neo Soul"
             ],
             "thumb" : "https://i.discogs.com/UWBvIbbhITdax03WDu525FeKr41nhCVeh6tncVI6bd0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc2/ODc3LTE1NjkyOTU1/NDAtMzc0Mi5qcGVn.jpeg",
             "title" : "Igor",
@@ -412,7 +413,9 @@
             "master_url" : "https://api.discogs.com/masters/1212609",
             "resource_url" : "https://api.discogs.com/releases/11195697",
             "styles" : [
-               "Jazzy Hip-Hop"
+               "Jazzy Hip-Hop",
+               "Pop Rap",
+               "Neo Soul"
             ],
             "thumb" : "https://i.discogs.com/7D_zvRQeh8LUPaxYhUgw1vXLTrCm3V6IA244l1jS9L4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk1/Njk3LTE1MTM0MTkw/MjQtNTEyOC5qcGVn.jpeg",
             "title" : "Scum Fuck Flower Boy",
@@ -516,7 +519,8 @@
                   "descriptions" : [
                      "LP",
                      "Album",
-                     "Repress"
+                     "Repress",
+                     "Stereo"
                   ],
                   "name" : "Vinyl",
                   "qty" : "2"
@@ -620,7 +624,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://i.discogs.com/hrrztnSt7TLl2_pJytlTny9j926FtELjqQuf--ckT0w/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTYwMzk5MTA3/MS0xNTI1LmpwZWc.jpeg",
+            "cover_image" : "https://i.discogs.com/NlmkKrMlFUvKaaW5GUSKFRrMB1snZbF9Zx6_fMUsBtY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTU3MDQwNDUz/Ni01NDY1LmpwZWc.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -668,7 +672,7 @@
             "styles" : [
                "Conscious"
             ],
-            "thumb" : "https://i.discogs.com/MxoTmnc5z9OJyZF59YVPrwUkcNV-9W0oBn861P0cjAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTYwMzk5MTA3/MS0xNTI1LmpwZWc.jpeg",
+            "thumb" : "https://i.discogs.com/FYbfqDICdZZtEKNGw1-mf6zl-1VtO3indR3dRZZrDcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTU3MDQwNDUz/Ni01NDY1LmpwZWc.jpeg",
             "title" : "Good Kid, M.A.A.d City",
             "year" : 2012
          },
@@ -781,7 +785,10 @@
             "master_id" : 2486344,
             "master_url" : "https://api.discogs.com/masters/2486344",
             "resource_url" : "https://api.discogs.com/releases/21979144",
-            "styles" : [],
+            "styles" : [
+               "Art Rock",
+               "Post Rock"
+            ],
             "thumb" : "https://i.discogs.com/OP-5vigTS4p0-R7vaVAYbMTi6X5cq5IRUva2cyjfSEs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc5/MTQ0LTE2NDM4MDEx/NDktMzA1MS5qcGVn.jpeg",
             "title" : "Ants From Up There",
             "year" : 2022
@@ -805,7 +812,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://i.discogs.com/iaCI4blJqkC0AVAal46lX-PYWMaF0UgkXevN3fZ6G5A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk5/ODUtMTY0MzA1ODIw/Ny02NTY1LmpwZWc.jpeg",
+            "cover_image" : "https://i.discogs.com/LEuCnJy8dO6VIP-lIjqsE8EISs_98pCYkwcnE0mG0Ew/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk5/ODUtMTQ3OTU5MzA1/MS0xMjUwLmpwZWc.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -856,7 +863,7 @@
             "styles" : [
                "Prog Rock"
             ],
-            "thumb" : "https://i.discogs.com/QG5LraSEQtG0-yfHHZeCbLNdwgy75r_SpmMDwZYA4CI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk5/ODUtMTY0MzA1ODIw/Ny02NTY1LmpwZWc.jpeg",
+            "thumb" : "https://i.discogs.com/tzjMMSu59lkrYmxL5dgxr3_ji4K5wSNyWq73im6o9Fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk5/ODUtMTQ3OTU5MzA1/MS0xMjUwLmpwZWc.jpeg",
             "title" : "Animals",
             "year" : 2016
          },
@@ -1014,7 +1021,8 @@
                      "Album"
                   ],
                   "name" : "Vinyl",
-                  "qty" : "1"
+                  "qty" : "1",
+                  "text" : "180gr"
                }
             ],
             "genres" : [
@@ -1079,7 +1087,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://i.discogs.com/soJPbSJs7BBpixsM88W_6aXk_une4FjDVeVThYNr2M0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcw/MzUwLTE0OTk3ODc2/NzUtMzUwMy5qcGVn.jpeg",
+            "cover_image" : "https://i.discogs.com/07Uk8P1w0SV-y1KDanJyjWL7YEa_D0WxVzQGvpYXbvE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcw/MzUwLTE2ODM4Njcy/NDMtNjMwNC5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -1114,7 +1122,7 @@
                "IDM",
                "Experimental"
             ],
-            "thumb" : "https://i.discogs.com/aIHOZJmkKosKMwBHoLczAvu_oWhrHUFJqXmhzQKtmQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcw/MzUwLTE0OTk3ODc2/NzUtMzUwMy5qcGVn.jpeg",
+            "thumb" : "https://i.discogs.com/SHxLLLQLycXolstuaPbvyNs_uaMp7LvqB5lBab16XWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjcw/MzUwLTE2ODM4Njcy/NDMtNjMwNC5qcGVn.jpeg",
             "title" : "Kid A",
             "year" : 2016
          },
