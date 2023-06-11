@@ -27,8 +27,7 @@ jobs:
         uses: icrawl/action-tsc@v1
       - run: ls
       - run: pwd
-      - name: Run PSN Trophies JSON retrieval
-        run: node build_psn_trophies_json.js
+      - run: tsc
       - name: Update JSON file
         uses: test-room-7/action-update-file@v1.4.0
         with:
