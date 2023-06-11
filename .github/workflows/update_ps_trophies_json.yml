@@ -28,6 +28,7 @@ jobs:
       - run: ls
       - run: pwd
       - run: tsc
+      - run: node build_psn_trophies_json.js
       - name: Update JSON file
         uses: test-room-7/action-update-file@v1.4.0
         with:
