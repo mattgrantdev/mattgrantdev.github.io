@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Update Discogs JSON
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -40,5 +40,5 @@ jobs:
               file-path: |
                 _data/vinyl/wantlist.json
                 _data/vinyl/collection.json
-              commit-msg: Update JSON from Discogs
+              commit-msg: Update JSON for Discogs
               github-token: ${{ secrets.GITHUB_TOKEN }}

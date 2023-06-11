@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "psn-api": "^2.10.0",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.0",
+    "typescript": "^5.1.3"
+  }
+}
