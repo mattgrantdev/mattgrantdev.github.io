@@ -31,6 +31,7 @@ jobs:
       - name: Update JSON file
         uses: test-room-7/action-update-file@v1.4.0
         with:
-          file-path: ./_data/psn/games.json
+          file-path: _data/psn/games.json
           commit-msg: Update JSON for PSN Trophies
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          allow-removing: true
