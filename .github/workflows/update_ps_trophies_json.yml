@@ -25,6 +25,8 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Run tsc compiler job
         uses: icrawl/action-tsc@v1
+      - run: ls
+      - run: pwd
       - name: Run PSN Trophies JSON retrieval
         run: node build_psn_trophies_json.js
       - name: Update JSON file
