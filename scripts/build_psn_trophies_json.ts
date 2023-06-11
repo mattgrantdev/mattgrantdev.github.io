@@ -69,7 +69,7 @@ async function main() {
     }
 
     // 7. Write to a JSON file.
-    fs.writeFileSync("../_data/psn/games.json", JSON.stringify(games));
+    fs.writeFileSync("../_data/psn/games.json", JSON.stringify(games, null, 2));
 }
 
 const mergeTrophyLists = (
