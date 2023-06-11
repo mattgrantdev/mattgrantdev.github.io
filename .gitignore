@@ -13,8 +13,3 @@ _site/
 .bundle/
 vendor/
 .DS_Store
-
-# PSN
-scripts/build_psn_trophies_json.js
-*/games.json
-games.json
