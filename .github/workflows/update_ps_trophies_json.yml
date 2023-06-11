@@ -6,6 +6,9 @@ on:
 
 jobs:
   update_json:
+    defaults:
+      run:
+        working-directory: ./scripts
     env:
       NPSSO: ${{ secrets.PSN_NPSSO }}
     runs-on: ubuntu-latest
@@ -23,7 +26,7 @@ jobs:
       - name: Run tsc compiler job
         uses: icrawl/action-tsc@v1
       - name: Run PSN Trophies JSON retrieval
-        run: node ./scripts/build_psn_trophies_json.js
+        run: node build_psn_trophies_json.js
       - name: Update JSON file
         uses: test-room-7/action-update-file@v1.4.0
         with:
