@@ -12,14 +12,16 @@ urls:
       url: /about
     - text: Vinyl
       url: /vinyl
-#    - text: My SoundCloud
-#      url: /my-soundcloud
-#    - text: My Spotify
-#      url: /my-spotify
+    - text: My PS Trophies
+      url: /my-ps-trophies
     - text: Gallery
       url: /travel-gallery
 #    - text: Blog
 #      url: /blog
+  #    - text: My SoundCloud
+  #      url: /my-soundcloud
+  #    - text: My Spotify
+  #      url: /my-spotify
     - text: Contact Me
       url : /contact
 
@@ -94,7 +96,6 @@ author_project_details:
     visibility: false
 
 # Social Links
-twitter_username: MattGrantUmich
 github_username:  MattGrantUmich
 linkedin_username: mattgrantumich
 twitter_username: MattGrantUmich
