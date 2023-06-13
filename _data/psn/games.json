@@ -140,7 +140,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 33.3,
+        "earnedRate": 33.4,
         "trophyName": "Schooled",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/6d298e90-82de-4573-9590-976bad4ecfad.png",
         "groupId": "default"
@@ -160,7 +160,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 49,
+        "earnedRate": 49.1,
         "trophyName": "Short Fuse",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8aefbef1-cb65-491c-8ded-f18fd2e241e4.png",
         "groupId": "default"
@@ -170,7 +170,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 45,
+        "earnedRate": 45.1,
         "trophyName": "Fists of Fury",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/185a83bf-7d59-49d4-bab6-9665b4b1292e.png",
         "groupId": "default"
@@ -220,7 +220,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 64.5,
+        "earnedRate": 64.6,
         "trophyName": "Demons Emerge",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/c0a53f45-42e9-4de8-aafd-3f206365e205.png",
         "groupId": "default"
@@ -230,7 +230,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 56.7,
+        "earnedRate": 56.8,
         "trophyName": "The Six Assemble",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/bfed1777-ff54-4124-8865-e8999e2e79c1.png",
         "groupId": "default"
@@ -450,7 +450,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 45.7,
+        "earnedRate": 45.8,
         "trophyName": "Sticky and Tricky",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/78f4d242-2851-455c-b363-013a1f3e230b.png",
         "groupId": "default"
@@ -480,7 +480,7 @@
         "earnedOn": "2023-06-13T04:35:28Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.7,
+        "earnedRate": 70.8,
         "trophyName": "Lost and Found",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/7c5768e9-62a0-4e4c-b7fb-a7ac1a95abef.png",
         "groupId": "default"
@@ -2243,7 +2243,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 7.7,
+        "earnedRate": 7.8,
         "trophyName": "BOOM! TETRIS!",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/49544fbb-c9cb-4c67-a32b-32ee19741e32.png",
         "groupId": "default"
@@ -2253,7 +2253,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 16.4,
+        "earnedRate": 16.5,
         "trophyName": "Back-to-Back Hack",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/49973f6e-d74c-4b5f-837e-c4b6867998bb.png",
         "groupId": "default"
@@ -2273,7 +2273,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 8.8,
+        "earnedRate": 8.9,
         "trophyName": "Back-to-Back Attack",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/2e093eb8-e5c3-4779-9cd1-7bf00eb0289c.png",
         "groupId": "default"
@@ -5875,7 +5875,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 39,
+        "earnedRate": 39.1,
         "trophyName": "Be Prepared",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21647_00/2c5f9523-c8a5-47f2-bb92-b905158f019f.png",
         "groupId": "001"
@@ -6472,7 +6472,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 18.7,
+        "earnedRate": 18.6,
         "trophyName": "Ultimate Sacrifice",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR02059_00_00221989F86A5F51895DB2CD91E0FC7C0FCE672A1D/3D0AE6111C80726E99F3D65FE306F3F555BB4EBD.PNG",
         "groupId": "default"
@@ -7340,7 +7340,7 @@
         "earnedOn": "2021-11-08T03:17:18Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 55.4,
+        "earnedRate": 55.3,
         "trophyName": "Music Collector",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22029_00/3303b426-bc7b-45e3-b858-28f6803baf9c.PNG",
         "groupId": "default"
@@ -13641,7 +13641,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 3.7,
+        "earnedRate": 3.6,
         "trophyName": "All Clear!",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16646_00_00A5B72F0AFE074EB8E919219DF65AC0742A3FE260/C314F1D6110652F35166C996A15F5E91A7F1E3A7.PNG",
         "groupId": "default"
@@ -21657,7 +21657,7 @@
         "earnedOn": "2020-01-16T07:13:44Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 53.1,
+        "earnedRate": 53.2,
         "trophyName": "Off the Plane",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR06221_00_00943B71B23B3A5D98EB6CA419684E0F0A07FA8707/FD34348287BA37BACFB3995DC0F3BCBD60DBECDE.PNG",
         "groupId": "default"
