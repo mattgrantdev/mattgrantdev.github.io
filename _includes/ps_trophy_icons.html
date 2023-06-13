@@ -1,0 +1,15 @@
+<div>
+    <img
+            alt="{{include.imgName}}"
+            class="trophy-img"
+            src="{{ site.url }}{{ site.baseurl }}/assets/img/psn/{{include.imgName}}"
+    />
+    {% for trophy in include.trophies %}
+    <img
+            alt="{{trophy.trophyName}}"
+            title="{{trophy.trophyName}}"
+            class="trophy-icon"
+            src="{{trophy.trophyIconUrl}}"
+    />
+    {% endfor %}
+</div>

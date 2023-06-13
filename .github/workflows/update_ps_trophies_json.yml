@@ -11,7 +11,8 @@ jobs:
         working-directory: ./scripts
     env:
       PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
-      PSN_USERNAME: ${{ secrets.PSN_USERNAME }}
+      PSN_TARGET_ACCOUNT_ID: ${{ secrets.PSN_TARGET_ACCOUNT_ID }}
+      PSN_DATA_OUTPUT_FILEPATH: ../_data/psn/games.json
     runs-on: ubuntu-latest
     name: Update JSON resources
     steps:
