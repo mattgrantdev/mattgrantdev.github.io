@@ -20,7 +20,7 @@
         "earnedOn": "2023-06-09T07:24:44Z",
         "type": "platinum",
         "rarity": "Very Rare",
-        "earnedRate": 5.2,
+        "earnedRate": 6.1,
         "trophyName": "We Love Katamari Damacy!",
         "groupId": "default"
       },
@@ -29,7 +29,7 @@
         "earnedOn": "2023-06-04T09:24:52Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 92.8,
+        "earnedRate": 92.6,
         "trophyName": "We Also Love Soccer Kid",
         "groupId": "default"
       },
@@ -38,7 +38,7 @@
         "earnedOn": "2023-06-06T02:17:31Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 44.3,
+        "earnedRate": 45.5,
         "trophyName": "We Also Love Rainbow Girl",
         "groupId": "default"
       },
@@ -47,7 +47,7 @@
         "earnedOn": "2023-06-06T02:42:34Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 38.3,
+        "earnedRate": 39.8,
         "trophyName": "We Also Love Lazybones",
         "groupId": "default"
       },
@@ -56,7 +56,7 @@
         "earnedOn": "2023-06-08T05:44:07Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 29.3,
+        "earnedRate": 30.6,
         "trophyName": "We Also Love Grandpa",
         "groupId": "default"
       },
@@ -65,7 +65,7 @@
         "earnedOn": "2023-06-08T04:59:01Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 25.6,
+        "earnedRate": 27.1,
         "trophyName": "We Also Love Grandma",
         "groupId": "default"
       },
@@ -74,7 +74,7 @@
         "earnedOn": "2023-06-09T00:04:16Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 25.2,
+        "earnedRate": 27,
         "trophyName": "We Also Love The Bird and Elephant",
         "groupId": "default"
       },
@@ -83,7 +83,7 @@
         "earnedOn": "2023-06-09T00:54:49Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 33.8,
+        "earnedRate": 36,
         "trophyName": "We Also Love The Dog",
         "groupId": "default"
       },
@@ -92,7 +92,7 @@
         "earnedOn": "2023-06-05T08:12:19Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 33.5,
+        "earnedRate": 34.8,
         "trophyName": "We Also Love The Ikebana Teacher",
         "groupId": "default"
       },
@@ -101,7 +101,7 @@
         "earnedOn": "2023-06-08T06:02:55Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 28.3,
+        "earnedRate": 29.6,
         "trophyName": "We Also Love The Substitute Teacher",
         "groupId": "default"
       },
@@ -110,7 +110,7 @@
         "earnedOn": "2023-06-08T04:48:28Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 27.1,
+        "earnedRate": 28.6,
         "trophyName": "We Also Love The F1 Racer",
         "groupId": "default"
       },
@@ -119,7 +119,7 @@
         "earnedOn": "2023-06-07T04:25:22Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 40.4,
+        "earnedRate": 42.5,
         "trophyName": "We Also Love Rain Coat Girl",
         "groupId": "default"
       },
@@ -128,7 +128,7 @@
         "earnedOn": "2023-06-08T23:36:00Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 23.1,
+        "earnedRate": 24.8,
         "trophyName": "We Also Love Dr. Katamari",
         "groupId": "default"
       },
@@ -136,8 +136,8 @@
         "isEarned": true,
         "earnedOn": "2023-06-07T04:19:00Z",
         "type": "bronze",
-        "rarity": "Rare",
-        "earnedRate": 49.2,
+        "rarity": "Common",
+        "earnedRate": 51.2,
         "trophyName": "We Also Love The Crane Hat Boy",
         "groupId": "default"
       },
@@ -146,7 +146,7 @@
         "earnedOn": "2023-06-06T23:30:01Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 16.9,
+        "earnedRate": 18.2,
         "trophyName": "We Also Love The Just-right Girl",
         "groupId": "default"
       },
@@ -155,7 +155,7 @@
         "earnedOn": "2023-06-05T07:50:50Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 42.5,
+        "earnedRate": 44.5,
         "trophyName": "We Also Love The Cowbear Farmer",
         "groupId": "default"
       },
@@ -164,7 +164,7 @@
         "earnedOn": "2023-06-05T07:48:29Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 43.6,
+        "earnedRate": 45.6,
         "trophyName": "We Also Love The Excited Baby",
         "groupId": "default"
       },
@@ -173,7 +173,7 @@
         "earnedOn": "2023-06-04T09:40:27Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 80.1,
+        "earnedRate": 80.6,
         "trophyName": "We Also Love The Cleanly Mom",
         "groupId": "default"
       },
@@ -182,7 +182,7 @@
         "earnedOn": "2023-06-06T23:09:51Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 46.3,
+        "earnedRate": 48.2,
         "trophyName": "We Also Love The Fund-raiser",
         "groupId": "default"
       },
@@ -191,7 +191,7 @@
         "earnedOn": "2023-06-06T02:49:57Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.9,
+        "earnedRate": 32.2,
         "trophyName": "We Also Love Hansel & Gretel",
         "groupId": "default"
       },
@@ -200,7 +200,7 @@
         "earnedOn": "2023-06-07T04:40:44Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 34.7,
+        "earnedRate": 36.1,
         "trophyName": "We Also Love The Float Boy",
         "groupId": "default"
       },
@@ -209,7 +209,7 @@
         "earnedOn": "2023-06-08T04:44:29Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 13.7,
+        "earnedRate": 14.6,
         "trophyName": "We Also Love The Camper Man",
         "groupId": "default"
       },
@@ -218,7 +218,7 @@
         "earnedOn": "2023-06-06T02:34:07Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 20.8,
+        "earnedRate": 22.1,
         "trophyName": "We Also Love The Mini-Sumo",
         "groupId": "default"
       },
@@ -227,7 +227,7 @@
         "earnedOn": "2023-06-05T07:10:27Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 48,
+        "earnedRate": 49.6,
         "trophyName": "We Also Love The Book Worm",
         "groupId": "default"
       },
@@ -236,7 +236,7 @@
         "earnedOn": "2023-06-05T08:08:54Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 50.6,
+        "earnedRate": 52.5,
         "trophyName": "We Also Love The Snow Child",
         "groupId": "default"
       },
@@ -245,7 +245,7 @@
         "earnedOn": "2023-06-09T00:54:49Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 33.8,
+        "earnedRate": 36,
         "trophyName": "We Also Love Michiru Hoshino",
         "groupId": "default"
       },
@@ -254,7 +254,7 @@
         "earnedOn": "2023-06-09T01:06:01Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 29.2,
+        "earnedRate": 31.2,
         "trophyName": "We Also Love Tomio Hoshino",
         "groupId": "default"
       },
@@ -263,7 +263,7 @@
         "earnedOn": "2023-06-09T01:02:32Z",
         "type": "gold",
         "rarity": "Very Rare",
-        "earnedRate": 6.9,
+        "earnedRate": 8.1,
         "trophyName": "We Also Love Mutsuo Hoshino",
         "groupId": "default"
       },
@@ -272,7 +272,7 @@
         "earnedOn": "2023-06-09T07:24:44Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 17.9,
+        "earnedRate": 18.9,
         "trophyName": "That Was The Prince",
         "groupId": "default"
       },
@@ -281,7 +281,7 @@
         "earnedOn": "2023-06-09T00:43:42Z",
         "type": "gold",
         "rarity": "Very Rare",
-        "earnedRate": 7.2,
+        "earnedRate": 8.4,
         "trophyName": "We Also Love The Cousins",
         "groupId": "default"
       },
@@ -289,8 +289,8 @@
         "isEarned": true,
         "earnedOn": "2023-06-09T00:23:22Z",
         "type": "gold",
-        "rarity": "Very Rare",
-        "earnedRate": 14.4,
+        "rarity": "Rare",
+        "earnedRate": 15.8,
         "trophyName": "We Also Love The King",
         "groupId": "default"
       },
@@ -299,7 +299,7 @@
         "earnedOn": "2023-06-09T00:43:42Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 7.1,
+        "earnedRate": 8.3,
         "trophyName": "We Also Love The Queen",
         "groupId": "default"
       },
@@ -308,7 +308,7 @@
         "earnedOn": "2023-06-04T09:33:06Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 87.8,
+        "earnedRate": 88.1,
         "trophyName": "We Love Katamari Damacy",
         "groupId": "default"
       },
@@ -317,7 +317,7 @@
         "earnedOn": "2023-06-05T07:18:38Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 57.2,
+        "earnedRate": 58.8,
         "trophyName": "We Love Katamari Damacy So Much",
         "groupId": "default"
       },
@@ -326,7 +326,7 @@
         "earnedOn": "2023-06-06T23:57:19Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 34.5,
+        "earnedRate": 36.4,
         "trophyName": "We Love Katamari Damacy So So So Much",
         "groupId": "default"
       }
@@ -362,7 +362,7 @@
         "earnedOn": "2023-05-17T01:36:51Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 84.3,
+        "earnedRate": 84.1,
         "trophyName": "Welcome to Trackmania!",
         "groupId": "default"
       },
@@ -371,7 +371,7 @@
         "earnedOn": "2023-05-17T07:25:07Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.5,
+        "earnedRate": 30.4,
         "trophyName": "First of the collection",
         "groupId": "default"
       },
@@ -380,7 +380,7 @@
         "earnedOn": "2023-05-17T02:01:39Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 14.5,
+        "earnedRate": 14.3,
         "trophyName": "Feels good to win?",
         "groupId": "default"
       },
@@ -416,7 +416,7 @@
         "earnedOn": "2023-05-17T02:25:00Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 13.5,
+        "earnedRate": 13.3,
         "trophyName": "I want to be the Royal Champion",
         "groupId": "default"
       },
@@ -461,7 +461,7 @@
         "earnedOn": "2023-05-17T01:36:47Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 73.9,
+        "earnedRate": 73.7,
         "trophyName": "Faster than a train",
         "groupId": "default"
       },
@@ -488,7 +488,7 @@
         "earnedOn": "2023-05-17T02:14:54Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 7.4,
+        "earnedRate": 7.3,
         "trophyName": "Flymania",
         "groupId": "default"
       },
@@ -524,7 +524,7 @@
         "earnedOn": "2023-05-17T01:36:51Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 71.4,
+        "earnedRate": 71.2,
         "trophyName": "Pedal to the bronze medal",
         "groupId": "default"
       },
@@ -533,7 +533,7 @@
         "earnedOn": "2023-05-17T01:39:16Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 66.9,
+        "earnedRate": 66.7,
         "trophyName": "Pedal to the silver medal",
         "groupId": "default"
       },
@@ -542,7 +542,7 @@
         "earnedOn": "2023-05-17T01:42:18Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 52.9,
+        "earnedRate": 52.6,
         "trophyName": "Pedal to the gold medal",
         "groupId": "default"
       },
@@ -551,7 +551,7 @@
         "earnedOn": "2023-05-17T07:22:15Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 9.5,
+        "earnedRate": 9.4,
         "trophyName": "Beginning of a great story",
         "groupId": "default"
       },
@@ -677,7 +677,7 @@
         "earnedOn": "unearned",
         "type": "platinum",
         "rarity": "Rare",
-        "earnedRate": 19.3,
+        "earnedRate": 19.6,
         "trophyName": "Master of IV",
         "groupId": "default"
       },
@@ -686,7 +686,7 @@
         "earnedOn": "2023-05-07T22:05:21Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 85.1,
+        "earnedRate": 85.2,
         "trophyName": "Inflammatory Decisions",
         "groupId": "default"
       },
@@ -695,7 +695,7 @@
         "earnedOn": "2023-05-28T22:08:35Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 73.3,
+        "earnedRate": 73.6,
         "trophyName": "The Light's Chosen",
         "groupId": "default"
       },
@@ -704,7 +704,7 @@
         "earnedOn": "2023-05-28T22:51:05Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.6,
+        "earnedRate": 70.9,
         "trophyName": "Overcoming Grief",
         "groupId": "default"
       },
@@ -713,7 +713,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 65.5,
+        "earnedRate": 65.9,
         "trophyName": "Reforged Love",
         "groupId": "default"
       },
@@ -722,7 +722,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 64.6,
+        "earnedRate": 65,
         "trophyName": "To the Depths",
         "groupId": "default"
       },
@@ -731,7 +731,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 61.5,
+        "earnedRate": 61.8,
         "trophyName": "Inflamed Anger",
         "groupId": "default"
       },
@@ -740,7 +740,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 57.9,
+        "earnedRate": 58.3,
         "trophyName": "To the Moon",
         "groupId": "default"
       },
@@ -749,7 +749,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 55.4,
+        "earnedRate": 55.9,
         "trophyName": "Rematch",
         "groupId": "default"
       },
@@ -758,7 +758,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 47.1,
+        "earnedRate": 47.6,
         "trophyName": "To the Blue Planet",
         "groupId": "default"
       },
@@ -767,7 +767,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 52.9,
+        "earnedRate": 53.3,
         "trophyName": "Sword of Myth",
         "groupId": "default"
       },
@@ -776,7 +776,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 30.7,
+        "earnedRate": 31.1,
         "trophyName": "Tail of Myth",
         "groupId": "default"
       },
@@ -785,7 +785,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 46.2,
+        "earnedRate": 46.6,
         "trophyName": "Power Unleashed",
         "groupId": "default"
       },
@@ -794,7 +794,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 44.1,
+        "earnedRate": 44.6,
         "trophyName": "Summon Master",
         "groupId": "default"
       },
@@ -803,7 +803,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 23.3,
+        "earnedRate": 23.6,
         "trophyName": "Summon Collector",
         "groupId": "default"
       },
@@ -812,7 +812,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 43.6,
+        "earnedRate": 44,
         "trophyName": "Seasoned Hero",
         "groupId": "default"
       },
@@ -821,7 +821,7 @@
         "earnedOn": "2023-05-07T22:22:59Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 82.3,
+        "earnedRate": 82.4,
         "trophyName": "Apprentice Warrior",
         "groupId": "default"
       },
@@ -830,7 +830,7 @@
         "earnedOn": "2023-05-09T06:29:33Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 67.9,
+        "earnedRate": 68.3,
         "trophyName": "Experienced Warrior",
         "groupId": "default"
       },
@@ -839,7 +839,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 53,
+        "earnedRate": 53.4,
         "trophyName": "Legendary Warrior",
         "groupId": "default"
       },
@@ -848,7 +848,7 @@
         "earnedOn": "2023-05-07T22:37:56Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 80.5,
+        "earnedRate": 80.6,
         "trophyName": "Field Research- Basic",
         "groupId": "default"
       },
@@ -857,7 +857,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 62.4,
+        "earnedRate": 62.8,
         "trophyName": "Field Research- Advanced",
         "groupId": "default"
       },
@@ -866,7 +866,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 20.5,
+        "earnedRate": 20.8,
         "trophyName": "Field Research- Professional",
         "groupId": "default"
       },
@@ -875,7 +875,7 @@
         "earnedOn": "2023-05-07T22:30:14Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 79.1,
+        "earnedRate": 79.3,
         "trophyName": "Thrifty Spender",
         "groupId": "default"
       },
@@ -884,7 +884,7 @@
         "earnedOn": "2023-05-09T06:21:22Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.2,
+        "earnedRate": 70.5,
         "trophyName": "Smart Saver",
         "groupId": "default"
       },
@@ -893,7 +893,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 62.5,
+        "earnedRate": 62.9,
         "trophyName": "Moneybags",
         "groupId": "default"
       },
@@ -902,7 +902,7 @@
         "earnedOn": "2023-05-08T05:15:05Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 78.8,
+        "earnedRate": 79,
         "trophyName": "Rookie Treasure Hunter",
         "groupId": "default"
       },
@@ -911,7 +911,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 62.4,
+        "earnedRate": 62.7,
         "trophyName": "Veteran Treasure Hunter",
         "groupId": "default"
       },
@@ -920,7 +920,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 25.9,
+        "earnedRate": 26.2,
         "trophyName": "Legendary Treasure Hunter",
         "groupId": "default"
       },
@@ -929,7 +929,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 22.5,
+        "earnedRate": 22.8,
         "trophyName": "Item Detector",
         "groupId": "default"
       },
@@ -938,7 +938,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 23.9,
+        "earnedRate": 24.1,
         "trophyName": "Adventurous Wayfarer",
         "groupId": "default"
       }
@@ -983,7 +983,7 @@
         "earnedOn": "2016-11-29T18:26:56Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 69.3,
+        "earnedRate": 69.2,
         "trophyName": "Departure",
         "groupId": "default"
       },
@@ -1001,7 +1001,7 @@
         "earnedOn": "2016-12-01T00:25:20Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 51.7,
+        "earnedRate": 51.6,
         "trophyName": "The Open World",
         "groupId": "default"
       },
@@ -1046,7 +1046,7 @@
         "earnedOn": "2016-12-05T01:45:11Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 41.4,
+        "earnedRate": 41.3,
         "trophyName": "Seaworthy",
         "groupId": "default"
       },
@@ -1217,7 +1217,7 @@
         "earnedOn": "2016-11-29T04:38:45Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 62.5,
+        "earnedRate": 62.4,
         "trophyName": "Cooking Rookie",
         "groupId": "default"
       },
@@ -1289,7 +1289,7 @@
         "earnedOn": "2016-11-29T02:39:10Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 76.2,
+        "earnedRate": 76.1,
         "trophyName": "Noct You Like a Hurricane",
         "groupId": "default"
       },
@@ -1874,7 +1874,7 @@
         "earnedOn": "2022-12-10T09:09:44Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 71.2,
+        "earnedRate": 71.1,
         "trophyName": "Lilith Returns",
         "groupId": "default"
       },
@@ -1883,7 +1883,7 @@
         "earnedOn": "2022-12-13T06:18:57Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 49.2,
+        "earnedRate": 49.1,
         "trophyName": "Oshtur's Gift",
         "groupId": "default"
       },
@@ -1892,7 +1892,7 @@
         "earnedOn": "2022-12-23T00:12:28Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 29.6,
+        "earnedRate": 29.5,
         "trophyName": "A Light Extinguished",
         "groupId": "default"
       },
@@ -1901,7 +1901,7 @@
         "earnedOn": "2022-12-28T07:41:22Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 22.5,
+        "earnedRate": 22.4,
         "trophyName": "Big Mad",
         "groupId": "default"
       },
@@ -1928,7 +1928,7 @@
         "earnedOn": "2022-12-21T06:50:50Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 23.8,
+        "earnedRate": 23.7,
         "trophyName": "Did We Just Become Best Friends?",
         "groupId": "default"
       },
@@ -2000,7 +2000,7 @@
         "earnedOn": "2022-12-15T08:45:10Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 32.3,
+        "earnedRate": 32.2,
         "trophyName": "With a Box of Scraps",
         "groupId": "default"
       },
@@ -2036,7 +2036,7 @@
         "earnedOn": "2022-12-18T07:49:53Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 16.9,
+        "earnedRate": 16.8,
         "trophyName": "Unrequited Love",
         "groupId": "default"
       },
@@ -2063,7 +2063,7 @@
         "earnedOn": "2022-12-21T23:44:48Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 16.1,
+        "earnedRate": 16,
         "trophyName": "Some Minor Adjustments",
         "groupId": "default"
       },
@@ -2081,7 +2081,7 @@
         "earnedOn": "2022-12-13T08:11:00Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 31.1,
+        "earnedRate": 31,
         "trophyName": "Elemental, My Dear Agatha",
         "groupId": "default"
       },
@@ -2090,7 +2090,7 @@
         "earnedOn": "2022-12-13T08:34:03Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 26.8,
+        "earnedRate": 26.7,
         "trophyName": "Atum's Call",
         "groupId": "default"
       },
@@ -2135,7 +2135,7 @@
         "earnedOn": "2022-12-22T09:19:54Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 22.5,
+        "earnedRate": 22.4,
         "trophyName": "A Coven Restored",
         "groupId": "default"
       },
@@ -2153,7 +2153,7 @@
         "earnedOn": "2023-01-03T00:25:00Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 14.8,
+        "earnedRate": 14.7,
         "trophyName": "A Shining Light",
         "groupId": "default"
       },
@@ -2171,7 +2171,7 @@
         "earnedOn": "2022-12-22T10:26:46Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 7.1,
+        "earnedRate": 7,
         "trophyName": "Fully Armed",
         "groupId": "default"
       },
@@ -2207,7 +2207,7 @@
         "earnedOn": "2022-12-17T07:38:18Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 27.3,
+        "earnedRate": 27.2,
         "trophyName": "We Have Ways",
         "groupId": "default"
       },
@@ -2234,7 +2234,7 @@
         "earnedOn": "2022-12-23T08:45:42Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 17.2,
+        "earnedRate": 17.1,
         "trophyName": "Collateral Damage",
         "groupId": "default"
       },
@@ -2270,7 +2270,7 @@
         "earnedOn": "2022-12-14T07:54:46Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 27.4,
+        "earnedRate": 27.3,
         "trophyName": "Wilhelm Scream",
         "groupId": "default"
       },
@@ -2306,7 +2306,7 @@
         "earnedOn": "2022-12-16T10:19:24Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 32,
+        "earnedRate": 31.9,
         "trophyName": "Trading Up",
         "groupId": "default"
       },
@@ -2323,8 +2323,8 @@
         "isEarned": true,
         "earnedOn": "2023-02-04T10:57:43Z",
         "type": "silver",
-        "rarity": "Ultra Rare",
-        "earnedRate": 4.9,
+        "rarity": "Very Rare",
+        "earnedRate": 5.1,
         "trophyName": "The Good, the Bad, and the Undead",
         "groupId": "001"
       },
@@ -2333,7 +2333,7 @@
         "earnedOn": "2023-02-04T11:32:45Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 5.2,
+        "earnedRate": 5.3,
         "trophyName": "Dr. Deadpool, MD, PhD, JD, RN, CPA",
         "groupId": "001"
       },
@@ -2342,7 +2342,7 @@
         "earnedOn": "2023-02-04T11:08:32Z",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 2.4,
+        "earnedRate": 2.5,
         "trophyName": "That Special Feeling",
         "groupId": "001"
       },
@@ -2369,7 +2369,7 @@
         "earnedOn": "2023-02-25T08:25:17Z",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 2.7,
+        "earnedRate": 3,
         "trophyName": "Redemption",
         "groupId": "002"
       },
@@ -2378,7 +2378,7 @@
         "earnedOn": "2023-02-25T08:50:34Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 2.9,
+        "earnedRate": 3.1,
         "trophyName": "Comeback King",
         "groupId": "002"
       },
@@ -2405,7 +2405,7 @@
         "earnedOn": "2023-03-24T18:28:25Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 0.7,
+        "earnedRate": 0.8,
         "trophyName": "It's All Connected",
         "groupId": "002"
       },
@@ -2414,7 +2414,7 @@
         "earnedOn": "2023-04-02T09:08:33Z",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 2.2,
+        "earnedRate": 2.4,
         "trophyName": "The Hunger",
         "groupId": "003"
       },
@@ -2423,7 +2423,7 @@
         "earnedOn": "2023-04-04T00:45:44Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 2,
+        "earnedRate": 2.2,
         "trophyName": "Beyond Biochemistry",
         "groupId": "003"
       },
@@ -2441,7 +2441,7 @@
         "earnedOn": "2023-03-31T19:14:45Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.6,
+        "earnedRate": 4.7,
         "trophyName": "Living Vampire",
         "groupId": "003"
       },
@@ -2459,7 +2459,7 @@
         "earnedOn": "2023-05-16T01:04:23Z",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 0.7,
+        "earnedRate": 0.9,
         "trophyName": "Blood Storm",
         "groupId": "004"
       },
@@ -2468,7 +2468,7 @@
         "earnedOn": "2023-05-12T09:07:26Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 0.9,
+        "earnedRate": 1,
         "trophyName": "Elemental Teachings",
         "groupId": "004"
       },
@@ -2504,7 +2504,7 @@
         "earnedOn": "2023-05-12T09:52:57Z",
         "type": "gold",
         "rarity": "Ultra Rare",
-        "earnedRate": 0.6,
+        "earnedRate": 0.7,
         "trophyName": "Dracula's Tomb",
         "groupId": "004"
       }
@@ -2531,7 +2531,7 @@
         "earnedOn": "2023-05-07T09:02:22Z",
         "type": "platinum",
         "rarity": "Rare",
-        "earnedRate": 25.3,
+        "earnedRate": 25.5,
         "trophyName": "Master of III",
         "groupId": "default"
       },
@@ -2549,7 +2549,7 @@
         "earnedOn": "2023-05-04T01:14:06Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 80.9,
+        "earnedRate": 81,
         "trophyName": "Crushing Force",
         "groupId": "default"
       },
@@ -2558,7 +2558,7 @@
         "earnedOn": "2023-05-04T07:30:46Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 72.9,
+        "earnedRate": 73.1,
         "trophyName": "A Watchman's Duty",
         "groupId": "default"
       },
@@ -2567,7 +2567,7 @@
         "earnedOn": "2023-05-04T07:57:54Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 71.2,
+        "earnedRate": 71.5,
         "trophyName": "Hope of Fire",
         "groupId": "default"
       },
@@ -2576,7 +2576,7 @@
         "earnedOn": "2023-05-05T08:26:43Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 68.5,
+        "earnedRate": 68.8,
         "trophyName": "Hope of Water",
         "groupId": "default"
       },
@@ -2585,7 +2585,7 @@
         "earnedOn": "2023-05-06T01:02:46Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 65.1,
+        "earnedRate": 65.5,
         "trophyName": "A Peaceful Saronia",
         "groupId": "default"
       },
@@ -2594,7 +2594,7 @@
         "earnedOn": "2023-05-06T06:31:49Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 63.1,
+        "earnedRate": 63.4,
         "trophyName": "Waking from Dreamland",
         "groupId": "default"
       },
@@ -2603,7 +2603,7 @@
         "earnedOn": "2023-05-06T22:56:04Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 60.6,
+        "earnedRate": 61.1,
         "trophyName": "Hope of the Earth",
         "groupId": "default"
       },
@@ -2612,7 +2612,7 @@
         "earnedOn": "2023-05-07T07:56:53Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 56.9,
+        "earnedRate": 57.3,
         "trophyName": "Enter the Darkness",
         "groupId": "default"
       },
@@ -2621,7 +2621,7 @@
         "earnedOn": "2023-05-07T09:02:22Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 54.3,
+        "earnedRate": 54.7,
         "trophyName": "A Vision of Hope",
         "groupId": "default"
       },
@@ -2630,7 +2630,7 @@
         "earnedOn": "2023-05-07T06:51:09Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 58.5,
+        "earnedRate": 59,
         "trophyName": "Forbidden Weapons",
         "groupId": "default"
       },
@@ -2639,7 +2639,7 @@
         "earnedOn": "2023-05-07T04:40:33Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 43.2,
+        "earnedRate": 43.6,
         "trophyName": "Summon Master",
         "groupId": "default"
       },
@@ -2648,7 +2648,7 @@
         "earnedOn": "2023-05-04T01:34:38Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 80.4,
+        "earnedRate": 80.5,
         "trophyName": "Job Trainee",
         "groupId": "default"
       },
@@ -2657,7 +2657,7 @@
         "earnedOn": "2023-05-06T06:38:12Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 63.8,
+        "earnedRate": 64.1,
         "trophyName": "Senior Worker",
         "groupId": "default"
       },
@@ -2666,7 +2666,7 @@
         "earnedOn": "2023-05-07T08:23:51Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 46.6,
+        "earnedRate": 47,
         "trophyName": "Management Laborer",
         "groupId": "default"
       },
@@ -2675,7 +2675,7 @@
         "earnedOn": "2023-05-07T00:04:33Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 58.1,
+        "earnedRate": 58.6,
         "trophyName": "Seasoned Hero",
         "groupId": "default"
       },
@@ -2684,7 +2684,7 @@
         "earnedOn": "2023-05-04T01:15:14Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 81.1,
+        "earnedRate": 81.2,
         "trophyName": "Apprentice Warrior",
         "groupId": "default"
       },
@@ -2693,7 +2693,7 @@
         "earnedOn": "2023-05-04T07:26:45Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 72.5,
+        "earnedRate": 72.7,
         "trophyName": "Experienced Warrior",
         "groupId": "default"
       },
@@ -2702,7 +2702,7 @@
         "earnedOn": "2023-05-06T00:19:54Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 67.1,
+        "earnedRate": 67.4,
         "trophyName": "Legendary Warrior",
         "groupId": "default"
       },
@@ -2711,7 +2711,7 @@
         "earnedOn": "2023-05-04T01:19:38Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 77.6,
+        "earnedRate": 77.7,
         "trophyName": "Field Research- Basic",
         "groupId": "default"
       },
@@ -2720,7 +2720,7 @@
         "earnedOn": "2023-05-06T02:14:04Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 60.3,
+        "earnedRate": 60.7,
         "trophyName": "Field Research- Advanced",
         "groupId": "default"
       },
@@ -2729,7 +2729,7 @@
         "earnedOn": "2023-05-07T08:55:54Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 26.6,
+        "earnedRate": 26.9,
         "trophyName": "Field Research- Professional",
         "groupId": "default"
       },
@@ -2747,7 +2747,7 @@
         "earnedOn": "2023-05-04T07:46:37Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.6,
+        "earnedRate": 70.8,
         "trophyName": "Smart Saver",
         "groupId": "default"
       },
@@ -2756,7 +2756,7 @@
         "earnedOn": "2023-05-06T02:26:59Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 63.6,
+        "earnedRate": 64,
         "trophyName": "Moneybags",
         "groupId": "default"
       },
@@ -2774,7 +2774,7 @@
         "earnedOn": "2023-05-06T00:50:23Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 64.3,
+        "earnedRate": 64.7,
         "trophyName": "Veteran Treasure Hunter",
         "groupId": "default"
       },
@@ -2783,7 +2783,7 @@
         "earnedOn": "2023-05-07T08:11:52Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 31,
+        "earnedRate": 31.2,
         "trophyName": "Legendary Treasure Hunter",
         "groupId": "default"
       },
@@ -2792,7 +2792,7 @@
         "earnedOn": "2023-05-07T08:01:39Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 30.2,
+        "earnedRate": 30.5,
         "trophyName": "Item Detector",
         "groupId": "default"
       },
@@ -2801,7 +2801,7 @@
         "earnedOn": "2023-05-07T07:56:53Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 28.8,
+        "earnedRate": 29,
         "trophyName": "Adventurous Wayfarer",
         "groupId": "default"
       }
@@ -2828,7 +2828,7 @@
         "earnedOn": "2023-05-03T01:05:49Z",
         "type": "platinum",
         "rarity": "Rare",
-        "earnedRate": 27.3,
+        "earnedRate": 27.5,
         "trophyName": "Master of II",
         "groupId": "default"
       },
@@ -2837,7 +2837,7 @@
         "earnedOn": "2023-04-29T22:14:34Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 81.5,
+        "earnedRate": 81.6,
         "trophyName": "Password: Wild Rose",
         "groupId": "default"
       },
@@ -2846,7 +2846,7 @@
         "earnedOn": "2023-04-30T05:24:19Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 71.7,
+        "earnedRate": 72,
         "trophyName": "Empire's Blitz",
         "groupId": "default"
       },
@@ -2855,7 +2855,7 @@
         "earnedOn": "2023-04-30T09:13:46Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 65.7,
+        "earnedRate": 65.9,
         "trophyName": "Counterattack",
         "groupId": "default"
       },
@@ -2864,7 +2864,7 @@
         "earnedOn": "2023-04-30T09:21:50Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 65,
+        "earnedRate": 65.2,
         "trophyName": "A Pirate's Mate",
         "groupId": "default"
       },
@@ -2873,7 +2873,7 @@
         "earnedOn": "2023-04-30T21:35:49Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 61.8,
+        "earnedRate": 62,
         "trophyName": "Rebel Victory",
         "groupId": "default"
       },
@@ -2882,7 +2882,7 @@
         "earnedOn": "2023-05-02T01:45:33Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 59.3,
+        "earnedRate": 59.6,
         "trophyName": "Last Dragoon",
         "groupId": "default"
       },
@@ -2891,7 +2891,7 @@
         "earnedOn": "2023-05-02T05:03:13Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 58.2,
+        "earnedRate": 58.5,
         "trophyName": "Birth of a Wyvern",
         "groupId": "default"
       },
@@ -2900,7 +2900,7 @@
         "earnedOn": "2023-05-02T06:32:03Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 57.7,
+        "earnedRate": 58,
         "trophyName": "New Palamecia",
         "groupId": "default"
       },
@@ -2909,7 +2909,7 @@
         "earnedOn": "2023-05-02T22:40:06Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 56.9,
+        "earnedRate": 57.2,
         "trophyName": "Allied Offensive",
         "groupId": "default"
       },
@@ -2918,7 +2918,7 @@
         "earnedOn": "2023-05-03T01:05:49Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 52.5,
+        "earnedRate": 52.8,
         "trophyName": "War's End",
         "groupId": "default"
       },
@@ -2927,7 +2927,7 @@
         "earnedOn": "2023-05-02T22:45:29Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 46.9,
+        "earnedRate": 47.1,
         "trophyName": "Sword of Myth",
         "groupId": "default"
       },
@@ -2936,7 +2936,7 @@
         "earnedOn": "2023-05-02T22:40:39Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 46.5,
+        "earnedRate": 46.7,
         "trophyName": "Memory Lane",
         "groupId": "default"
       },
@@ -2945,7 +2945,7 @@
         "earnedOn": "2023-05-02T05:59:09Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 33.8,
+        "earnedRate": 33.9,
         "trophyName": "Weapon Tactics",
         "groupId": "default"
       },
@@ -2954,7 +2954,7 @@
         "earnedOn": "2023-05-02T02:36:25Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 39.4,
+        "earnedRate": 39.5,
         "trophyName": "Magic Tactics",
         "groupId": "default"
       },
@@ -2972,7 +2972,7 @@
         "earnedOn": "2023-04-29T23:01:29Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 76.9,
+        "earnedRate": 77,
         "trophyName": "Experienced Warrior",
         "groupId": "default"
       },
@@ -2981,7 +2981,7 @@
         "earnedOn": "2023-04-30T05:39:00Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 72.8,
+        "earnedRate": 73,
         "trophyName": "Legendary Warrior",
         "groupId": "default"
       },
@@ -2990,7 +2990,7 @@
         "earnedOn": "2023-04-29T23:15:42Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 76.2,
+        "earnedRate": 76.3,
         "trophyName": "Field Research - Basic",
         "groupId": "default"
       },
@@ -2999,7 +2999,7 @@
         "earnedOn": "2023-04-30T21:56:43Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 61.1,
+        "earnedRate": 61.3,
         "trophyName": "Field Research - Advanced",
         "groupId": "default"
       },
@@ -3008,7 +3008,7 @@
         "earnedOn": "2023-05-03T01:02:34Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 29.4,
+        "earnedRate": 29.5,
         "trophyName": "Field Research - Professional",
         "groupId": "default"
       },
@@ -3017,7 +3017,7 @@
         "earnedOn": "2023-04-29T06:08:51Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 78.4,
+        "earnedRate": 78.6,
         "trophyName": "Thrifty Spender",
         "groupId": "default"
       },
@@ -3026,7 +3026,7 @@
         "earnedOn": "2023-04-30T05:44:51Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.3,
+        "earnedRate": 70.5,
         "trophyName": "Smart Saver",
         "groupId": "default"
       },
@@ -3035,7 +3035,7 @@
         "earnedOn": "2023-04-30T08:39:55Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 67.7,
+        "earnedRate": 67.8,
         "trophyName": "Moneybags",
         "groupId": "default"
       },
@@ -3044,7 +3044,7 @@
         "earnedOn": "2023-04-30T05:45:12Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 68.8,
+        "earnedRate": 69,
         "trophyName": "Rookie Treasure Hunter",
         "groupId": "default"
       },
@@ -3053,7 +3053,7 @@
         "earnedOn": "2023-05-02T01:02:27Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 60.5,
+        "earnedRate": 60.7,
         "trophyName": "Veteran Treasure Hunter",
         "groupId": "default"
       },
@@ -3062,7 +3062,7 @@
         "earnedOn": "2023-05-03T00:28:06Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 32.2,
+        "earnedRate": 32.3,
         "trophyName": "Legendary Treasure Hunter",
         "groupId": "default"
       },
@@ -3071,7 +3071,7 @@
         "earnedOn": "2023-05-02T23:05:53Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 50.9,
+        "earnedRate": 51.1,
         "trophyName": "Adventurous Wayfarer",
         "groupId": "default"
       }
@@ -3098,7 +3098,7 @@
         "earnedOn": "2023-04-29T02:11:19Z",
         "type": "platinum",
         "rarity": "Rare",
-        "earnedRate": 35,
+        "earnedRate": 35.1,
         "trophyName": "Master of I",
         "groupId": "default"
       },
@@ -3116,7 +3116,7 @@
         "earnedOn": "2023-04-28T02:13:05Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.3,
+        "earnedRate": 70.4,
         "trophyName": "Earth's Blessing",
         "groupId": "default"
       },
@@ -3125,7 +3125,7 @@
         "earnedOn": "2023-04-28T09:00:05Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 67.3,
+        "earnedRate": 67.4,
         "trophyName": "Rekindled Flame",
         "groupId": "default"
       },
@@ -3134,7 +3134,7 @@
         "earnedOn": "2023-04-29T00:07:36Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 63.4,
+        "earnedRate": 63.6,
         "trophyName": "Revitalizing Waters",
         "groupId": "default"
       },
@@ -3143,7 +3143,7 @@
         "earnedOn": "2023-04-29T01:24:50Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 62.1,
+        "earnedRate": 62.3,
         "trophyName": "Wind's Caress",
         "groupId": "default"
       },
@@ -3152,7 +3152,7 @@
         "earnedOn": "2023-04-28T23:11:00Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 65.1,
+        "earnedRate": 65.2,
         "trophyName": "Token of Courage",
         "groupId": "default"
       },
@@ -3161,7 +3161,7 @@
         "earnedOn": "2023-04-29T02:11:19Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 57.6,
+        "earnedRate": 57.8,
         "trophyName": "Prophecy Foretold",
         "groupId": "default"
       },
@@ -3170,7 +3170,7 @@
         "earnedOn": "2023-04-29T01:30:30Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 60,
+        "earnedRate": 60.2,
         "trophyName": "Sword of Myth",
         "groupId": "default"
       },
@@ -3179,7 +3179,7 @@
         "earnedOn": "2023-04-27T02:56:43Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 42.1,
+        "earnedRate": 42.2,
         "trophyName": "Hidden Game",
         "groupId": "default"
       },
@@ -3188,7 +3188,7 @@
         "earnedOn": "2023-04-28T22:21:36Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 56.6,
+        "earnedRate": 56.8,
         "trophyName": "Seasoned Hero",
         "groupId": "default"
       },
@@ -3215,7 +3215,7 @@
         "earnedOn": "2023-04-27T04:47:12Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 73.3,
+        "earnedRate": 73.4,
         "trophyName": "Legendary Warrior",
         "groupId": "default"
       },
@@ -3233,7 +3233,7 @@
         "earnedOn": "2023-04-28T08:49:19Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 66.1,
+        "earnedRate": 66.2,
         "trophyName": "Field Research - Advanced",
         "groupId": "default"
       },
@@ -3242,7 +3242,7 @@
         "earnedOn": "2023-04-29T02:05:34Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 35.6,
+        "earnedRate": 35.7,
         "trophyName": "Field Research - Professional",
         "groupId": "default"
       },
@@ -3260,7 +3260,7 @@
         "earnedOn": "2023-04-27T04:32:21Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 74.6,
+        "earnedRate": 74.7,
         "trophyName": "Smart Saver",
         "groupId": "default"
       },
@@ -3269,7 +3269,7 @@
         "earnedOn": "2023-04-28T00:47:48Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 72.2,
+        "earnedRate": 72.3,
         "trophyName": "Moneybags",
         "groupId": "default"
       },
@@ -3278,7 +3278,7 @@
         "earnedOn": "2023-04-28T00:39:36Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 74.4,
+        "earnedRate": 74.5,
         "trophyName": "Rookie Treasure Hunter",
         "groupId": "default"
       },
@@ -3287,7 +3287,7 @@
         "earnedOn": "2023-04-28T22:02:18Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 65.8,
+        "earnedRate": 65.9,
         "trophyName": "Veteran Treasure Hunter",
         "groupId": "default"
       },
@@ -3296,7 +3296,7 @@
         "earnedOn": "2023-04-29T01:54:34Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 42.7,
+        "earnedRate": 42.9,
         "trophyName": "Legendary Treasure Hunter",
         "groupId": "default"
       },
@@ -3305,7 +3305,7 @@
         "earnedOn": "2023-04-29T00:28:42Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 62.3,
+        "earnedRate": 62.5,
         "trophyName": "Adventurous Wayfarer",
         "groupId": "default"
       }
@@ -3341,7 +3341,7 @@
         "earnedOn": "2022-02-22T06:45:05Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 42.9,
+        "earnedRate": 42.8,
         "trophyName": "Reached Level 20",
         "groupId": "default"
       },
@@ -3377,7 +3377,7 @@
         "earnedOn": "2022-02-20T01:11:54Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 57.6,
+        "earnedRate": 57.5,
         "trophyName": "Secured Passage to the Embassy",
         "groupId": "default"
       },
@@ -3404,7 +3404,7 @@
         "earnedOn": "2022-02-24T06:31:58Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 40.6,
+        "earnedRate": 40.5,
         "trophyName": "Recovered AETHER",
         "groupId": "default"
       },
@@ -3413,7 +3413,7 @@
         "earnedOn": "2022-02-27T09:24:06Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 39.2,
+        "earnedRate": 39.1,
         "trophyName": "Recovered POSEIDON",
         "groupId": "default"
       },
@@ -3521,7 +3521,7 @@
         "earnedOn": "2022-03-06T22:18:56Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 24.2,
+        "earnedRate": 24.1,
         "trophyName": "All Tallnecks Overridden",
         "groupId": "default"
       },
@@ -3530,7 +3530,7 @@
         "earnedOn": "2022-02-20T20:58:26Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 41.6,
+        "earnedRate": 41.5,
         "trophyName": "First Rebel Camp Completed",
         "groupId": "default"
       },
@@ -3593,7 +3593,7 @@
         "earnedOn": "2022-02-28T22:06:35Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 37.3,
+        "earnedRate": 37.2,
         "trophyName": "All Recon Machines Killed",
         "groupId": "default"
       },
@@ -3665,7 +3665,7 @@
         "earnedOn": "2022-02-21T04:43:47Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 35,
+        "earnedRate": 34.9,
         "trophyName": "Completed a Set of Salvage Contracts",
         "groupId": "default"
       },
@@ -3692,7 +3692,7 @@
         "earnedOn": "2022-03-08T05:53:23Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 19.3,
+        "earnedRate": 19.2,
         "trophyName": "Completed Arena Challenge Set",
         "groupId": "default"
       },
@@ -3701,7 +3701,7 @@
         "earnedOn": "2022-02-20T06:44:16Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 12.7,
+        "earnedRate": 12.6,
         "trophyName": "Defeated Machine Strike Challengers",
         "groupId": "default"
       },
@@ -3737,7 +3737,7 @@
         "earnedOn": "2022-02-19T08:03:00Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 55.2,
+        "earnedRate": 55.1,
         "trophyName": "Stealth Killed 10 Machines",
         "groupId": "default"
       },
@@ -3746,7 +3746,7 @@
         "earnedOn": "2022-02-24T05:38:20Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 43.1,
+        "earnedRate": 43,
         "trophyName": "Tore off 100 Components",
         "groupId": "default"
       },
@@ -3845,7 +3845,7 @@
         "earnedOn": "2022-02-22T22:33:43Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 28.3,
+        "earnedRate": 28.2,
         "trophyName": "Recovered 5 Different Collectables",
         "groupId": "default"
       },
@@ -3899,7 +3899,7 @@
         "earnedOn": "2023-04-21T06:26:49Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 6.1,
+        "earnedRate": 6.2,
         "trophyName": "Discovered the Ascension",
         "groupId": "002"
       },
@@ -3908,7 +3908,7 @@
         "earnedOn": "2023-04-23T06:23:58Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 5.6,
+        "earnedRate": 5.7,
         "trophyName": "Confronted Londra",
         "groupId": "002"
       },
@@ -3944,7 +3944,7 @@
         "earnedOn": "2023-04-23T09:16:49Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.1,
+        "earnedRate": 4.2,
         "trophyName": "Reached Level 60",
         "groupId": "002"
       },
@@ -3953,7 +3953,7 @@
         "earnedOn": "2023-04-20T19:17:52Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 2,
+        "earnedRate": 2.1,
         "trophyName": "Used Brimshine",
         "groupId": "002"
       },
@@ -3962,7 +3962,7 @@
         "earnedOn": "2023-04-20T05:08:07Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.5,
+        "earnedRate": 4.6,
         "trophyName": "Equipped an Elite Coil or Weave",
         "groupId": "002"
       },
@@ -4088,7 +4088,7 @@
         "earnedOn": "2023-02-02T00:57:54Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 56.8,
+        "earnedRate": 56.7,
         "trophyName": "Fully Equipped",
         "groupId": "default"
       },
@@ -4097,7 +4097,7 @@
         "earnedOn": "2023-02-05T03:51:07Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 28.4,
+        "earnedRate": 28.5,
         "trophyName": "Urban Xpert",
         "groupId": "default"
       },
@@ -4133,7 +4133,7 @@
         "earnedOn": "2023-02-01T22:38:41Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 14.1,
+        "earnedRate": 14.2,
         "trophyName": "Powerful Pressure Purist",
         "groupId": "default"
       },
@@ -4142,7 +4142,7 @@
         "earnedOn": "2023-02-01T22:46:33Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 21.2,
+        "earnedRate": 21.3,
         "trophyName": "First Steps",
         "groupId": "default"
       },
@@ -4241,7 +4241,7 @@
         "earnedOn": "2023-02-07T23:15:02Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 13.2,
+        "earnedRate": 13.3,
         "trophyName": "Merrily Go Round",
         "groupId": "default"
       },
@@ -4259,7 +4259,7 @@
         "earnedOn": "2023-02-08T09:06:21Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 8.7,
+        "earnedRate": 8.8,
         "trophyName": "Delaying the Inevitable",
         "groupId": "default"
       },
@@ -4286,7 +4286,7 @@
         "earnedOn": "2023-02-10T04:47:35Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 9.7,
+        "earnedRate": 9.8,
         "trophyName": "Tyresome",
         "groupId": "default"
       },
@@ -4322,7 +4322,7 @@
         "earnedOn": "2023-02-12T08:55:18Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 7.5,
+        "earnedRate": 7.6,
         "trophyName": "Delicate Excavation",
         "groupId": "default"
       },
@@ -4340,7 +4340,7 @@
         "earnedOn": "2023-02-14T13:28:45Z",
         "type": "gold",
         "rarity": "Very Rare",
-        "earnedRate": 12.3,
+        "earnedRate": 12.4,
         "trophyName": "As It Was Foretold...",
         "groupId": "default"
       },
@@ -4376,7 +4376,7 @@
         "earnedOn": "2023-02-07T05:50:16Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 28.1,
+        "earnedRate": 28.2,
         "trophyName": "Big Business",
         "groupId": "default"
       },
@@ -4430,7 +4430,7 @@
         "earnedOn": "2023-02-09T00:36:08Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 28.2,
+        "earnedRate": 28.3,
         "trophyName": "Side Hustle",
         "groupId": "default"
       }
@@ -4583,7 +4583,7 @@
         "earnedOn": "2022-12-11T00:54:10Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 33.9,
+        "earnedRate": 33.8,
         "trophyName": "Catwalk",
         "groupId": "default"
       },
@@ -4601,7 +4601,7 @@
         "earnedOn": "2022-12-11T08:03:17Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 29.5,
+        "earnedRate": 29.4,
         "trophyName": "Eye Opener",
         "groupId": "default"
       },
@@ -5303,7 +5303,7 @@
         "earnedOn": "2022-11-09T07:08:22Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 81.4,
+        "earnedRate": 81.3,
         "trophyName": "Blood Debt",
         "groupId": "default"
       },
@@ -5438,7 +5438,7 @@
         "earnedOn": "2022-11-10T07:03:33Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 43.3,
+        "earnedRate": 43.2,
         "trophyName": "Making Amends",
         "groupId": "default"
       },
@@ -5447,7 +5447,7 @@
         "earnedOn": "2022-11-12T23:32:21Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 40.3,
+        "earnedRate": 40.2,
         "trophyName": "It Was a Good Day",
         "groupId": "default"
       },
@@ -5465,7 +5465,7 @@
         "earnedOn": "2022-11-14T02:53:17Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 37.8,
+        "earnedRate": 37.7,
         "trophyName": "Besties",
         "groupId": "default"
       },
@@ -5483,7 +5483,7 @@
         "earnedOn": "2022-11-19T00:01:05Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 23.9,
+        "earnedRate": 23.8,
         "trophyName": "Pure of Hart",
         "groupId": "default"
       },
@@ -5555,7 +5555,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 45.9,
+        "earnedRate": 46,
         "trophyName": "Chain 12X",
         "groupId": "default"
       },
@@ -5564,7 +5564,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 6.9,
+        "earnedRate": 7,
         "trophyName": "Chain 30X",
         "groupId": "default"
       },
@@ -5573,7 +5573,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 12.3,
+        "earnedRate": 12.4,
         "trophyName": "Rapid Powerups",
         "groupId": "default"
       },
@@ -5618,7 +5618,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 28.5,
+        "earnedRate": 28.4,
         "trophyName": "500 Pushers",
         "groupId": "default"
       },
@@ -6257,7 +6257,7 @@
         "earnedOn": "2022-08-13T06:30:58Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 42.7,
+        "earnedRate": 42.6,
         "trophyName": "Dungeon Crawler",
         "groupId": "default"
       },
@@ -6302,7 +6302,7 @@
         "earnedOn": "2022-08-24T18:36:28Z",
         "type": "gold",
         "rarity": "Ultra Rare",
-        "earnedRate": 3.4,
+        "earnedRate": 3.5,
         "trophyName": "Unstoppable Defender",
         "groupId": "default"
       },
@@ -6320,7 +6320,7 @@
         "earnedOn": "2022-08-10T22:52:31Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 33.7,
+        "earnedRate": 33.6,
         "trophyName": "Thick Skin",
         "groupId": "default"
       },
@@ -6329,7 +6329,7 @@
         "earnedOn": "2022-08-15T04:05:47Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.9,
+        "earnedRate": 30.8,
         "trophyName": "Calloused",
         "groupId": "default"
       },
@@ -6338,7 +6338,7 @@
         "earnedOn": "2022-08-15T04:05:47Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 28.8,
+        "earnedRate": 28.7,
         "trophyName": "Armored",
         "groupId": "default"
       },
@@ -6347,7 +6347,7 @@
         "earnedOn": "2022-08-17T06:59:47Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 23.4,
+        "earnedRate": 23.3,
         "trophyName": "Reinforced",
         "groupId": "default"
       },
@@ -6356,7 +6356,7 @@
         "earnedOn": "2022-08-20T23:35:06Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 16,
+        "earnedRate": 15.9,
         "trophyName": "Fortified",
         "groupId": "default"
       },
@@ -6410,7 +6410,7 @@
         "earnedOn": "2022-08-25T23:30:36Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 12.3,
+        "earnedRate": 12.4,
         "trophyName": "Champion of Etheria",
         "groupId": "default"
       },
@@ -6428,7 +6428,7 @@
         "earnedOn": "2022-08-17T19:07:48Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 27.6,
+        "earnedRate": 27.5,
         "trophyName": "Over The River",
         "groupId": "default"
       },
@@ -6572,7 +6572,7 @@
         "earnedOn": "2022-06-13T23:33:24Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 8.7,
+        "earnedRate": 8.6,
         "trophyName": "BGM Lover",
         "groupId": "default"
       },
@@ -6662,7 +6662,7 @@
         "earnedOn": "2022-06-12T09:30:17Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 72.6,
+        "earnedRate": 72.5,
         "trophyName": "First Customer",
         "groupId": "default"
       },
@@ -6968,7 +6968,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 58.1,
+        "earnedRate": 58,
         "trophyName": "Shardbearer Godrick",
         "groupId": "default"
       },
@@ -7202,7 +7202,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.6,
+        "earnedRate": 30.5,
         "trophyName": "Mohg, the Omen",
         "groupId": "default"
       },
@@ -7238,7 +7238,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 52.8,
+        "earnedRate": 52.7,
         "trophyName": "Leonine Misbegotten",
         "groupId": "default"
       },
@@ -7283,7 +7283,7 @@
         "earnedOn": "2022-06-04T22:43:48Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 69.7,
+        "earnedRate": 69.6,
         "trophyName": "Roundtable Hold",
         "groupId": "default"
       },
@@ -7328,7 +7328,7 @@
         "earnedOn": "2022-06-03T09:30:46Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 67.7,
+        "earnedRate": 67.6,
         "trophyName": "Record score",
         "groupId": "default"
       },
@@ -7346,7 +7346,7 @@
         "earnedOn": "2022-06-03T09:20:29Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 78.8,
+        "earnedRate": 78.7,
         "trophyName": "Score 20,000 points",
         "groupId": "default"
       },
@@ -7355,7 +7355,7 @@
         "earnedOn": "2022-06-03T09:22:34Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 61.7,
+        "earnedRate": 61.6,
         "trophyName": "Score 40,000 points",
         "groupId": "default"
       },
@@ -7400,7 +7400,7 @@
         "earnedOn": "2022-05-29T03:53:00Z",
         "type": "platinum",
         "rarity": "Common",
-        "earnedRate": 75.9,
+        "earnedRate": 76,
         "trophyName": "The End",
         "groupId": "default"
       },
@@ -7490,7 +7490,7 @@
         "earnedOn": "2022-05-29T03:40:26Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 76,
+        "earnedRate": 76.2,
         "trophyName": "45",
         "groupId": "default"
       },
@@ -7499,7 +7499,7 @@
         "earnedOn": "2022-05-29T03:53:00Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 75.9,
+        "earnedRate": 76,
         "trophyName": "50",
         "groupId": "default"
       }
@@ -7931,7 +7931,7 @@
         "earnedOn": "2022-05-20T09:20:44Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 5.3,
+        "earnedRate": 5.4,
         "trophyName": "Deep Impact",
         "groupId": "001"
       },
@@ -8642,7 +8642,7 @@
         "earnedOn": "2022-04-03T09:40:16Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 32.9,
+        "earnedRate": 33,
         "trophyName": "Destroyer of a Thousand",
         "groupId": "default"
       },
@@ -8660,7 +8660,7 @@
         "earnedOn": "2022-04-03T08:13:53Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 68.3,
+        "earnedRate": 68.4,
         "trophyName": "Four for One",
         "groupId": "default"
       },
@@ -8723,7 +8723,7 @@
         "earnedOn": "2022-04-03T23:11:24Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 23.1,
+        "earnedRate": 23.2,
         "trophyName": "Grenadier",
         "groupId": "default"
       },
@@ -8876,7 +8876,7 @@
         "earnedOn": "2022-02-01T07:00:25Z",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.1,
+        "earnedRate": 4.2,
         "trophyName": "Rust In Peace",
         "groupId": "default"
       },
@@ -9281,7 +9281,7 @@
         "earnedOn": "2022-01-06T02:02:58Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 71,
+        "earnedRate": 70.9,
         "trophyName": "A Round of Applause",
         "groupId": "default"
       },
@@ -9524,7 +9524,7 @@
         "earnedOn": "2022-01-09T10:54:18Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 24.2,
+        "earnedRate": 24.1,
         "trophyName": "Out of Harm's Way",
         "groupId": "default"
       }
@@ -10613,7 +10613,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 1.4,
+        "earnedRate": 1.5,
         "trophyName": "HYPERSPEED",
         "groupId": "default"
       },
@@ -11513,7 +11513,7 @@
         "earnedOn": "2018-04-07T06:47:25Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 41.5,
+        "earnedRate": 41.6,
         "trophyName": "Set a Time Road Rule on any Road",
         "groupId": "default"
       },
@@ -12269,7 +12269,7 @@
         "earnedOn": "2021-11-07T07:30:19Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 8.8,
+        "earnedRate": 8.9,
         "trophyName": "Smash 15 Island billboards",
         "groupId": "008"
       },
@@ -12683,7 +12683,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Ultra Rare",
-        "earnedRate": 1.8,
+        "earnedRate": 1.7,
         "trophyName": "Losing Their Minds",
         "groupId": "default"
       },
@@ -13223,7 +13223,7 @@
         "earnedOn": "2014-02-26T06:13:28Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 22,
+        "earnedRate": 21.9,
         "trophyName": "Stamp Lover",
         "groupId": "default"
       },
@@ -13421,7 +13421,7 @@
         "earnedOn": "2016-08-04T03:38:30Z",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.2,
+        "earnedRate": 4.1,
         "trophyName": "Mode master",
         "groupId": "default"
       },
@@ -13601,7 +13601,7 @@
         "earnedOn": "2021-12-15T07:32:15Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 93.8,
+        "earnedRate": 93.7,
         "trophyName": "ADVENTURER",
         "groupId": "default"
       },
@@ -13619,7 +13619,7 @@
         "earnedOn": "2021-12-15T07:40:01Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 70.6,
+        "earnedRate": 70.5,
         "trophyName": "TREASURE HUNTER",
         "groupId": "default"
       },
@@ -13655,7 +13655,7 @@
         "earnedOn": "2021-12-17T04:42:16Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 57.4,
+        "earnedRate": 57.3,
         "trophyName": "MARINE ENTHUSIAST",
         "groupId": "default"
       },
@@ -13673,7 +13673,7 @@
         "earnedOn": "2021-12-27T07:23:10Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 28.5,
+        "earnedRate": 28.4,
         "trophyName": "BEST FRIEND",
         "groupId": "default"
       },
@@ -13709,7 +13709,7 @@
         "earnedOn": "2021-12-15T07:52:09Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 57.5,
+        "earnedRate": 57.4,
         "trophyName": "EXPLORER",
         "groupId": "default"
       },
@@ -13727,7 +13727,7 @@
         "earnedOn": "2021-12-27T07:18:41Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 40.2,
+        "earnedRate": 40.1,
         "trophyName": "GHOST HUNTER",
         "groupId": "default"
       },
@@ -13763,7 +13763,7 @@
         "earnedOn": "2021-12-15T08:11:48Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 48.9,
+        "earnedRate": 48.8,
         "trophyName": "TRAVELER",
         "groupId": "default"
       },
@@ -13772,7 +13772,7 @@
         "earnedOn": "2021-12-27T07:05:09Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 37.4,
+        "earnedRate": 37.3,
         "trophyName": "WORLD TRAVELER",
         "groupId": "default"
       },
@@ -13781,7 +13781,7 @@
         "earnedOn": "2021-12-15T07:58:46Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.5,
+        "earnedRate": 30.4,
         "trophyName": "PUNCTUAL",
         "groupId": "default"
       },
@@ -13790,7 +13790,7 @@
         "earnedOn": "2021-12-27T18:27:24Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 41.1,
+        "earnedRate": 41,
         "trophyName": "MINIT",
         "groupId": "default"
       },
@@ -13799,7 +13799,7 @@
         "earnedOn": "2021-12-27T19:00:31Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 16,
+        "earnedRate": 15.9,
         "trophyName": "ANOTHER MINIT",
         "groupId": "default"
       },
@@ -13817,7 +13817,7 @@
         "earnedOn": "2021-12-27T18:27:26Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 17.3,
+        "earnedRate": 17.2,
         "trophyName": "PACIFIST, SORT OF",
         "groupId": "default"
       },
@@ -13826,7 +13826,7 @@
         "earnedOn": "2021-12-27T19:21:18Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 15.7,
+        "earnedRate": 15.6,
         "trophyName": "MINIMALIST",
         "groupId": "default"
       },
@@ -15275,7 +15275,7 @@
         "earnedOn": "2021-12-08T03:28:42Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 2.4,
+        "earnedRate": 2.5,
         "trophyName": "Swift Exit",
         "groupId": "003"
       },
@@ -15743,7 +15743,7 @@
         "earnedOn": "2017-06-23T04:02:33Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 66,
+        "earnedRate": 65.9,
         "trophyName": "Doubled Pawn",
         "groupId": "default"
       },
@@ -15779,7 +15779,7 @@
         "earnedOn": "2017-06-24T08:55:21Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 38.3,
+        "earnedRate": 38.2,
         "trophyName": "Checkmate",
         "groupId": "default"
       },
@@ -15923,7 +15923,7 @@
         "earnedOn": "2017-06-24T07:50:36Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 22.7,
+        "earnedRate": 22.6,
         "trophyName": "Stranger Danger",
         "groupId": "default"
       },
@@ -16112,7 +16112,7 @@
         "earnedOn": "2016-01-02T15:16:34Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 39.5,
+        "earnedRate": 39.6,
         "trophyName": "Angel Goat",
         "groupId": "default"
       },
@@ -16400,7 +16400,7 @@
         "earnedOn": "2021-12-07T05:37:05Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 1.8,
+        "earnedRate": 1.9,
         "trophyName": "Mermaid Goat",
         "groupId": "001"
       },
@@ -20918,7 +20918,7 @@
         "earnedOn": "2018-01-05T04:29:05Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.4,
+        "earnedRate": 4.3,
         "trophyName": "6-Chain Master",
         "groupId": "default"
       },
@@ -21026,7 +21026,7 @@
         "earnedOn": "2018-01-04T01:09:15Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 24.7,
+        "earnedRate": 24.6,
         "trophyName": "Tetris Champ (x100)",
         "groupId": "default"
       },
@@ -21602,7 +21602,7 @@
         "earnedOn": "2012-07-22T08:39:53Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 7.3,
+        "earnedRate": 7.4,
         "trophyName": "Furricane",
         "groupId": "default"
       },
@@ -21890,7 +21890,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 1.3,
+        "earnedRate": 1.4,
         "trophyName": "All Star",
         "groupId": "default"
       },
@@ -21944,7 +21944,7 @@
         "earnedOn": "2021-11-10T23:53:14Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 25.3,
+        "earnedRate": 25.2,
         "trophyName": "Hat Trick",
         "groupId": "default"
       },
@@ -23510,7 +23510,7 @@
         "earnedOn": "2014-08-04T20:13:36Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 43.4,
+        "earnedRate": 43.3,
         "trophyName": "How Do I Look?",
         "groupId": "default"
       },
@@ -23861,7 +23861,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 11.1,
+        "earnedRate": 11.2,
         "trophyName": "Bearhug's Awakening",
         "groupId": "default"
       },
@@ -23870,7 +23870,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 7.2,
+        "earnedRate": 7.3,
         "trophyName": "Badgerker Unleashed!",
         "groupId": "default"
       },
@@ -24293,7 +24293,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Ultra Rare",
-        "earnedRate": 2.9,
+        "earnedRate": 3,
         "trophyName": "Group Effort",
         "groupId": "default"
       },
@@ -25445,7 +25445,7 @@
         "earnedOn": "2021-10-30T10:09:36Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 69.4,
+        "earnedRate": 69.5,
         "trophyName": "Huff and Puff",
         "groupId": "default"
       },
@@ -25580,7 +25580,7 @@
         "earnedOn": "2021-10-30T23:02:50Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 64.5,
+        "earnedRate": 64.6,
         "trophyName": "The North Wind Blows",
         "groupId": "default"
       },
@@ -26507,7 +26507,7 @@
         "earnedOn": "2019-08-08T10:12:31Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 6.2,
+        "earnedRate": 6.3,
         "trophyName": "Harder, Better, Faster, Stronger",
         "groupId": "default"
       },
@@ -26714,7 +26714,7 @@
         "earnedOn": "2021-10-11T08:50:24Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 63.7,
+        "earnedRate": 63.6,
         "trophyName": "Ballseye",
         "groupId": "default"
       },
@@ -27866,7 +27866,7 @@
         "earnedOn": "2021-09-22T23:40:33Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 51.6,
+        "earnedRate": 51.5,
         "trophyName": "Hunter in the Forest",
         "groupId": "default"
       },
@@ -27875,7 +27875,7 @@
         "earnedOn": "2021-09-24T06:53:41Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 35.3,
+        "earnedRate": 35.2,
         "trophyName": "Harness Your Power",
         "groupId": "default"
       },
@@ -27884,7 +27884,7 @@
         "earnedOn": "2021-09-26T08:07:28Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 27.8,
+        "earnedRate": 27.7,
         "trophyName": "Crossing Over",
         "groupId": "default"
       },
@@ -27893,7 +27893,7 @@
         "earnedOn": "2021-09-22T19:20:33Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 86.5,
+        "earnedRate": 86.4,
         "trophyName": "Found a Friend",
         "groupId": "default"
       },
@@ -27902,7 +27902,7 @@
         "earnedOn": "2021-09-22T19:58:30Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 69.4,
+        "earnedRate": 69.3,
         "trophyName": "Haikyo",
         "groupId": "default"
       },
@@ -27911,7 +27911,7 @@
         "earnedOn": "2021-09-22T20:58:39Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 59.5,
+        "earnedRate": 59.4,
         "trophyName": "Into the Woods",
         "groupId": "default"
       },
@@ -27920,7 +27920,7 @@
         "earnedOn": "2021-09-24T08:24:06Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 34.3,
+        "earnedRate": 34.2,
         "trophyName": "The Open Range",
         "groupId": "default"
       },
@@ -27929,7 +27929,7 @@
         "earnedOn": "2021-09-29T21:37:42Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 24.8,
+        "earnedRate": 24.7,
         "trophyName": "The Lonely Path",
         "groupId": "default"
       },
@@ -27938,7 +27938,7 @@
         "earnedOn": "2021-09-23T00:41:14Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 48,
+        "earnedRate": 47.9,
         "trophyName": "Taro's Fear",
         "groupId": "default"
       },
@@ -27947,7 +27947,7 @@
         "earnedOn": "2021-09-23T06:22:40Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 39,
+        "earnedRate": 38.9,
         "trophyName": "Taro's Regret",
         "groupId": "default"
       },
@@ -27956,7 +27956,7 @@
         "earnedOn": "2021-09-23T05:44:41Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 40.7,
+        "earnedRate": 40.5,
         "trophyName": "Taro's Love",
         "groupId": "default"
       },
@@ -27965,7 +27965,7 @@
         "earnedOn": "2021-09-25T06:08:48Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 31.8,
+        "earnedRate": 31.7,
         "trophyName": "Adira's Love",
         "groupId": "default"
       },
@@ -27974,7 +27974,7 @@
         "earnedOn": "2021-09-25T07:00:37Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.9,
+        "earnedRate": 30.8,
         "trophyName": "Adira's Fear",
         "groupId": "default"
       },
@@ -27983,7 +27983,7 @@
         "earnedOn": "2021-09-26T02:06:35Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 29.6,
+        "earnedRate": 29.5,
         "trophyName": "Adira's Regret",
         "groupId": "default"
       },
@@ -27992,7 +27992,7 @@
         "earnedOn": "2021-09-28T03:54:59Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 25.8,
+        "earnedRate": 25.7,
         "trophyName": "Toshi's Love",
         "groupId": "default"
       },
@@ -28001,7 +28001,7 @@
         "earnedOn": "2021-09-28T23:45:12Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 26.3,
+        "earnedRate": 26.2,
         "trophyName": "Toshi's Fear",
         "groupId": "default"
       },
@@ -28010,7 +28010,7 @@
         "earnedOn": "2021-09-29T06:37:07Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 25.7,
+        "earnedRate": 25.6,
         "trophyName": "Toshi's Regret",
         "groupId": "default"
       },
@@ -28019,7 +28019,7 @@
         "earnedOn": "2021-09-24T05:57:16Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 37.7,
+        "earnedRate": 37.5,
         "trophyName": "Spirit Guide",
         "groupId": "default"
       },
@@ -28028,7 +28028,7 @@
         "earnedOn": "2021-09-26T07:52:59Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 28.5,
+        "earnedRate": 28.4,
         "trophyName": "A Heavy Hammer",
         "groupId": "default"
       },
@@ -28037,7 +28037,7 @@
         "earnedOn": "2021-09-29T21:37:07Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 24.8,
+        "earnedRate": 24.7,
         "trophyName": "A Leader Walks Alone",
         "groupId": "default"
       },
@@ -28046,7 +28046,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 23.8,
+        "earnedRate": 23.7,
         "trophyName": "Restore Balance",
         "groupId": "default"
       },
@@ -28064,7 +28064,7 @@
         "earnedOn": "2021-09-24T07:01:05Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.5,
+        "earnedRate": 30.4,
         "trophyName": "Weigh Them Down",
         "groupId": "default"
       },
@@ -28073,7 +28073,7 @@
         "earnedOn": "2021-09-26T01:46:01Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 27,
+        "earnedRate": 26.9,
         "trophyName": "Quick Draw",
         "groupId": "default"
       },
@@ -28082,7 +28082,7 @@
         "earnedOn": "2021-09-23T06:13:07Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 26,
+        "earnedRate": 25.9,
         "trophyName": "Bow Master",
         "groupId": "default"
       },
@@ -28100,7 +28100,7 @@
         "earnedOn": "2021-09-22T20:31:38Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 42.1,
+        "earnedRate": 42,
         "trophyName": "Between the Eyes",
         "groupId": "default"
       },
@@ -28109,7 +28109,7 @@
         "earnedOn": "2021-09-28T07:35:55Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.8,
+        "earnedRate": 4.7,
         "trophyName": "Return to Sender",
         "groupId": "default"
       },
@@ -28118,7 +28118,7 @@
         "earnedOn": "2021-09-23T07:10:18Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.5,
+        "earnedRate": 4.4,
         "trophyName": "Triple Threat",
         "groupId": "default"
       },
@@ -28127,7 +28127,7 @@
         "earnedOn": "2021-09-22T19:33:48Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 51.7,
+        "earnedRate": 51.6,
         "trophyName": "Rot Commander",
         "groupId": "default"
       },
@@ -28163,7 +28163,7 @@
         "earnedOn": "2021-09-28T23:00:02Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 9.2,
+        "earnedRate": 9.1,
         "trophyName": "Curse Collector",
         "groupId": "default"
       },
@@ -28172,7 +28172,7 @@
         "earnedOn": "2021-09-26T08:15:53Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 13.9,
+        "earnedRate": 13.8,
         "trophyName": "Skillful Spirit Guide",
         "groupId": "default"
       },
@@ -28181,7 +28181,7 @@
         "earnedOn": "2021-09-22T20:37:29Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 62,
+        "earnedRate": 61.9,
         "trophyName": "Good as New",
         "groupId": "default"
       },
@@ -28190,7 +28190,7 @@
         "earnedOn": "2021-09-28T23:15:09Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 7,
+        "earnedRate": 6.9,
         "trophyName": "Restoration Master",
         "groupId": "default"
       },
@@ -28199,7 +28199,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 10.1,
+        "earnedRate": 10,
         "trophyName": "Zen Master",
         "groupId": "default"
       },
@@ -28487,7 +28487,7 @@
         "earnedOn": "2021-01-16T03:50:23Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.9,
+        "earnedRate": 31,
         "trophyName": "Utterly experimental",
         "groupId": "default"
       },
@@ -28613,7 +28613,7 @@
         "earnedOn": "2021-02-02T03:06:26Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 7,
+        "earnedRate": 7.1,
         "trophyName": "I'm special, you're special!",
         "groupId": "default"
       },
@@ -28658,7 +28658,7 @@
         "earnedOn": "2017-06-22T13:52:57Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 71.9,
+        "earnedRate": 71.8,
         "trophyName": "Look at me go",
         "groupId": "default"
       },
@@ -28829,7 +28829,7 @@
         "earnedOn": "2021-09-13T05:48:24Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 84.3,
+        "earnedRate": 84.4,
         "trophyName": "74 miles East of Otaheité",
         "groupId": "default"
       },
@@ -28838,7 +28838,7 @@
         "earnedOn": "2021-09-13T06:05:54Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 69,
+        "earnedRate": 69.1,
         "trophyName": "The Everhart Expedition",
         "groupId": "default"
       },
@@ -28847,7 +28847,7 @@
         "earnedOn": "2021-09-13T06:39:04Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 58.7,
+        "earnedRate": 58.9,
         "trophyName": "Seaside Serenade",
         "groupId": "default"
       },
@@ -28856,7 +28856,7 @@
         "earnedOn": "2021-09-13T06:42:57Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 58.6,
+        "earnedRate": 58.7,
         "trophyName": "The Vanishing of the Lady Shannon",
         "groupId": "default"
       },
@@ -28865,7 +28865,7 @@
         "earnedOn": "2021-09-13T06:56:45Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 55.8,
+        "earnedRate": 55.9,
         "trophyName": "506 East Hampden Avenue",
         "groupId": "default"
       },
@@ -28883,7 +28883,7 @@
         "earnedOn": "2021-09-13T07:34:35Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 50.3,
+        "earnedRate": 50.4,
         "trophyName": "Dark Water Ride",
         "groupId": "default"
       },
@@ -28891,8 +28891,8 @@
         "isEarned": true,
         "earnedOn": "2021-09-13T07:42:24Z",
         "type": "bronze",
-        "rarity": "Rare",
-        "earnedRate": 50,
+        "rarity": "Common",
+        "earnedRate": 50.1,
         "trophyName": "Sunken",
         "groupId": "default"
       },
@@ -28901,7 +28901,7 @@
         "earnedOn": "2021-09-13T07:49:18Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 49.5,
+        "earnedRate": 49.6,
         "trophyName": "Deep Cut",
         "groupId": "default"
       },
@@ -28910,7 +28910,7 @@
         "earnedOn": "2021-09-13T08:13:22Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 47.7,
+        "earnedRate": 47.8,
         "trophyName": "FHALGOF'N'",
         "groupId": "default"
       },
@@ -28919,7 +28919,7 @@
         "earnedOn": "2021-09-13T08:25:00Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 39.3,
+        "earnedRate": 39.4,
         "trophyName": "The only thing I have now",
         "groupId": "default"
       },
@@ -28928,7 +28928,7 @@
         "earnedOn": "2021-09-13T05:44:52Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 42.5,
+        "earnedRate": 42.6,
         "trophyName": "A brigantine, a brig and a barque",
         "groupId": "default"
       },
@@ -28955,7 +28955,7 @@
         "earnedOn": "2021-09-13T06:44:47Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 57.6,
+        "earnedRate": 57.7,
         "trophyName": "Halfway there",
         "groupId": "default"
       },
@@ -28973,7 +28973,7 @@
         "earnedOn": "2021-09-13T08:10:03Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 23.7,
+        "earnedRate": 23.8,
         "trophyName": "I'll make a note of that...",
         "groupId": "default"
       },
@@ -28991,7 +28991,7 @@
         "earnedOn": "2021-09-13T05:53:52Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 44.9,
+        "earnedRate": 45,
         "trophyName": "Weekend at Walakea's",
         "groupId": "default"
       },
@@ -29009,7 +29009,7 @@
         "earnedOn": "2021-09-13T06:56:19Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 39,
+        "earnedRate": 39.1,
         "trophyName": "Greetings from Y'ha-nthlei!",
         "groupId": "default"
       },
@@ -29027,7 +29027,7 @@
         "earnedOn": "2021-09-13T08:02:17Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 17.8,
+        "earnedRate": 17.9,
         "trophyName": "Candid Photo",
         "groupId": "default"
       },
@@ -29054,7 +29054,7 @@
         "earnedOn": "2021-09-13T06:10:30Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 16.4,
+        "earnedRate": 16.5,
         "trophyName": "The Lady Shannon Recording",
         "groupId": "default"
       },
@@ -29063,7 +29063,7 @@
         "earnedOn": "2021-09-13T06:20:21Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 16.1,
+        "earnedRate": 16.2,
         "trophyName": "You looked that up in a guide!",
         "groupId": "default"
       },
@@ -29072,7 +29072,7 @@
         "earnedOn": "2021-09-13T06:19:00Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 37,
+        "earnedRate": 37.1,
         "trophyName": "Not Another Boring Slideshow!",
         "groupId": "default"
       },
@@ -29090,7 +29090,7 @@
         "earnedOn": "2021-09-13T06:53:55Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 24.3,
+        "earnedRate": 24.4,
         "trophyName": "The Norahnomicon",
         "groupId": "default"
       },
@@ -29099,7 +29099,7 @@
         "earnedOn": "2021-09-13T07:26:14Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 21.2,
+        "earnedRate": 21.3,
         "trophyName": "Naacalvision",
         "groupId": "default"
       },
@@ -29153,7 +29153,7 @@
         "earnedOn": "2021-09-10T21:48:20Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 92.2,
+        "earnedRate": 92.3,
         "trophyName": "A Family Heirloom",
         "groupId": "default"
       },
@@ -29171,7 +29171,7 @@
         "earnedOn": "2021-09-10T23:46:01Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 66.7,
+        "earnedRate": 66.6,
         "trophyName": "The Everhart Expedition",
         "groupId": "default"
       },
@@ -29225,7 +29225,7 @@
         "earnedOn": "2021-09-11T06:52:27Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 49.7,
+        "earnedRate": 49.8,
         "trophyName": "Sunken",
         "groupId": "default"
       },
@@ -31115,7 +31115,7 @@
         "earnedOn": "2021-08-17T04:40:33Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 95.1,
+        "earnedRate": 95,
         "trophyName": "The Gardens",
         "groupId": "default"
       },
@@ -31187,7 +31187,7 @@
         "earnedOn": "2021-08-17T04:38:00Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 97,
+        "earnedRate": 96.9,
         "trophyName": "Open Sesame",
         "groupId": "default"
       },
@@ -31205,7 +31205,7 @@
         "earnedOn": "2021-08-17T05:04:07Z",
         "type": "gold",
         "rarity": "Common",
-        "earnedRate": 83.5,
+        "earnedRate": 83.4,
         "trophyName": "Size Manipulator",
         "groupId": "default"
       },
@@ -31394,7 +31394,7 @@
         "earnedOn": "2021-08-16T23:16:30Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 19,
+        "earnedRate": 19.1,
         "trophyName": "The Exchange",
         "groupId": "default"
       },
@@ -31466,7 +31466,7 @@
         "earnedOn": "2021-08-16T22:39:23Z",
         "type": "gold",
         "rarity": "Very Rare",
-        "earnedRate": 7.4,
+        "earnedRate": 7.5,
         "trophyName": "Run, Move, Run!",
         "groupId": "default"
       },
@@ -31637,7 +31637,7 @@
         "earnedOn": "2021-08-09T03:38:06Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 42.4,
+        "earnedRate": 42.3,
         "trophyName": "The Space Merchants",
         "groupId": "default"
       },
@@ -31727,7 +31727,7 @@
         "earnedOn": "2021-08-12T21:24:53Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 20,
+        "earnedRate": 19.9,
         "trophyName": "What Mad Universe",
         "groupId": "default"
       },
@@ -31745,7 +31745,7 @@
         "earnedOn": "2021-08-13T23:44:38Z",
         "type": "gold",
         "rarity": "Ultra Rare",
-        "earnedRate": 3.6,
+        "earnedRate": 3.5,
         "trophyName": "The Sentinel",
         "groupId": "default"
       },
@@ -32456,7 +32456,7 @@
         "earnedOn": "2021-07-27T06:51:40Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 76.6,
+        "earnedRate": 76.5,
         "trophyName": "Redeemed",
         "groupId": "default"
       },
@@ -32492,7 +32492,7 @@
         "earnedOn": "2021-07-27T04:34:25Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 44.5,
+        "earnedRate": 44.4,
         "trophyName": "Quack Enthusiast",
         "groupId": "default"
       },
@@ -32969,7 +32969,7 @@
         "earnedOn": "2021-07-20T05:54:41Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 49.5,
+        "earnedRate": 49.4,
         "trophyName": "The One that Got Away",
         "groupId": "default"
       },
@@ -33068,7 +33068,7 @@
         "earnedOn": "2021-07-22T00:36:24Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 21,
+        "earnedRate": 20.9,
         "trophyName": "State of the Union",
         "groupId": "default"
       },
@@ -33077,7 +33077,7 @@
         "earnedOn": "2021-07-22T00:43:23Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 20.9,
+        "earnedRate": 20.8,
         "trophyName": "A Man Unhinged",
         "groupId": "default"
       },
@@ -33104,7 +33104,7 @@
         "earnedOn": "2021-07-22T01:29:53Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 20.1,
+        "earnedRate": 20,
         "trophyName": "Third Wheel",
         "groupId": "default"
       },
@@ -33131,7 +33131,7 @@
         "earnedOn": "2021-07-22T05:59:03Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 19.3,
+        "earnedRate": 19.2,
         "trophyName": "A Serious House",
         "groupId": "default"
       },
@@ -33158,7 +33158,7 @@
         "earnedOn": "2021-07-22T06:52:13Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 18.9,
+        "earnedRate": 18.8,
         "trophyName": "Another Night at the Office",
         "groupId": "default"
       },
@@ -33212,7 +33212,7 @@
         "earnedOn": "2021-07-23T04:38:44Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 18.2,
+        "earnedRate": 18.1,
         "trophyName": "Executive Decision",
         "groupId": "default"
       },
@@ -33221,7 +33221,7 @@
         "earnedOn": "2021-07-23T04:52:03Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 18.1,
+        "earnedRate": 18,
         "trophyName": "A New Day in Gotham",
         "groupId": "default"
       }
@@ -33599,7 +33599,7 @@
         "earnedOn": "2017-04-03T00:58:10Z",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 10.1,
+        "earnedRate": 10.2,
         "trophyName": "Master Of The Five Ways",
         "groupId": "default"
       },
@@ -34022,7 +34022,7 @@
         "earnedOn": "2021-07-18T08:52:04Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 14.2,
+        "earnedRate": 14.1,
         "trophyName": "Dioptric Power",
         "groupId": "default"
       },
@@ -34238,7 +34238,7 @@
         "earnedOn": "2021-07-05T06:44:37Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 15.3,
+        "earnedRate": 15.2,
         "trophyName": "Tricky Trapper",
         "groupId": "default"
       },
@@ -34490,7 +34490,7 @@
         "earnedOn": "2021-07-17T07:42:33Z",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 3,
+        "earnedRate": 3.1,
         "trophyName": "Almost There",
         "groupId": "default"
       },
