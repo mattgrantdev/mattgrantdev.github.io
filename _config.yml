@@ -18,6 +18,8 @@ urls:
 #      url: /my-spotify
     - text: Gallery
       url: /travel-gallery
+    - text: My PS Trophies
+      url: /my-ps-trophies
 #    - text: Blog
 #      url: /blog
     - text: Contact Me

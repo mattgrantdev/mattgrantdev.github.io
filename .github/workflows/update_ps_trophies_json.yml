@@ -10,7 +10,8 @@ jobs:
       run:
         working-directory: ./scripts
     env:
-      NPSSO: ${{ secrets.PSN_NPSSO }}
+      PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
+      PSN_USERNAME: ${{ secrets.PSN_USERNAME }}
     runs-on: ubuntu-latest
     name: Update JSON resources
     steps:

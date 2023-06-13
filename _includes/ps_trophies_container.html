@@ -1,0 +1,5 @@
+{% for game in site.data.psn.games %}
+    {% if game.earnedCounts && game.earnedCounts.platinum > 0 %}
+        {% include ps_trophy_item.html data=game %}
+    {% endif %}
+{% endfor %}

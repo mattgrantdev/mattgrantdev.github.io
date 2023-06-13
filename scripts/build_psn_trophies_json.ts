@@ -12,15 +12,18 @@ import {
 } from "psn-api";
 
 async function main() {
+    // Get ENV
+    const NPSSO = process.env["PSN_NPSSO"];
+    const PSN_USERNAME = process.env["PSN_USERNAME"];
     // 1. Authenticate and become authorized with PSN.
     // See the Authenticating Manually docs for how to get your NPSSO.
-    const accessCode = await exchangeNpssoForCode(process.env["NPSSO"]);
+    const accessCode = await exchangeNpssoForCode(NPSSO);
     const authorization = await exchangeCodeForAccessToken(accessCode);
 
     // 2. Get the user's `accountId` from the username.
     const allAccountsSearchResults = await makeUniversalSearch(
         authorization,
-        "xelnia",
+        PSN_USERNAME,
         "SocialAllAccounts"
     );
 
