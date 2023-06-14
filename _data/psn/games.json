@@ -100,7 +100,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 31.4,
+        "earnedRate": 31.5,
         "trophyName": "Mercenary Tactics",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/f3a57952-736e-4dfc-8a82-44c5fd85538f.png",
         "groupId": "default"
@@ -570,7 +570,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 38.7,
+        "earnedRate": 38.8,
         "trophyName": "The Cat Came Back",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/ff65bd07-12b5-4a77-9b33-24f113b9cba4.png",
         "groupId": "002"
@@ -2443,7 +2443,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 15,
+        "earnedRate": 14.9,
         "trophyName": "Make a Wish",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/6305e22f-9ae3-4582-b969-2b52abddb113.png",
         "groupId": "default"
@@ -4741,7 +4741,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 8.2,
+        "earnedRate": 8.1,
         "trophyName": "Armed And Dangerous",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR21088_00_005838635FB05B79F3A06D4AE66E93BE9DCE2BB945/850FA1CC9950E72E5A7ABE05C02BE64DC266943E.PNG",
         "groupId": "default"
@@ -5148,7 +5148,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 12.8,
+        "earnedRate": 12.9,
         "trophyName": "Richie Rich",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15468_00_00D3CD56BE3718539E5ADDE459A4C4DB82CABFD480/BABF84F922A1967A9086AC0FA0B2856F42FFD214.PNG",
         "groupId": "default"
