@@ -1,0 +1,57 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '30 6 * * 1'
+  push:
+    branches: [ master ]
+
+jobs:
+  update_json:
+    defaults:
+      run:
+        working-directory: ./scripts
+    env:
+      PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
+      PSN_TARGET_ACCOUNT_ID: ${{ secrets.PSN_TARGET_ACCOUNT_ID }}
+      PSN_DATA_OUTPUT_FILEPATH: ../_data/psn/games.json
+      DISCOGS_API_KEY: ${{ secrets.DISCOGS_API_KEY }}
+    runs-on: ubuntu-latest
+    name: Update JSON Resources
+    steps:
+      # Start by getting the env setup
+      - name: Checkout Code
+        uses: actions/checkout@v3
+      - name: Setup Node 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+          cache: 'yarn'
+      - name: Install dependencies without changing lockfile
+        run: yarn install --frozen-lockfile
+
+      # Refresh data from PSN
+      - name: Run PSN Trophies Data Retrieval Script
+        run: |
+          tsc
+          node build_psn_trophies_json.js
+
+      # Refresh data from Discogs
+      - name: Update Discogs Wantlist
+        shell: bash
+        run: curl https://api.discogs.com/users/mattgra/wants?token=$DISCOGS_API_KEY | json_pp > _data/vinyl/wantlist.json
+      - name: Update Discogs Collection
+        shell: bash
+        env:
+        run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=$DISCOGS_API_KEY | json_pp > _data/vinyl/collection.json
+
+      # Update all applicable JSON files
+      - name: Update JSON files
+        uses: test-room-7/action-update-file@v1.4.0
+        with:
+          file-path: |
+            _data/psn/games.json
+            _data/vinyl/wantlist.json
+            _data/vinyl/collection.json
+          commit-msg: Update various data via GitHub Action
+          github-token: ${{ secrets.GITHUB_TOKEN }}

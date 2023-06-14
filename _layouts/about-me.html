@@ -8,7 +8,7 @@ layout: default
       <a href="/">
         <img
           alt="Profile Image"
-          src="{{site.url}}{{site.baseurl}}/assets/img/{{ site.author_logo }}"
+          src="{{site.baseurl}}/assets/img/{{ site.author_logo }}"
           class="profile-img author-profile-img"
         />
       </a>
@@ -85,6 +85,24 @@ layout: default
             <em class="fab fa-spotify"></em>
           </a>
         {% endif %}
+        {% if site.apple_music_username %}
+        <a
+                class="social-link"
+                href="https://music.apple.com/profile/{{ site.apple_music_username }}"
+                target="_blank"
+        >
+          <em class="fab fa-apple"></em>
+        </a>
+        {% endif %}
+        {% if site.strava_username %}
+        <a
+                class="social-link"
+                href="https://www.strava.com/athletes/{{ site.strava_username }}"
+                target="_blank"
+        >
+          <em class="fab fa-strava"></em>
+        </a>
+        {% endif %}
         {% if site.soundcloud_username %}
           <a
             class="social-link"
@@ -154,7 +172,7 @@ layout: default
       {%-
         include author_skills.html
           known-languages = site.data.skills.known-languages
-          languages-learning = site.data.skills.languages-learning
+          actively-learning = site.data.skills.actively-learning
           frameworks-systems = site.data.skills.frameworks-systems
           editors = site.data.skills.editors
       -%}
@@ -192,18 +210,21 @@ layout: default
                 <div class="col-md-2 company-logo-wrapper">
                   <img
                     alt="Company Logo"
-                    src="{{site.url}}{{site.baseurl}}/assets/img/{{ exp.company_logo }}"
+                    src="{{site.baseurl}}/assets/img/{{ exp.company_logo }}"
                     class="company-logo"
                   />
                 </div>
                 <div class="col-md-6">
-                  <h4 class="experience-title">
-                    {{ exp.designation }}<br />({{exp.time_period_at_company}})
-                  </h4>
-                  <h6 class="experience-info">
+                  <h3 class="experience-info">
                     <a href="{{exp.company_url}}">
                       {{ exp.company_name}}
                     </a>
+                  </h3>
+                  <h4 class="experience-title">
+                    {{ exp.designation }}
+                  </h4>
+                  <h6 class="experience-info">
+                    {{exp.time_period_at_company}}
                   </h6>
                 </div>
               </div>
@@ -224,23 +245,25 @@ layout: default
                 <div class="col-md-2 company-logo-wrapper">
                   <img
                     alt="Company Logo"
-                    src="{{site.url}}{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
+                    src="{{site.baseurl}}/assets/img/{{ detail.college_logo}}"
                     class="company-logo"
                   />
                 </div>
                 <div class="col-md-6">
+                  <h3 class="experience-info">
+                    <a href="{{detail.college_url}}">
+                      {{detail.college_name}}
+                    </a>
+                  </h3>
                   <h4 class="experience-title">
-                    {{detail.college_degree}}<br />({{detail.college_minors}})<br />{{detail.college_graduation_month}}
+                    {{detail.college_degree}}
                   </h4>
-                  <h6 class="experience-info">
-                    {{detail.college_name}}
+                  <h5 class="experience-title">
+                    {{detail.college_graduation_month}}
+                  </h5>
+                  <h6 class="experience-title">
+                    {{detail.college_minors}}
                   </h6>
-                  <p class="experience-desc">
-                    {{detail.description}}
-                  </p>
-                  <p>
-                    <a href="{{detail.college_url}}">{{ detail.college_url}}</a>
-                  </p>
                 </div>
               </div>
             {% endif %}
@@ -248,43 +271,5 @@ layout: default
         </div>
       {% endif %}
     {% endif %}
-    {% if site.show_author_project_details == true %}
-      <div id="author_projects" class="card">
-        <h1 class="card-title">
-          Personal Projects
-        </h1>
-        <br />
-        {% for project in site.author_project_details %}
-          {% if project.visibility == true %}
-            <div class="row" id="project-card">
-              <div class="col-md-6">
-                <a
-                  href="{{project.project_url}}"
-                  target="_blank"
-                >
-                  <img
-                    alt="Project Logo"
-                    src="{{site.url}}{{site.baseurl}}/assets/img/{{project.project_thumbnail}}"
-                    class="project-img"
-                  />
-                </a>
-              </div>
-              <div class="col-md-4 center">
-                <h4 class="experience-title">
-                  {{ project.project_title }}
-                </h4>
-                <h6 class="experience-info">
-                  {{ project.project_info}}
-                </h6>
-                <p class="experience-desc">
-                  {{ project.project_description }}
-                </p>
-              </div>
-            </div>
-            <br />
-          {% endif %}
-        {% endfor %}
-      </div>
-    {% endif %} 
   </div>
 </div>

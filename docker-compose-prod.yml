@@ -6,7 +6,7 @@ services:
     build:
       context: .
       args:
-        build_command: "jekyll build"
+        build_command: "jekyll build --config _config.yml"
     volumes:
       - ".:/srv/jekyll"
   nginx:

@@ -4,7 +4,7 @@
 Welcome to the GitHub repo for my Personal Website!
 
 ## Where can I find this magical website?
-Great question! To visit my personal website, please click [here](https://mattgrantumich.github.io).
+Great question! To visit my personal website, please click [here](https://mattgrant.dev).
 
 ## What will I find once I'm there?
 

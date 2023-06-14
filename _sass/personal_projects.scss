@@ -1,0 +1,35 @@
+.personal-project-card {
+  display: inline-block;
+  margin: 30px auto;
+  max-width: 100%;
+  padding: 20px;
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 10px;
+  filter: drop-shadow(5px 5px 5px #00439C);
+}
+
+.personal-project-img {
+  display: inline-block;
+  float: left;
+  margin: 0 25% 5% 0;
+  width: 30%;
+  border-radius: 4%;
+  filter: drop-shadow(10px 10px 11px gray);
+}
+
+.github-project-img {
+  display: inline-block;
+  float: right;
+  margin: 0 0 15% 25%;
+  width: 20%;
+  border-radius: 4%;
+  filter: drop-shadow(10px 10px 11px gray);
+}
+
+.personal-project-contents {
+  display: block;
+}
+
+.personal-project-title {
+}
