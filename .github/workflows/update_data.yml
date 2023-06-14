@@ -39,10 +39,10 @@ jobs:
       # Refresh data from Discogs
       - name: Update Discogs Wantlist
         shell: bash
-        run: curl https://api.discogs.com/users/mattgra/wants?token=$DISCOGS_API_KEY | json_pp > _data/vinyl/wantlist.json
+        run: curl https://api.discogs.com/users/mattgra/wants?token=$DISCOGS_API_KEY | json_pp > ../_data/vinyl/wantlist.json
       - name: Update Discogs Collection
         shell: bash
-        run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=$DISCOGS_API_KEY | json_pp > _data/vinyl/collection.json
+        run: curl https://api.discogs.com/users/mattgra/collection/folders/0/releases?token=$DISCOGS_API_KEY | json_pp > ../_data/vinyl/collection.json
 
       # Update all applicable JSON files
       - name: Update JSON files
