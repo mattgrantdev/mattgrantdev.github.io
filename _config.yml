@@ -4,7 +4,7 @@ description: >-
   The personal website of Matt Grant, a software engineer
   with an undying love for da Chicago Bears.
 
-baseurl: "https://mattgrant.dev"
+baseurl: "https://mattgrant.dev/"
 
 urls:
     - text: About Me
@@ -31,10 +31,10 @@ author: Matt Grant
 author_bio: >-
   Hello World! My name is Matt Grant, and I am a Software Engineer based in Chicago.
   I have been coding since my high school days, and it has been a passion of mine ever
-  since. Outside of the beep boops, I have an adoration for music in general. I play the
-  tuba, am picking up the piano, and am  definitely a high-quality melodica player
+  since. Outside of the beep boops, I have an adoration for music, vidya games, da Bears. I play the
+  tuba, am picking up the piano, and am definitely a high-quality melodica player
   (this one is just not true). Feel free to take a look around my personal website,
-  I hope you are able to find some 🌶️ spicy 🌶️, quality content.
+  I hope you are able to find some quality content.
 
 author_email: "mattgrantumich@gmail.com"
 author_location: Chicago, IL
