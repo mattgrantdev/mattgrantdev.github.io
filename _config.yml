@@ -2,18 +2,19 @@ title: Matt Grant
 subtitle: Software Engineer
 description: >-
   The personal website of Matt Grant, a software engineer
-  who has an undying love for both music and da Chicago Bears.
+  with an undying love for da Chicago Bears.
 
-url: "https://mattgrantumich.github.io"
-baseurl: ""
+baseurl: "https://mattgrant.dev"
 
 urls:
     - text: About Me
       url: /about
     - text: Vinyl
       url: /vinyl
-    - text: My PS Trophies
-      url: /my-ps-trophies
+    - text: Personal Projects
+      url: /personal-projects
+    - text: PS Trophies
+      url: /ps-trophies
     - text: Gallery
       url: /travel-gallery
 #    - text: Blog
@@ -40,66 +41,54 @@ author_location: Chicago, IL
 typewrite-text: Coding, Music, and an undying love for da Bears all bundled into one goofy guy
 
 author_work_experiences:
+  - company_name: Disney Streaming Services
+    company_logo: disney_streaming_logo.png
+    company_url: https://press.disneyplus.com
+    designation: Software Engineer II
+    time_period_at_company: October 2022 -
+    visibility: true
   - company_name: SoundCloud
     company_logo: soundcloud_logo.jpeg
     company_url: https://soundcloud.com
-    designation: Software Engineer
-    time_period_at_company: Summer 2021 - Present
+    designation: Software Engineer II
+    time_period_at_company: May 2021 - October 2022
     visibility: true
   - company_name: S-Docs
     company_logo: s-docs_logo.png
     company_url: https://sdocs.com
     designation: Software Engineer
-    time_period_at_company: Summer 2019 - April 2021
+    time_period_at_company: May 2019 - May 2021
     visibility: true
   - company_name: Target
     company_logo: target_logo.png
     company_url: https://target.com
     designation: Software Engineer Intern
-    time_period_at_company: Summer 2018
+    time_period_at_company: June 2018 - August 2018
     visibility: true
   - company_name: U-M Information and Technology Services
     company_logo: michigan-its_logo.png
     company_url: https://its.umich.edu/
     designation: Software Engineer Intern
     time_period_at_company: Summer 2017
-    visibility: true
+    visibility: false
 
 author_education_details:
   - college_logo: michigan-engineering_logo.jpg
-    college_name: University of Michigan
+    college_name: University of Michigan - College of Engineering
     college_url: https://umich.edu
-    college_degree: Computer Science Engineering
+    college_degree: B.S. Computer Science
     college_graduation_month: May 2019
     college_minors: Minor in Business & Music
     description: Bachelor of Science
     visibility: true
-
-author_project_details:
-  - project_thumbnail: goldify_logo.png
-    project_title: Goldify
-    project_url: https://github.com/Goldify/Goldify
-    project_description: >-
-      A Spotify API based React application which allows users
-      to efficiently create the perfect personal Spotify playlist!
-      This project maintains 100% test coverage, uses Material UI
-      standards, and is built as a responsive application.
-    visibility: true
-  - project_thumbnail: profile.png
-    project_title: My Personal Website
-    project_url: https://github.com/MattGrantUMich/MattGrantUmich.github.io
-    project_description: >-
-      This very webiste has seen many
-      additions over the past few months and will continue to be
-      developed on. My goal is of course to build an easy-to-navigate
-      source for the minutia of my life. I think it's not bad so far!
-    visibility: false
 
 # Social Links
 github_username:  MattGrantUmich
 linkedin_username: mattgrantumich
 twitter_username: MattGrantUmich
 spotify_username: mgrant35
+apple_music_username: immattgrant
+strava_username: 55571249
 soundcloud_username: bill-burns-the-first
 discogs_username: mattgra
 
@@ -111,7 +100,6 @@ permalink: pretty
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
 show_author_education_details: true
-show_author_project_details: true
 show_recent_articles_section: false
 
 # pagination of posts
@@ -132,7 +120,6 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
 
 
 # Exclude from processing.

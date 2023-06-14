@@ -1,0 +1,4 @@
+{% assign personal_projects = site.data.personal-projects.projects | sort: "startDate" %}
+{% for personal_project in personal_projects %}
+    {% include personal_project.html project=personal_project %}
+{% endfor %}

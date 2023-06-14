@@ -14,6 +14,12 @@ language_icons:
     filename: js_logo.png
   - title: C
     filename: c_logo.png
+  - title: React
+    filename: react_logo.png
+  - title: Rust
+    filename: rust_logo.png
+  - title: Ruby
+    filename: ruby_logo.png
   - title: XML
     filename: xml_logo.png
   - title: JSON

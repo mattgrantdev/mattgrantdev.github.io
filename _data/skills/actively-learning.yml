@@ -1,0 +1,10 @@
+icon_path: skills/actively-learning
+icons:
+  - title: C#
+    filename: c_sharp_logo.png
+  - title: Blender
+    filename: blender_logo.png
+  - title: Unreal Engine 5
+    filename: unreal_engine_logo.png
+  - title: Unity
+    filename: unity_logo.png

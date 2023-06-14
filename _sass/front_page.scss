@@ -1,8 +1,8 @@
 .jumbotron {
     background-color: var(--main-background-color) !important;
     background-image: url('https://www.gannett-cdn.com/presto/2020/04/04/PDTF/d65a2f7e-fc81-469e-9f8b-73631dc7e4d7-04032020_mistadium_jh-6.jpg?crop=2399,1350,x0,y0&width=1600&height=800&format=pjpg&auto=webp');
-    background-attachment: fixed;
-    background-size: cover;
+    background-attachment: initial;
+    background-size: contain;
     background-position: center;
 }
 
