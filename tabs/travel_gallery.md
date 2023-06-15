@@ -1,5 +1,5 @@
 ---
-title: Travel Gallery
-layout: travel-gallery
-permalink: /travel-gallery/
+title: Gallery
+layout: gallery-map
+permalink: /gallery/
 ---

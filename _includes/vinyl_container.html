@@ -1,0 +1,11 @@
+<div>
+  <h2 class="records-title" id="collection-title">My Collection</h2>
+  {% for collection_record in site.data.vinyl.collection.releases %}
+    {% include vinyl_item.html record=collection_record %}
+  {% endfor %}
+
+  <h2 class="records-title" id="wantlist-title">My Wantlist</h2>
+  {% for wantlist_record in site.data.vinyl.wantlist.wants %}
+    {% include vinyl_item.html record=wantlist_record %}
+  {% endfor %}
+</div>

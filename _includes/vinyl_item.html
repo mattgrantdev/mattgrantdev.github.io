@@ -1,0 +1,37 @@
+<div class="records-container">
+    {% assign data = include.record.basic_information %}
+    {% assign id = include.record.id %}
+    <div class="records-img">
+        <img
+                alt="cover"
+                src="{{ data.cover_image }}"
+        />
+    </div>
+    <div class="records-details">
+        <a
+                href="https://www.discogs.com/release/{{ id }}"
+                target="_blank"
+        >
+            {{ data.title }}
+        </a>
+        <p>
+            {% for artist in data.artists %}
+                {{ artist.name }}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+            {% if data.artists.size > 0 %}<hr />{% endif %}
+        </p>
+        <p>
+            {% for genre in data.genres %}
+                {{ genre }}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+            {% if data.genres.size > 0 %}<hr />{% endif %}
+        </p>
+        <p>
+            {% for style in data.styles %}
+                {{ style }}{% if forloop.last == false %}, {% endif %}
+            {% endfor %}
+            {% if data.styles.size > 0 %}<hr />{% endif %}
+        </p>
+        <p><b>{{ data.year }}</b></p>
+    </div>
+</div>

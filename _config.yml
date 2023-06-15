@@ -1,11 +1,9 @@
 title: Matt Grant
 subtitle: Software Engineer
 description: >-
-  The personal website of Matt Grant, a software engineer
-  with an undying love for da Chicago Bears.
+  The personal website of Matt Grant.
 
 baseurl: "https://mattgrant.dev/"
-
 urls:
     - text: About Me
       url: /about
@@ -16,93 +14,18 @@ urls:
     - text: PS Trophies
       url: /ps-trophies
     - text: Gallery
-      url: /travel-gallery
-#    - text: Blog
-#      url: /blog
-  #    - text: My SoundCloud
-  #      url: /my-soundcloud
-  #    - text: My Spotify
-  #      url: /my-spotify
+      url: /gallery
     - text: Contact Me
       url : /contact
 
-author_logo: matt_pic.png
-author: Matt Grant
-author_bio: >-
-  Hello World! My name is Matt Grant, and I am a Software Engineer based in Chicago.
-  I have been coding since my high school days, and it has been a passion of mine ever
-  since. Outside of the beep boops, I have an adoration for music, vidya games, da Bears. I play the
-  tuba, am picking up the piano, and am definitely a high-quality melodica player
-  (this one is just not true). Feel free to take a look around my personal website,
-  I hope you are able to find some quality content.
-
-author_email: "mattgrantumich@gmail.com"
-author_location: Chicago, IL
-typewrite-text: Coding, Music, and an undying love for da Bears all bundled into one goofy guy
-
-author_work_experiences:
-  - company_name: Disney Streaming Services
-    company_logo: disney_streaming_logo.png
-    company_url: https://press.disneyplus.com
-    designation: Software Engineer II
-    time_period_at_company: October 2022 -
-    visibility: true
-  - company_name: SoundCloud
-    company_logo: soundcloud_logo.jpeg
-    company_url: https://soundcloud.com
-    designation: Software Engineer II
-    time_period_at_company: May 2021 - October 2022
-    visibility: true
-  - company_name: S-Docs
-    company_logo: s-docs_logo.png
-    company_url: https://sdocs.com
-    designation: Software Engineer
-    time_period_at_company: May 2019 - May 2021
-    visibility: true
-  - company_name: Target
-    company_logo: target_logo.png
-    company_url: https://target.com
-    designation: Software Engineer Intern
-    time_period_at_company: June 2018 - August 2018
-    visibility: true
-  - company_name: U-M Information and Technology Services
-    company_logo: michigan-its_logo.png
-    company_url: https://its.umich.edu/
-    designation: Software Engineer Intern
-    time_period_at_company: Summer 2017
-    visibility: false
-
-author_education_details:
-  - college_logo: michigan-engineering_logo.jpg
-    college_name: University of Michigan - College of Engineering
-    college_url: https://umich.edu
-    college_degree: B.S. Computer Science
-    college_graduation_month: May 2019
-    college_minors: Minor in Business & Music
-    description: Bachelor of Science
-    visibility: true
-
-# Social Links
-github_username:  MattGrantUmich
-linkedin_username: mattgrantumich
-twitter_username: MattGrantUmich
-spotify_username: mgrant35
-apple_music_username: immattgrant
-strava_username: 55571249
-soundcloud_username: bill-burns-the-first
-discogs_username: mattgra
-
-# syntax highlighter
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
-# Choose what to show ( can be true or false)
 show_author_work_experiences: true
 show_author_education_details: true
 show_recent_articles_section: false
 
-# pagination of posts
 paginate: 4
 per_page: 4
 paginate_path: "/blog/page/:num/"
@@ -110,26 +33,16 @@ paginate_path: "/blog/page/:num/"
 defaults:
   -
     scope:
-      path: "travel-gallery"
+      path: "gallery"
     values:
       permalink: /:path/:basename:output_ext
 
-# Build settings
 plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
 
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
 exclude:
   - .sass-cache/
   - .jekyll-cache/

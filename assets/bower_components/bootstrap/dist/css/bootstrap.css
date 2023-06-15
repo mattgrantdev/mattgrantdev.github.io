@@ -8720,8 +8720,9 @@ button.bg-dark:focus {
   text-align: right !important;
 }
 
-.text-center {
+.page-title {
   text-align: center !important;
+  font-size: 4vw;
 }
 
 @media (min-width: 576px) {
