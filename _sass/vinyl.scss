@@ -1,64 +1,36 @@
-.records-wrapper {
-    width: 100%;
-    text-align: center;
+.records-container {
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 10px;
+    filter: drop-shadow(5px 5px 5px #00439C);
+    width: 600px;
+    max-width: 100%;
 }
 
 .records-title {
     margin: 20px auto;
 }
 
-.records {
-    font-family: Arial, Helvetica, sans-serif;
-    border-collapse: collapse;
-    max-width: 100%;
-    max-height: 750px;
-    display: inline-block;
-    margin-bottom: 6%;
-    overflow-x: scroll;
-    overflow-y: scroll;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.48), 0 10px 30px rgba(0, 0, 0, 0.64);
-    border-radius: 10px;
-    padding: 15px;
-}
-
-.records::-webkit-scrollbar {
-    display: none;
-}
-
-.records td, #records th {
-    border: var(--records-border);
-    color: var(--records-font-color);
-    padding: 8px;
-}
-
-.records tr:nth-child(odd) {
-    background-color: var(--records-tr-odd-color);
-}
-
-.records tr:nth-child(even) {
-    background-color: var(--records-tr-even-color);
-}
-
-.records tr:hover {
-    background-color: var(--records-tr-hover-color);
-}
-
-.records th {
-    padding-top: 12px;
-    padding-bottom: 12px;
+.records-img {
+    display: block;
+    float: left;
+    width: 50%;
+    padding: 10px;
+    margin: 0 10px 0 0;
     text-align: center;
-    background-color: var(--records-th-background-color);
-    color: white;
-}
-
-.records_img {
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
-    width: 100px !important;
-    text-align: center;
-    margin: auto;
 }
 
-.records_img img {
+.records-details {
+    width: calc(50% - 10px);
+    float: right;
+    text-align: left;
+}
+
+.records-img img {
     width: 100%;
 }
 

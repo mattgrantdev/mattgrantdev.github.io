@@ -8,7 +8,7 @@ layout: default
       <a href="/">
         <img
           alt="Profile Image"
-          src="{{site.baseurl}}/assets/img/{{ site.author_logo }}"
+          src="{{site.baseurl}}/assets/img/{{ site.data.author.details.logo }}"
           class="profile-img author-profile-img"
         />
       </a>
@@ -18,150 +18,153 @@ layout: default
       <p class="profile-bio">
         {{ site.subtitle }}
       </p>
-      {% if site.github_username %}
+      {% if site.data.author.details.github_username %}
         {%- include github_follow_button.html -%}
       {% endif %}
+      {% if site.data.author.details.strava_username %}
+        {%- include strava_follow_button.html -%}
+      {% endif %}
       <p class="profile-links">
-        {% if site.twitter_username %}
+        {% if site.data.author.details.twitter_username %}
           <a
             class="social-link"
-            href="http://twitter.com/{{ site.twitter_username }}"
+            href="http://twitter.com/{{ site.data.author.details.twitter_username }}"
             target="_blank"
           >
             <em class="fab fa-twitter"></em>
           </a>
         {% endif %}
-        {% if site.facebook_username %}
+        {% if site.data.author.details.facebook_username %}
           <a
             class="social-link"
-            href="http://facebook.com/{{ site.facebook_username }}"
+            href="http://facebook.com/{{ site.data.author.details.facebook_username }}"
             target="_blank"
           >
             <em class="fab fa-facebook-f"></em>
           </a>
         {% endif %}
-        {% if site.instagram_username %}
+        {% if site.data.author.details.instagram_username %}
           <a
             class="social-link"
-            href="http://instagram.com/{{ site.instagram_username }}"
+            href="http://instagram.com/{{ site.data.author.details.instagram_username }}"
             target="_blank"
           >
             <em class="fab fa-instagram"></em>
           </a>
         {% endif %}
-        {% if site.medium_username %}
+        {% if site.data.author.details.medium_username %}
           <a
             class="social-link"
-            href="http://medium.com/@{{ site.medium_username }}"
+            href="http://medium.com/@{{ site.data.author.details.medium_username }}"
             target="_blank"
           >
             <em class="fab fa-medium-m"></em>
           </a>
         {% endif %}
-        {% if site.behance_username %}
+        {% if site.data.author.details.behance_username %}
           <a
             class="social-link"
-            href="http://behance.net/{{ site.behance_username }}"
+            href="http://behance.net/{{ site.data.author.details.behance_username }}"
             target="_blank"
           >
             <em class="fab fa-behance"></em>
           </a>
         {% endif %}
-        {% if site.linkedin_username %}
+        {% if site.data.author.details.linkedin_username %}
           <a
             class="social-link"
-            href="http://linkedin.com/in/{{ site.linkedin_username }}"
+            href="http://linkedin.com/in/{{ site.data.author.details.linkedin_username }}"
             target="_blank"
           >
             <em class="fab fa-linkedin-in"></em>
           </a>
         {% endif %}
-        {% if site.spotify_username %}
+        {% if site.data.author.details.spotify_username %}
           <a
             class="social-link"
-            href="https://open.spotify.com/user/{{ site.spotify_username }}"
+            href="https://open.spotify.com/user/{{ site.data.author.details.spotify_username }}"
             target="_blank"
           >
             <em class="fab fa-spotify"></em>
           </a>
         {% endif %}
-        {% if site.apple_music_username %}
+        {% if site.data.author.details.apple_music_username %}
         <a
                 class="social-link"
-                href="https://music.apple.com/profile/{{ site.apple_music_username }}"
+                href="https://music.apple.com/profile/{{ site.data.author.details.apple_music_username }}"
                 target="_blank"
         >
           <em class="fab fa-apple"></em>
         </a>
         {% endif %}
-        {% if site.strava_username %}
+        {% if site.data.author.details.strava_username %}
         <a
                 class="social-link"
-                href="https://www.strava.com/athletes/{{ site.strava_username }}"
+                href="https://www.strava.com/athletes/{{ site.data.author.details.strava_username }}"
                 target="_blank"
         >
           <em class="fab fa-strava"></em>
         </a>
         {% endif %}
-        {% if site.soundcloud_username %}
+        {% if site.data.author.details.soundcloud_username %}
           <a
             class="social-link"
-            href="https://soundcloud.com/{{ site.soundcloud_username }}"
+            href="https://soundcloud.com/{{ site.data.author.details.soundcloud_username }}"
             target="_blank"
           >
             <em class="fab fa-soundcloud"></em>
           </a>
         {% endif %}
-        {% if site.discogs_username %}
+        {% if site.data.author.details.discogs_username %}
           <a
             class="social-link"
-            href="https://www.discogs.com/user/{{ site.discogs_username }}"
+            href="https://www.discogs.com/user/{{ site.data.author.details.discogs_username }}"
             target="_blank"
           >
             <em class="fas fa-compact-disc"></em>
           </a>
         {% endif %}
-        {% if site.telegram_username %}
+        {% if site.data.author.details.telegram_username %}
           <a
             class="social-link"
-            href="http://t.me/{{ site.telegram_username }}"
+            href="http://t.me/{{ site.data.author.details.telegram_username }}"
             target="_blank"
           >
             <em class="fab fa-telegram-plane"></em>
           </a>
         {% endif %}
-        {% if site.dribbble_username %}
+        {% if site.data.author.details.dribbble_username %}
           <a
             class="social-link"
-            href="https://dribbble.com/{{ site.dribbble_username }}"
+            href="https://dribbble.com/{{ site.data.author.details.dribbble_username }}"
             target="_blank"
           >
             <em class="fab fa-dribbble"></em>
           </a>
         {% endif %}
-        {% if site.flickr_username %}
+        {% if site.data.author.details.flickr_username %}
           <a
             class="social-link"
-            href="https://www.flickr.com/photos/{{ site.flickr_username }}"
+            href="https://www.flickr.com/photos/{{ site.data.author.details.flickr_username }}"
             target="_blank"
           >
             <em class="fab fa-flickr"></em>
           </a>
         {% endif %}
       </p>
-      {% if site.author_location %}
+      {% if site.data.author.details.location %}
         <h6>
-          <em class="fas fa-map-marker-alt"></em> {{ site.author_location }}
+          <em class="fas fa-map-marker-alt"></em> {{ site.data.author.details.location }}
         </h6>
       {% endif %}
-      {% if site.author_email %}
+      {% if site.data.author.details.email %}
         <h6>
-          <em class="fas fa-envelope"></em> {{ site.author_email }}
+          <em class="fas fa-envelope"></em> {{ site.data.author.details.email }}
         </h6>
       {% endif %}
-      {% if site.author_website_url %}
+      {% if site.data.author.details.website_url %}
         <h6>
-          <em class="fas fa-link"></em> {{ site.author_website_url }}
+          <em class="fas fa-link"></em> {{ site.data.author.details.website_url }}
         </h6>
       {% endif %}
     </div>
@@ -179,13 +182,13 @@ layout: default
     </div>
   </div>
   <div class="col-lg-7">
-    {% if site.author_bio %}
+    {% if site.data.author.details.bio %}
       <div class="card">
         <h1 class="card-title">
           About
         </h1>
         <p>
-          {{ site.author_bio }}
+          {{ site.data.author.details.bio }}
         </p>
       </div>
       {% if site.show_author_work_experiences == true %}
@@ -193,10 +196,10 @@ layout: default
         <div class="card">
           <h1 class="card-title">
             Work Experience
-            {% if site.linkedin_username %}
+            {% if site.data.author.details.linkedin_username %}
               <a
                 class="social-link"
-                href="http://linkedin.com/in/{{ site.linkedin_username }}"
+                href="http://linkedin.com/in/{{ site.data.author.details.linkedin_username }}"
                 target="_blank"
               >
                 <em class="fab fa-linkedin-in"></em>
@@ -204,7 +207,7 @@ layout: default
             {% endif %}
           </h1>
           <br />
-          {% for exp in site.author_work_experiences %}
+          {% for exp in site.data.author.details.work_experiences %}
             {% if exp.visibility == true %}
               <div class="row">
                 <div class="col-md-2 company-logo-wrapper">
@@ -239,7 +242,7 @@ layout: default
             Education
           </h1>
           <br />
-          {% for detail in site.author_education_details %}
+          {% for detail in site.data.author.details.education_details %}
             {% if detail.visibility == true %}
               <div class="row">
                 <div class="col-md-2 company-logo-wrapper">

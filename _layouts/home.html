@@ -5,7 +5,7 @@ layout: default
 <script>
   $(document).ready(function() {
     $("#typewriteText").typewrite({
-      actions: [{ type: "{{site.typewrite-text}}" }]
+      actions: [{ type: "{{site.data.author.details.typewrite-text}}" }]
     });
   });
 </script>
@@ -16,7 +16,7 @@ layout: default
     src="{{site.baseurl}}/assets/img/matt_pic.png"
   />
   <p class="jumbotron-heading">
-    Hi, I'm {{site.author}}!
+    Hi, I'm {{site.data.author.details.name}}!
   </p>
   <p class="lead" id="typewriteText"></p>
   <div class="follow-github-container">
@@ -56,7 +56,7 @@ layout: default
                 <div id="article-img">
                   <img
                     alt="Author Logo"
-                    src="{{site.baseurl}}/assets/img/{{site.author_logo}}"
+                    src="{{site.baseurl}}/assets/img/{{site.data.author.details.logo}}"
                     width="50px"
                     height="50px"
                   />
