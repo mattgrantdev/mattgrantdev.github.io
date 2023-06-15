@@ -9,7 +9,7 @@
       "platinum": 1
     },
     "earnedCounts": {
-      "bronze": 9,
+      "bronze": 11,
       "silver": 1,
       "gold": 0,
       "platinum": 0
@@ -50,7 +50,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 29.3,
+        "earnedRate": 29.4,
         "trophyName": "Master of Masters",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d2fd6e6f-392e-45eb-972e-fe782c7f231b.png",
         "groupId": "default"
@@ -70,7 +70,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 44.5,
+        "earnedRate": 44.6,
         "trophyName": "Cat Prints",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/662ad5ef-1ba5-4dc2-a73f-774aced53b0d.png",
         "groupId": "default"
@@ -80,7 +80,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 35.7,
+        "earnedRate": 35.8,
         "trophyName": "Inner Sanctuary",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8210392b-09c7-452e-a8ff-6a58d8ed4043.png",
         "groupId": "default"
@@ -90,7 +90,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 39,
+        "earnedRate": 39.1,
         "trophyName": "All the King's Men",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/223cc22a-209f-4fc2-b698-476640117e32.png",
         "groupId": "default"
@@ -160,7 +160,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 49.1,
+        "earnedRate": 49.2,
         "trophyName": "Short Fuse",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8aefbef1-cb65-491c-8ded-f18fd2e241e4.png",
         "groupId": "default"
@@ -210,7 +210,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 31.6,
+        "earnedRate": 31.7,
         "trophyName": "R&D",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/3aae9e45-7600-4ba8-8d3f-923674c1d774.png",
         "groupId": "default"
@@ -220,7 +220,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 64.6,
+        "earnedRate": 64.7,
         "trophyName": "Demons Emerge",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/c0a53f45-42e9-4de8-aafd-3f206365e205.png",
         "groupId": "default"
@@ -290,7 +290,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 53.5,
+        "earnedRate": 53.6,
         "trophyName": "Sting and Smash",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/1071d12c-469f-4b2f-9a37-64a2292279d3.png",
         "groupId": "default"
@@ -300,17 +300,17 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 38.8,
+        "earnedRate": 38.9,
         "trophyName": "Tombstone Takedown",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/5a0f2704-76eb-4ff0-9dd0-a26efa1a7a01.png",
         "groupId": "default"
       },
       {
-        "isEarned": false,
-        "earnedOn": "unearned",
+        "isEarned": true,
+        "earnedOn": "2023-06-15T00:53:48Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 69,
+        "earnedRate": 69.1,
         "trophyName": "Shock and Awe",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/0b010343-efaa-46b0-a164-a5d569794456.png",
         "groupId": "default"
@@ -320,7 +320,7 @@
         "earnedOn": "2023-06-13T15:51:24Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.9,
+        "earnedRate": 71,
         "trophyName": "Wing It",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/cef7d664-1246-4cc1-8c0b-b2d353f01697.png",
         "groupId": "default"
@@ -340,7 +340,7 @@
         "earnedOn": "2023-06-14T13:45:24Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 66.9,
+        "earnedRate": 67,
         "trophyName": "And Stay Down!",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/f49615f6-0ca1-4859-9962-d6a11fc18f69.png",
         "groupId": "default"
@@ -360,7 +360,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 35.3,
+        "earnedRate": 35.4,
         "trophyName": "Hug It Out",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/c065bc27-96ec-4399-97ea-e8182f5d740d.png",
         "groupId": "default"
@@ -370,7 +370,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 32.4,
+        "earnedRate": 32.5,
         "trophyName": "Friendly Neighborhood Spider-Man",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/e1197591-7dd1-4026-8478-587eea06c7f4.png",
         "groupId": "default"
@@ -380,7 +380,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 63.9,
+        "earnedRate": 64,
         "trophyName": "The Scientific Method",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d722ae10-4504-4e42-a071-360e5a062215.png",
         "groupId": "default"
@@ -390,7 +390,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 70.6,
+        "earnedRate": 70.7,
         "trophyName": "Spider-Sensible",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/1b309a27-3d50-48ac-88c8-23338e48a6b4.png",
         "groupId": "default"
@@ -430,7 +430,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 39.7,
+        "earnedRate": 39.8,
         "trophyName": "Sightseeing",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/b35d767d-b6c5-4bac-9c06-dda9e330fcd7.png",
         "groupId": "default"
@@ -440,7 +440,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 47.6,
+        "earnedRate": 47.7,
         "trophyName": "Born to Ride",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d114aaaf-5a70-4406-927d-68ad96f8e55b.png",
         "groupId": "default"
@@ -460,7 +460,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 61,
+        "earnedRate": 61.1,
         "trophyName": "Snappy Dresser",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/f17fbbad-fe60-467b-af15-e742b3dd9517.png",
         "groupId": "default"
@@ -496,8 +496,8 @@
         "groupId": "default"
       },
       {
-        "isEarned": false,
-        "earnedOn": "unearned",
+        "isEarned": true,
+        "earnedOn": "2023-06-15T03:46:25Z",
         "type": "bronze",
         "rarity": "Common",
         "earnedRate": 66.5,
@@ -530,7 +530,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 8.4,
+        "earnedRate": 8.5,
         "trophyName": "One More Time",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/8d41703d-ebcb-466d-92d7-5e4a7b71caf0.png",
         "groupId": "001"
@@ -580,7 +580,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 35.4,
+        "earnedRate": 35.5,
         "trophyName": "Here Kitty-Kitty",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/50867db1-da84-436b-af38-121250d6b7dc.png",
         "groupId": "002"
@@ -660,7 +660,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 29.9,
+        "earnedRate": 30,
         "trophyName": "Steel Skull, Glass Jaw",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/7263a975-99d6-4d03-b7c0-3341172f3e8b.png",
         "groupId": "003"
@@ -710,7 +710,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 29.8,
+        "earnedRate": 29.9,
         "trophyName": "Frenemies",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/d6d54499-6b39-437c-bae5-ed027e373dd6.png",
         "groupId": "004"
@@ -760,7 +760,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 51.6,
+        "earnedRate": 51.7,
         "trophyName": "Grinding All the Way",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/3d8cd4c6-bc03-48d9-b954-6a6582cff2fb.png",
         "groupId": "005"
@@ -780,7 +780,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 38.8,
+        "earnedRate": 38.9,
         "trophyName": "Master's Education",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/b9c6cee3-2094-466f-b247-98b898e5fe45.png",
         "groupId": "005"
@@ -790,7 +790,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 34.1,
+        "earnedRate": 34.2,
         "trophyName": "So Many Hits...",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/fdb343c8-b42c-4258-9430-196062186c90.png",
         "groupId": "005"
@@ -800,7 +800,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 16.2,
+        "earnedRate": 16.3,
         "trophyName": "The Untouchable Spider-Man",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20813_00/9d802c3f-b8a9-48c6-9b14-24b263a34b85.png",
         "groupId": "005"
@@ -1228,7 +1228,7 @@
         "earnedOn": "2023-06-09T23:12:56Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 52.4,
+        "earnedRate": 52.3,
         "trophyName": "Master of One",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19950_00/cd6b7eca-080a-47d8-a4b9-0e1549e4a127.png",
         "groupId": "default"
@@ -2143,7 +2143,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30,
+        "earnedRate": 30.1,
         "trophyName": "Certified Apprentice",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/bb2595e4-570a-4964-b8c1-19e4b39eb75c.png",
         "groupId": "default"
@@ -2353,7 +2353,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 38.7,
+        "earnedRate": 38.8,
         "trophyName": "Don't Stop Believin'",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/4af821d0-9c2d-457d-be19-ca9513809103.png",
         "groupId": "default"
@@ -2413,7 +2413,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4.3,
+        "earnedRate": 4.4,
         "trophyName": "Comfort Zone",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/15406b72-d9ca-4d3e-9d6c-fb9847253a30.png",
         "groupId": "default"
@@ -2443,7 +2443,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 14.9,
+        "earnedRate": 15,
         "trophyName": "Make a Wish",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/6305e22f-9ae3-4582-b969-2b52abddb113.png",
         "groupId": "default"
@@ -2473,7 +2473,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 18,
+        "earnedRate": 17.9,
         "trophyName": "Weekend Warrior",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR29874_00/1ba5324f-8f0f-445b-9d88-88be8bd2121f.png",
         "groupId": "default"
@@ -4948,7 +4948,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 17,
+        "earnedRate": 16.9,
         "trophyName": "Guardians of Morta",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15468_00_00D3CD56BE3718539E5ADDE459A4C4DB82CABFD480/CFF4E2E8C9EC8213B39A9BE5C53D3CA3E733398B.PNG",
         "groupId": "default"
@@ -5048,7 +5048,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 46.6,
+        "earnedRate": 46.5,
         "trophyName": "Well-equipped",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15468_00_00D3CD56BE3718539E5ADDE459A4C4DB82CABFD480/DD5952CA20B1A67957C86F6ABCEA39AED59E7FDD.PNG",
         "groupId": "default"
@@ -5118,7 +5118,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 42.3,
+        "earnedRate": 42.2,
         "trophyName": "Together We Stand",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15468_00_00D3CD56BE3718539E5ADDE459A4C4DB82CABFD480/E31BA4B191BA2AEB1CD6ED0481F017173BE864E8.PNG",
         "groupId": "default"
@@ -5138,7 +5138,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 30.4,
+        "earnedRate": 30.3,
         "trophyName": "Family Reunion",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15468_00_00D3CD56BE3718539E5ADDE459A4C4DB82CABFD480/BDE29D7A11E560A9B38919DDDF351681237E7333.PNG",
         "groupId": "default"
@@ -5148,7 +5148,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 12.9,
+        "earnedRate": 12.8,
         "trophyName": "Richie Rich",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15468_00_00D3CD56BE3718539E5ADDE459A4C4DB82CABFD480/BABF84F922A1967A9086AC0FA0B2856F42FFD214.PNG",
         "groupId": "default"
@@ -5278,7 +5278,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 22.4,
+        "earnedRate": 22.3,
         "trophyName": "Stronger Together",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15468_00_00D3CD56BE3718539E5ADDE459A4C4DB82CABFD480/D6A872D5353FBE187BC4E3DA7622590F32CB958A.PNG",
         "groupId": "default"
@@ -5695,7 +5695,7 @@
         "earnedOn": "2022-04-23T04:18:04Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 71.6,
+        "earnedRate": 71.7,
         "trophyName": "Off the Plane",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21647_00/5db1c774-34af-44cb-a2b7-2ae55b781ec3.png",
         "groupId": "default"
@@ -5705,7 +5705,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 38.3,
+        "earnedRate": 38.4,
         "trophyName": "Three-Bit Gangster",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21647_00/1185e5ad-7117-4d09-8371-30a7c8eda2e6.png",
         "groupId": "default"
@@ -5735,7 +5735,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 1.5,
+        "earnedRate": 1.6,
         "trophyName": "Numero Uno",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21647_00/af382248-6e89-4174-88c8-4d095753fc85.png",
         "groupId": "default"
@@ -7140,7 +7140,7 @@
         "earnedOn": "2021-11-08T03:17:13Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 57.4,
+        "earnedRate": 57.5,
         "trophyName": "Mercenary Endeavors",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22029_00/36fa3d09-cf2f-46a8-9567-95dc1a097c0c.PNG",
         "groupId": "default"
@@ -7340,7 +7340,7 @@
         "earnedOn": "2021-11-08T03:17:18Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 55.3,
+        "earnedRate": 55.4,
         "trophyName": "Music Collector",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22029_00/3303b426-bc7b-45e3-b858-28f6803baf9c.PNG",
         "groupId": "default"
@@ -7690,7 +7690,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 14.7,
+        "earnedRate": 14.6,
         "trophyName": "Game, Set, Master",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22029_00/26244bfb-6618-424a-8eef-c1be5422f272.PNG",
         "groupId": "001"
@@ -8317,7 +8317,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 36.2,
+        "earnedRate": 36.1,
         "trophyName": "Lockdown",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/13D3530453E42BCDCCDF73B283A8C3C6DF96E9E0.PNG",
         "groupId": "default"
@@ -8337,7 +8337,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 20.1,
+        "earnedRate": 20,
         "trophyName": "Escort Duty",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/843572BCFB194AF2DF444450FD858EE68E4E4020.PNG",
         "groupId": "default"
@@ -8347,7 +8347,7 @@
         "earnedOn": "2022-11-17T03:50:25Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 60.5,
+        "earnedRate": 60.4,
         "trophyName": "Can't Touch This",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08516_00_001AE9FF0FAAF27A158B0F4BFB3278F58708E28EE7/E45CD2F89CFD20F72B9F353CB83A7A8A216A0801.PNG",
         "groupId": "default"
@@ -10215,7 +10215,7 @@
         "earnedOn": "2022-10-09T00:15:46Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 32.1,
+        "earnedRate": 32,
         "trophyName": "Bargain Bucket",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27447_00_005D6EB1B9353EB6A6387762F54756013033B010E0/69C85DABA0FE9C3A6747A4BD51B3E60300FC5FE9.PNG",
         "groupId": "default"
@@ -10435,7 +10435,7 @@
         "earnedOn": "2022-10-09T00:16:04Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 22.6,
+        "earnedRate": 22.5,
         "trophyName": "Low Baller",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27447_00_005D6EB1B9353EB6A6387762F54756013033B010E0/54246569A2C6E4CEDD630BB39AF108032D4C24AC.PNG",
         "groupId": "default"
@@ -10455,7 +10455,7 @@
         "earnedOn": "2022-10-09T00:16:07Z",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 64.2,
+        "earnedRate": 64.1,
         "trophyName": "Fall Bae",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR27447_00_005D6EB1B9353EB6A6387762F54756013033B010E0/E8BA1D355EE3E698B6D5C9C887BB58CBD0DA95CC.PNG",
         "groupId": "default"
@@ -11179,7 +11179,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 4,
+        "earnedRate": 4.1,
         "trophyName": "Sneak 100",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR20567_00_00EB1693CD75B00EF3CAD0D20B219CB4B01629F9EE/F53372EB609E7B7DB5475EF98CCA6AC513CEDC00.PNG",
         "groupId": "003"
@@ -12727,7 +12727,7 @@
         "earnedOn": "2022-05-16T06:30:08Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 28.1,
+        "earnedRate": 28.2,
         "trophyName": "Base Collector!",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR25726_00/c798f700-74ea-43fe-a286-acb93de10f25.png",
         "groupId": "default"
@@ -12777,7 +12777,7 @@
         "earnedOn": "2022-04-26T05:16:50Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 35.5,
+        "earnedRate": 35.6,
         "trophyName": "Fight Fire With Fire!",
         "trophyIconUrl": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR25726_00/fb03fe3b-deaa-4b33-98d2-75ce937b171b.png",
         "groupId": "default"
@@ -13761,7 +13761,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 12.6,
+        "earnedRate": 12.5,
         "trophyName": "tceffE ediS sirteT",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR16646_00_00A5B72F0AFE074EB8E919219DF65AC0742A3FE260/7595943648F086BB072C21FE6FF5649E51BC9999.PNG",
         "groupId": "default"
@@ -13948,7 +13948,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Common",
-        "earnedRate": 59.6,
+        "earnedRate": 59.5,
         "trophyName": "Night on the Town",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18853_00_00FD138430E8FD102510E0D521B664AF1D0EC90710/EC892DBD76A6308FB53AD7F735EE9ECBA4B40273.PNG",
         "groupId": "default"
@@ -14028,7 +14028,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 45.1,
+        "earnedRate": 45,
         "trophyName": "The Collapse",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR18853_00_00FD138430E8FD102510E0D521B664AF1D0EC90710/52CB85FD54A5FA997D728A521B83F34035C0D613.PNG",
         "groupId": "default"
@@ -15812,7 +15812,7 @@
         "earnedOn": "2021-08-29T02:49:37Z",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 23.1,
+        "earnedRate": 23,
         "trophyName": "A Feat of Meteoric Proportions",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08323_00_00A0E4F65036C08E32B6E7C84CF823B8CC540440FF/31E57831CE64873EE3F9CD26165EA0E4562D9D90.PNG",
         "groupId": "default"
@@ -15989,7 +15989,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 23,
+        "earnedRate": 22.9,
         "trophyName": "The Children",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11243_00_00BA59038C4D483C5AA9817CAFD98B3DA960E696D2/7AF938DF5D6F3A3A126FC5AA0D70581C7D920C4A.PNG",
         "groupId": "default"
@@ -16089,7 +16089,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 19.8,
+        "earnedRate": 19.7,
         "trophyName": "The Best of Us",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11243_00_00BA59038C4D483C5AA9817CAFD98B3DA960E696D2/920323D8FB2CE80FA062E8AB60637AA17C1CBDE4.PNG",
         "groupId": "default"
@@ -16119,7 +16119,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 19,
+        "earnedRate": 18.9,
         "trophyName": "Home Sweet Home",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11243_00_00BA59038C4D483C5AA9817CAFD98B3DA960E696D2/B65695CA2B21B1CC634972156DDBF67DB4EC48A7.PNG",
         "groupId": "default"
@@ -16466,7 +16466,7 @@
         "earnedOn": "2021-06-19T02:47:08Z",
         "type": "silver",
         "rarity": "Common",
-        "earnedRate": 55.5,
+        "earnedRate": 55.6,
         "trophyName": "Pheidippides",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05659_00_00E860F5334098230AE4381F20597847411D67981E/74DC24268B004B05CA9FF8CF1B8A789992515A64.PNG",
         "groupId": "default"
@@ -16856,7 +16856,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 10.2,
+        "earnedRate": 10.3,
         "trophyName": "And you liked him, didn't you?",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05659_00_00E860F5334098230AE4381F20597847411D67981E/CD8B0EC88910010981FFEF63854E8F4259E280C9.PNG",
         "groupId": "003"
@@ -18470,7 +18470,7 @@
         "earnedOn": "unearned",
         "type": "silver",
         "rarity": "Very Rare",
-        "earnedRate": 10.9,
+        "earnedRate": 11,
         "trophyName": "Hot tourist destination",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR05706_00_003C44BDCCF6EB21301F194F8CEF00BD1F4DC538D0/6C53A3D8DAA27C4CCAF09A762574B1EE9B103837.PNG",
         "groupId": "013"
@@ -19215,7 +19215,7 @@
         "earnedOn": "2021-02-05T05:52:51Z",
         "type": "silver",
         "rarity": "Rare",
-        "earnedRate": 29.1,
+        "earnedRate": 29,
         "trophyName": "Needle Exchange",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15055_00_00DD9DF8496BB96F23870991DFCE71EB6079372CC1/6941FD08F2F16E220DBA7F2240DD6676041B6CD3.PNG",
         "groupId": "default"
@@ -19305,7 +19305,7 @@
         "earnedOn": "2021-02-22T03:17:26Z",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 42,
+        "earnedRate": 41.9,
         "trophyName": "Island Paparazzi",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR15055_00_00DD9DF8496BB96F23870991DFCE71EB6079372CC1/1171AD5E3B2E7274C1680CE98694F36D5BAEA7CB.PNG",
         "groupId": "default"
@@ -19502,7 +19502,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 17.7,
+        "earnedRate": 17.8,
         "trophyName": "Sit Down",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12325_00_0014A58EE1FB0AF010CAF3034410D311C45F06A18D/AED8484C753FD089880B5B8DDD346B66E2672088.PNG",
         "groupId": "default"
@@ -20136,7 +20136,7 @@
         "earnedOn": "unearned",
         "type": "gold",
         "rarity": "Rare",
-        "earnedRate": 22.5,
+        "earnedRate": 22.4,
         "trophyName": "Zavala's Lieutenant",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR11056_00_00E38014C97B1CE8D744D1F0D2914F156FD5E7C8C6/88069C3D50E6217D2D76EE78BC95BB89006F2C1A.PNG",
         "groupId": "default"
@@ -20443,7 +20443,7 @@
         "earnedOn": "2020-04-19T02:17:56Z",
         "type": "bronze",
         "rarity": "Very Rare",
-        "earnedRate": 5.3,
+        "earnedRate": 5.2,
         "trophyName": "Practice Makes Perfect",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR17378_00_00B07BDBDE877205F2C08F149A82991B1EA014DE95/59B28C740DE86357EBE5DC097DDBCB7798A49CDE.PNG",
         "groupId": "default"
@@ -22584,7 +22584,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Rare",
-        "earnedRate": 34.9,
+        "earnedRate": 34.8,
         "trophyName": "Welcome to the Club",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR08801_00_00164BF2B729BCF4C3F5083E55A49F3BCD6E4A0F91/008D2E2A90BCE37F4E6D06F78319C9EA57156D39.PNG",
         "groupId": "default"
@@ -26235,7 +26235,7 @@
         "earnedOn": "unearned",
         "type": "bronze",
         "rarity": "Ultra Rare",
-        "earnedRate": 1.7,
+        "earnedRate": 1.6,
         "trophyName": "A Little Help From My Friends",
         "trophyIconUrl": "https://image.api.playstation.com/trophy/np/NPWR12742_00_00126FB75B9E7061FA9E2AC8D2412CA3D54F2D7B97/20E64F9844CDBE4FCAC08279978B31AD6861A065.PNG",
         "groupId": "default"

@@ -1,6 +1,6 @@
 {
    "pagination" : {
-      "items" : 13,
+      "items" : 10,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
@@ -253,132 +253,6 @@
             "artists" : [
                {
                   "anv" : "",
-                  "id" : 6959133,
-                  "join" : "",
-                  "name" : "Black Country, New Road",
-                  "resource_url" : "https://api.discogs.com/artists/6959133",
-                  "role" : "",
-                  "tracks" : ""
-               }
-            ],
-            "cover_image" : "https://i.discogs.com/XrJMb22Gce2MBLYOllKIPCAx5soAvS8-my1Gqh11134/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA5/MDk0LTE2MzA3NDkx/NTItMzc5OS5qcGVn.jpeg",
-            "formats" : [
-               {
-                  "descriptions" : [
-                     "LP",
-                     "Album",
-                     "Limited Edition"
-                  ],
-                  "name" : "Vinyl",
-                  "qty" : "1",
-                  "text" : "Eco-Wax"
-               }
-            ],
-            "genres" : [
-               "Rock"
-            ],
-            "id" : 20109094,
-            "labels" : [
-               {
-                  "catno" : "ZEN269",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 109,
-                  "name" : "Ninja Tune",
-                  "resource_url" : "https://api.discogs.com/labels/109"
-               },
-               {
-                  "catno" : "ZEN269LR",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 109,
-                  "name" : "Ninja Tune",
-                  "resource_url" : "https://api.discogs.com/labels/109"
-               }
-            ],
-            "master_id" : 1947124,
-            "master_url" : "https://api.discogs.com/masters/1947124",
-            "resource_url" : "https://api.discogs.com/releases/20109094",
-            "styles" : [
-               "Experimental",
-               "Post-Punk"
-            ],
-            "thumb" : "https://i.discogs.com/dGfhVZHqhTx48IvUCZ2bH2rLO-5Vd6dwzF87Rw7awh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA5/MDk0LTE2MzA3NDkx/NTItMzc5OS5qcGVn.jpeg",
-            "title" : "For The First Time",
-            "year" : 2021
-         },
-         "date_added" : "2022-03-01T12:03:56-08:00",
-         "id" : 20109094,
-         "notes" : "",
-         "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/20109094"
-      },
-      {
-         "basic_information" : {
-            "artists" : [
-               {
-                  "anv" : "",
-                  "id" : 4751064,
-                  "join" : "",
-                  "name" : "Kevin Abstract",
-                  "resource_url" : "https://api.discogs.com/artists/4751064",
-                  "role" : "",
-                  "tracks" : ""
-               }
-            ],
-            "cover_image" : "https://i.discogs.com/bCsVyWn3Hhr9CVrS6KYA7mi3nefMPYB9YSDHeQ8SYiQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
-            "formats" : [
-               {
-                  "descriptions" : [
-                     "LP",
-                     "Album",
-                     "Limited Edition",
-                     "Unofficial Release"
-                  ],
-                  "name" : "Vinyl",
-                  "qty" : "1",
-                  "text" : "Red [Opaque]"
-               }
-            ],
-            "genres" : [
-               "Hip Hop",
-               "Funk / Soul",
-               "Pop"
-            ],
-            "id" : 18680005,
-            "labels" : [
-               {
-                  "catno" : "44648",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 1818,
-                  "name" : "Not On Label",
-                  "resource_url" : "https://api.discogs.com/labels/1818"
-               }
-            ],
-            "master_id" : 1283826,
-            "master_url" : "https://api.discogs.com/masters/1283826",
-            "resource_url" : "https://api.discogs.com/releases/18680005",
-            "styles" : [
-               "RnB/Swing",
-               "Contemporary R&B",
-               "Conscious"
-            ],
-            "thumb" : "https://i.discogs.com/83FWLvcRjn3UCtp-X_Z5RngsnFHq9rFapCCtS650KuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgw/MDA1LTE2MjA3MjY5/NTMtODI4OS5qcGVn.jpeg",
-            "title" : "American Boyfriend: A Suburban Love Story",
-            "year" : 2021
-         },
-         "date_added" : "2021-06-04T16:39:56-07:00",
-         "id" : 18680005,
-         "notes" : "",
-         "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/18680005"
-      },
-      {
-         "basic_information" : {
-            "artists" : [
-               {
-                  "anv" : "",
                   "id" : 4537149,
                   "join" : "",
                   "name" : "ミラクルミュージカル",
@@ -616,62 +490,6 @@
          "notes" : "",
          "rating" : 0,
          "resource_url" : "https://api.discogs.com/users/mattgra/wants/7529254"
-      },
-      {
-         "basic_information" : {
-            "artists" : [
-               {
-                  "anv" : "",
-                  "id" : 4751064,
-                  "join" : "",
-                  "name" : "Kevin Abstract",
-                  "resource_url" : "https://api.discogs.com/artists/4751064",
-                  "role" : "",
-                  "tracks" : ""
-               }
-            ],
-            "cover_image" : "https://i.discogs.com/sPnmTcxIwJ9Xn0Tr2Q21gcaqkxVxIBandN_WeFvlsSg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/OTA5LTE1ODI2NzYy/NTctODgyOS53ZWJw.jpeg",
-            "formats" : [
-               {
-                  "descriptions" : [
-                     "LP",
-                     "Album",
-                     "Unofficial Release"
-                  ],
-                  "name" : "Vinyl",
-                  "qty" : "1",
-                  "text" : "Blue"
-               }
-            ],
-            "genres" : [
-               "Hip Hop"
-            ],
-            "id" : 14844909,
-            "labels" : [
-               {
-                  "catno" : "36952",
-                  "entity_type" : "1",
-                  "entity_type_name" : "Label",
-                  "id" : 1731553,
-                  "name" : "Saturation Records",
-                  "resource_url" : "https://api.discogs.com/labels/1731553"
-               }
-            ],
-            "master_id" : 2074324,
-            "master_url" : "https://api.discogs.com/masters/2074324",
-            "resource_url" : "https://api.discogs.com/releases/14844909",
-            "styles" : [
-               "Pop Rap"
-            ],
-            "thumb" : "https://i.discogs.com/nHjjL_effzYhsXXN3mvzPeiZtKM3ZLF5HHJr8eEm1T0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODQ0/OTA5LTE1ODI2NzYy/NTctODgyOS53ZWJw.jpeg",
-            "title" : "ARIZONA BABY",
-            "year" : 2020
-         },
-         "date_added" : "2021-06-10T14:48:36-07:00",
-         "id" : 14844909,
-         "notes" : "",
-         "rating" : 0,
-         "resource_url" : "https://api.discogs.com/users/mattgra/wants/14844909"
       },
       {
          "basic_information" : {

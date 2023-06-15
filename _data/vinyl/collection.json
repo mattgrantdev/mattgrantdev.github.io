@@ -1,6 +1,6 @@
 {
    "pagination" : {
-      "items" : 17,
+      "items" : 19,
       "page" : 1,
       "pages" : 1,
       "per_page" : 50,
@@ -125,6 +125,63 @@
          "folder_id" : 3446116,
          "id" : 12569291,
          "instance_id" : 1101749282,
+         "rating" : 0
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 2013868,
+                  "join" : "",
+                  "name" : "Frank Ocean",
+                  "resource_url" : "https://api.discogs.com/artists/2013868",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://i.discogs.com/zMe1fzwVZTbfBimS0hONvRN8D0T5GgNXJ4lfxbIm8rI/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTAw/ODc3LTE2NzQ3Nzgy/MzgtMjgxMi5qcGVn.jpeg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album",
+                     "Reissue"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "2"
+               }
+            ],
+            "genres" : [
+               "Hip Hop",
+               "Funk / Soul",
+               "Pop"
+            ],
+            "id" : 25500877,
+            "labels" : [
+               {
+                  "catno" : "BLNDD002",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 1183793,
+                  "name" : "Blonded",
+                  "resource_url" : "https://api.discogs.com/labels/1183793"
+               }
+            ],
+            "master_id" : 1046042,
+            "master_url" : "https://api.discogs.com/masters/1046042",
+            "resource_url" : "https://api.discogs.com/releases/25500877",
+            "styles" : [
+               "Contemporary R&B"
+            ],
+            "thumb" : "https://i.discogs.com/hVyL6xRararOpLFnJLceQrUrojtUCuPqQJjUywnRavA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTAw/ODc3LTE2NzQ3Nzgy/MzgtMjgxMi5qcGVn.jpeg",
+            "title" : "Blonde",
+            "year" : 2022
+         },
+         "date_added" : "2023-06-15T13:33:04-07:00",
+         "folder_id" : 1,
+         "id" : 25500877,
+         "instance_id" : 1382022561,
          "rating" : 0
       },
       {
@@ -797,6 +854,71 @@
          "folder_id" : 3446116,
          "id" : 21979144,
          "instance_id" : 1008016481,
+         "rating" : 0
+      },
+      {
+         "basic_information" : {
+            "artists" : [
+               {
+                  "anv" : "",
+                  "id" : 6959133,
+                  "join" : "",
+                  "name" : "Black Country, New Road",
+                  "resource_url" : "https://api.discogs.com/artists/6959133",
+                  "role" : "",
+                  "tracks" : ""
+               }
+            ],
+            "cover_image" : "https://i.discogs.com/XrJMb22Gce2MBLYOllKIPCAx5soAvS8-my1Gqh11134/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA5/MDk0LTE2MzA3NDkx/NTItMzc5OS5qcGVn.jpeg",
+            "formats" : [
+               {
+                  "descriptions" : [
+                     "LP",
+                     "Album",
+                     "Limited Edition"
+                  ],
+                  "name" : "Vinyl",
+                  "qty" : "1",
+                  "text" : "Eco-Wax"
+               }
+            ],
+            "genres" : [
+               "Rock"
+            ],
+            "id" : 20109094,
+            "labels" : [
+               {
+                  "catno" : "ZEN269",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 109,
+                  "name" : "Ninja Tune",
+                  "resource_url" : "https://api.discogs.com/labels/109"
+               },
+               {
+                  "catno" : "ZEN269LR",
+                  "entity_type" : "1",
+                  "entity_type_name" : "Label",
+                  "id" : 109,
+                  "name" : "Ninja Tune",
+                  "resource_url" : "https://api.discogs.com/labels/109"
+               }
+            ],
+            "master_id" : 1947124,
+            "master_url" : "https://api.discogs.com/masters/1947124",
+            "resource_url" : "https://api.discogs.com/releases/20109094",
+            "styles" : [
+               "Experimental",
+               "Post-Punk"
+            ],
+            "thumb" : "https://i.discogs.com/dGfhVZHqhTx48IvUCZ2bH2rLO-5Vd6dwzF87Rw7awh4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTA5/MDk0LTE2MzA3NDkx/NTItMzc5OS5qcGVn.jpeg",
+            "title" : "For The First Time",
+            "year" : 2021
+         },
+         "date_added" : "2023-06-15T13:33:27-07:00",
+         "folder_id" : 1,
+         "id" : 20109094,
+         "instance_id" : 1382022807,
          "rating" : 0
       },
       {
