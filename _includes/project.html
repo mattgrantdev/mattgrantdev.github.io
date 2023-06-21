@@ -1,0 +1,47 @@
+<div class="personal-project-card">
+<!--
+"title": "Goldify",
+    "imgName": "goldify_logo.png",
+    "url": "https://www.goldify.app",
+    "githubUrl": "https://github.com/goldify",
+    "startDate": "2020-11-01",
+    "descript-->
+
+    {% if include.project.githubUrl %}
+        <div class="personal-project-logo-container">
+            <a
+                    href="{{include.project.url}}"
+                    target="_blank"
+            >
+                <img
+                        alt="{{include.project.title}} - Logo"
+                        src="{{site.baseurl}}/assets/img/{{include.project.imgName}}"
+                        class="personal-project-img"
+                />
+            </a>
+            <a
+                    href="{{include.project.githubUrl}}"
+                    target="_blank"
+            >
+                <img
+                        alt="{{include.project.title}} - GitHub"
+                        src="{{site.baseurl}}/assets/img/github_black.png"
+                        class="github-project-img"
+                />
+            </a>
+        </div>
+    {% endif %}
+    <h1 class="personal-project-title">{{include.project.title}}</h1>
+    <p class="personal-project-contents">
+        <b>Start Date</b>: {{include.project.startDate}}
+        <hr />
+        {{include.project.description}}
+    </p>
+    {% if include.project.demoGif %}
+        <img
+            alt="{{include.project.title}} - Demo"
+            src="{{site.baseurl}}/assets/gif/{{include.project.demoGif}}"
+            class="personal-project-gif"
+        />
+    {% endif %}
+</div>

@@ -5,17 +5,17 @@ description: >-
 
 baseurl: "https://mattgrant.dev/"
 urls:
-    - text: About Me
+    - text: About
       url: /about
     - text: Vinyl
       url: /vinyl
-    - text: Personal Projects
-      url: /personal-projects
-    - text: PS Trophies
-      url: /ps-trophies
-    - text: Gallery
-      url: /gallery
-    - text: Contact Me
+    - text: Projects
+      url: /projects
+    - text: Trophies
+      url: /trophies
+    - text: Places
+      url: /places
+    - text: Contact
       url : /contact
 
 markdown: kramdown

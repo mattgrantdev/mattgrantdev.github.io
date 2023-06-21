@@ -1,0 +1,6 @@
+{% assign games = site.data.trophies.games | sort: "gameName" %}
+{% for game in games %}
+    {% if game.earnedCounts.platinum > 0 && game.gameDetails %}
+        {% include trophy_item.html data=game %}
+    {% endif %}
+{% endfor %}
