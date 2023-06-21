@@ -1,0 +1,20 @@
+<div class="game-card">
+    <h1 class="game-title">
+        {{include.data.gameName}}
+    </h1>
+    <img
+            alt="Art for {{include.data.gameName}}"
+            class="game-img"
+            src="{{include.data.gameDetails.gameImageUrl}}"
+    />
+    {% assign earnedTrophies = include.data.trophyList | where_exp:"item", "item.isEarned" %}
+    {% assign platinumTrophies = earnedTrophies | where_exp:"item", "item.type == 'platinum'" %}
+    {% assign goldTrophies = earnedTrophies | where_exp:"item", "item.type == 'gold'" %}
+    {% assign silverTrophies = earnedTrophies | where_exp:"item", "item.type == 'silver'" %}
+    {% assign bronzeTrophies = earnedTrophies | where_exp:"item", "item.type == 'bronze'" %}
+
+    {% include trophy_icons.html trophies=platinumTrophies imgName="plat.png" %}
+    {% include trophy_icons.html trophies=goldTrophies imgName="gold.png" %}
+    {% include trophy_icons.html trophies=silverTrophies imgName="silver.png" %}
+    {% include trophy_icons.html trophies=bronzeTrophies imgName="bronze.png" %}
+</div>

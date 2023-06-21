@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Goldify",
+    "imgName": "goldify_logo.png",
+    "demoGif": "goldify_demo.gif",
+    "url": "https://www.goldify.app",
+    "githubUrl": "https://github.com/Goldify",
+    "startDate": "2020-11-01",
+    "description": "A Spotify API based React application which allows users to efficiently create the perfect personal Spotify playlist! This project maintains 100% test coverage, uses Material UI standards, and is built as a responsive application."
+  },
+  {
+    "title": "Album A Day",
+    "imgName": "album_a_day_logo.png",
+    "demoGif": "album_a_day_demo.gif",
+    "githubUrl": "https://github.com/albumaday",
+    "url": "https://github.com/albumaday/aad-bot",
+    "startDate": "2023-01-02",
+    "description": "Microservice architecture involving Spring Boot SDK server, Spring Boot Discord Bot client, and React based web app client. Equipped with command listeners and scheduled tasks to always have review data fresh and available. Configured for local and staging environments to allow for multiple stages of testing & QA prior to releasing"
+  },
+  {
+    "title": "Find Your Landlord",
+    "imgName": "housing_rights.png",
+    "demoGif": "find_your_landlord_demo.gif",
+    "startDate": "2021-05-24",
+    "description": "Housing is a human right! This web application helps easily visualize the landscape of landlords in the specified area, and aims to make information about landlords more accessible to tenants in defense of tenants rights. Note: data is hidden as this is an ongoing project."
+  },
+  {
+    "title": "My Personal Website",
+    "imgName": "matt_pic.png",
+    "githubUrl": "https://github.com/MattGrantUMich/mattgrant.dev",
+    "url": "https://mattgrant.dev",
+    "startDate": "2020-10-20",
+    "description": "This very website has seen many additions over the past few months and will continue to be developed on. My goal is of course to build an easy-to-navigate source for the minutia of my life. I think it's not bad so far!"
+  }
+]

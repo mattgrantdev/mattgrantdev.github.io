@@ -3,7 +3,11 @@
         window.wanderlogEmbedKeys=window.wanderlogEmbedKeys||[];
         window.wanderlogEmbedKeys.push('wnhmdoiids');
 
-        window.wanderlogEmbedOptions={"alwaysShowRouteLines":true,"version":2};
+        window.wanderlogEmbedOptions={
+            "alwaysShowRouteLines":true,
+            "version":3,
+            "omitWanderlogLogo":true
+        };
         !function(){
             var c=document.querySelectorAll("script"),r=!1;
             if(c.forEach((function(c){"https://wanderlog.com/embed.js"===c.src&&(r=!0)})),!r) {

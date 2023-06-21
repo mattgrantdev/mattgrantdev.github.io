@@ -1,0 +1,4 @@
+{% assign personal_projects = site.data.projects.personal-projects %}
+{% for personal_project in personal_projects %}
+    {% include project.html project=personal_project %}
+{% endfor %}
