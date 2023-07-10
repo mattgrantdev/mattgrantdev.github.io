@@ -94,7 +94,8 @@
                      "LP",
                      "Single Sided",
                      "Album",
-                     "Etched"
+                     "Etched",
+                     "Remastered"
                   ],
                   "name" : "Vinyl",
                   "qty" : "2"
@@ -112,16 +113,17 @@
                   "catno" : "602557139785",
                   "entity_type" : "1",
                   "entity_type_name" : "Label",
-                  "id" : 1054779,
-                  "name" : "Boys Don't Cry",
-                  "resource_url" : "https://api.discogs.com/labels/1054779"
+                  "id" : 1183793,
+                  "name" : "Blonded",
+                  "resource_url" : "https://api.discogs.com/labels/1183793"
                }
             ],
             "master_id" : 1077026,
             "master_url" : "https://api.discogs.com/masters/1077026",
             "resource_url" : "https://api.discogs.com/releases/11202661",
             "styles" : [
-               "Contemporary R&B"
+               "Contemporary R&B",
+               "Experimental"
             ],
             "thumb" : "https://i.discogs.com/4DrxS2iP3Fmj5o0z-mS-WqH9wUZdxGcY2rWL7gfs-e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/NjYxLTE1MjM0MTQ4/NjItOTIzMi5qcGVn.jpeg",
             "title" : "Endless",
