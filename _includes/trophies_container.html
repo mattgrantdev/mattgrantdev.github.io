@@ -1,6 +1,6 @@
-{% assign games = site.data.trophies.games | sort: "gameName" %}
-{% for game in games %}
-    {% if game.earnedCounts.platinum > 0 && game.gameDetails %}
-        {% include trophy_item.html data=game %}
+{% assign psn_games = site.data.trophies.psn_games | sort: "gameName" %}
+{% for psn_game in psn_games %}
+    {% if psn_game.earnedCounts.platinum > 0 && psn_game.gameDetails %}
+        {% include trophy_item.html data=psn_game %}
     {% endif %}
 {% endfor %}
