@@ -146,7 +146,8 @@
                   "descriptions" : [
                      "LP",
                      "Album",
-                     "Reissue"
+                     "Reissue",
+                     "Stereo"
                   ],
                   "name" : "Vinyl",
                   "qty" : "2"
@@ -822,7 +823,7 @@
                   ],
                   "name" : "Vinyl",
                   "qty" : "2",
-                  "text" : "Bronze Marbled, 140g"
+                  "text" : "Bronze Marble"
                }
             ],
             "genres" : [

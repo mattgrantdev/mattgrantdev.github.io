@@ -87,7 +87,7 @@
                   "tracks" : ""
                }
             ],
-            "cover_image" : "https://i.discogs.com/XMzeAaA5a3sHZJjMbbEoFwkQfvqLQNJMYlI7hCNqrwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/NjYxLTE1MjM0MTQ4/NjItOTIzMi5qcGVn.jpeg",
+            "cover_image" : "https://i.discogs.com/Ba9w3_j_q7zRWFad1A7bKES-d8P-USRzZuxiQcFeJ_0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/NjYxLTE3MDgwMzU3/NDgtNDM3MS5qcGVn.jpeg",
             "formats" : [
                {
                   "descriptions" : [
@@ -125,7 +125,7 @@
                "Contemporary R&B",
                "Experimental"
             ],
-            "thumb" : "https://i.discogs.com/4DrxS2iP3Fmj5o0z-mS-WqH9wUZdxGcY2rWL7gfs-e4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/NjYxLTE1MjM0MTQ4/NjItOTIzMi5qcGVn.jpeg",
+            "thumb" : "https://i.discogs.com/_J2WYDFsX4JVBi6mtUlNOtnhIKmpj7rHbQNyQ0G1MBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAy/NjYxLTE3MDgwMzU3/NDgtNDM3MS5qcGVn.jpeg",
             "title" : "Endless",
             "year" : 2018
          },
@@ -395,8 +395,10 @@
                }
             ],
             "genres" : [
+               "Electronic",
                "Rock",
-               "Pop"
+               "Pop",
+               "Folk, World, & Country"
             ],
             "id" : 3059678,
             "labels" : [
@@ -414,7 +416,10 @@
             "resource_url" : "https://api.discogs.com/releases/3059678",
             "styles" : [
                "Alternative Rock",
-               "Pop Rock"
+               "Pop Rock",
+               "Psychedelic Rock",
+               "Indie Pop",
+               "Folk Rock"
             ],
             "thumb" : "https://i.discogs.com/2m5S8ILYlHZ0M3TnHJnSyGOY9NVsyXYp4EUkGtyVUJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTk2/NzgtMTY0MDgxNTQ4/NS00MDc5LmpwZWc.jpeg",
             "title" : "Good & Evil",
